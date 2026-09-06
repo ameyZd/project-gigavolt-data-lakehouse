@@ -1,1 +1,1 @@
-<img width="1040" height="912" alt="Gigavolt_Milestone_1 (Silver)" src="https://github.com/user-attachments/assets/f50c4567-fb1e-45e5-8e50-73c5e51e23a0" />
+<img width="729" height="632" alt="Screenshot 2026-09-06 at 11 35 14 AM" src="https://github.com/user-attachments/assets/9989e721-3827-4b43-a40c-28bd20def0dc" />

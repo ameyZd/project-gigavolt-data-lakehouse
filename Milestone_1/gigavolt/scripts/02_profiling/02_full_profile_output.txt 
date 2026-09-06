@@ -1,0 +1,64 @@
+
+========================================================================
+TABLE: customers | SOURCE FILE: customers.csv
+Raw row count: 525
+------------------------------------------------------------------------
+Duplicate customer_id groups: 25
+Extra duplicate rows: 25
+company_name: missing=0, html=58, whitespace=0, encoding_flags=0
+contact_name: missing=0, html=0, whitespace=79, encoding_flags=0
+phone: missing=0, html=0, whitespace=69, encoding_flags=0
+address: missing=0, html=53, whitespace=0, encoding_flags=0
+country: missing=144, html=0, whitespace=0, encoding_flags=0
+created_date date formats: {'MM-DD-YYYY': 94, 'MM/DD/YYYY': 178, 'ISO timestamp': 101, 'YYYY/MM/DD': 84, 'YYYY-MM-DD': 68}
+status values: {'Active': 127, 'inactive': 127, 'active': 132, 'Inactive': 137, 'Pending': 2}
+
+========================================================================
+TABLE: equipment | SOURCE FILE: equipment.csv
+Raw row count: 2575
+------------------------------------------------------------------------
+Duplicate equipment_id groups: 72
+Extra duplicate rows: 75
+serial_number: missing=71, html=0, whitespace=0, encoding_flags=0
+install_date date formats: {'YYYY/MM/DD': 438, 'ISO timestamp': 446, 'YYYY-MM-DD': 446, 'MM-DD-YYYY': 423, 'MM/DD/YYYY': 822}
+warranty_expiration date formats: {'MM/DD/YYYY': 864, 'ISO timestamp': 423, 'YYYY/MM/DD': 424, 'YYYY-MM-DD': 434, 'MM-DD-YYYY': 430}
+status values: {'In Service': 434, 'IN SERVICE': 430, 'Standby': 410, 'Maintenance': 449, 'decommissioned': 20, 'Decommissioned': 420, 'in service': 412}
+location_notes: missing=210, html=286, whitespace=8, encoding_flags=0
+
+========================================================================
+TABLE: dispatches | SOURCE FILE: dispatches.csv
+Raw row count: 5000
+------------------------------------------------------------------------
+Duplicate dispatch_id groups: 0
+Extra duplicate rows: 0
+dispatch_date date formats: {'MM-DD-YYYY': 831, 'YYYY-MM-DD': 848, 'MM/DD/YYYY': 1609, 'YYYY/MM/DD': 855, 'ISO timestamp': 857}
+technician: missing=195, html=0, whitespace=712, encoding_flags=0
+labor_cost values containing $: 179
+resolution_summary: missing=0, html=597, whitespace=0, encoding_flags=0
+status values: {'Pending': 874, 'COMPLETED': 807, 'Cancelled': 824, 'Completed': 833, 'completed': 842, 'In Progress': 820}
+
+========================================================================
+TABLE: parts | SOURCE FILE: parts.csv
+Raw row count: 150
+------------------------------------------------------------------------
+Duplicate part_id groups: 0
+Extra duplicate rows: 0
+part_name: missing=0, html=0, whitespace=17, encoding_flags=0
+unit_cost values containing $: 0
+unit_price values containing $: 0
+
+========================================================================
+TABLE: warranty_claims | SOURCE FILE: warranty_claims.csv
+Raw row count: 1248
+------------------------------------------------------------------------
+Duplicate claim_id groups: 46
+Extra duplicate rows: 48
+dispatch_id: missing=246, html=0, whitespace=0, encoding_flags=0
+part_id: missing=361, html=0, whitespace=0, encoding_flags=0
+claim_date date formats: {'YYYY/MM/DD': 196, 'MM/DD/YYYY': 425, 'YYYY-MM-DD': 196, 'ISO timestamp': 215, 'MM-DD-YYYY': 216}
+claim_amount values containing $: 0
+approved_amount: missing=491, html=0, whitespace=0, encoding_flags=0
+approved_amount values containing $: 0
+status values: {'Approved': 248, 'APPROVED': 247, 'Pending': 260, 'Rejected': 241, 'Under Review': 252}
+denial_reason: missing=879, html=154, whitespace=0, encoding_flags=0
+claim_notes: missing=0, html=0, whitespace=165, encoding_flags=0

@@ -1,0 +1,151 @@
+part_id,part_name,category,manufacturer,supplier,unit_cost,unit_price,stock_quantity,reorder_level
+PRT-2001,Solid-State Circuit Breaker Model-C,Core Components,PowerCable Co,Supplier-A,134.3,194.36,292,43
+PRT-2002,Fusing Unit 200A Model-PRO,Components,ThermalTech,Supplier-D,647.77,1185.23,10,40
+PRT-2003,Thermal Paste 50g Model-PRO,Consumables,DisplayTech,Supplier-C,1200.52,1589.42,81,16
+PRT-2004,High-Voltage Relay Model-B,Components,VoltageReg Systems,Supplier-A,1202.26,2138.9,208,47
+PRT-2005,BMS Control Board Model-B,Electronics,ThermalTech,Supplier-E,1002.47,2126.7,251,35
+PRT-2006,Cooling Fan 120V Model-A,Components,Gigavolt,Supplier-B,169.34,316.61,9,20
+PRT-2007,Solid Lithium Cell Array Model-MAX,Core Components,PowerElec,Supplier-C,1010.91,1342.68,342,38
+PRT-2008,Cooling Fan 120V Model-MAX,Components,DisplayTech,Supplier-D,116.18,205.73,339,46
+PRT-2009,Lithium Cell Module 48V Model-A,Core Components,DisplayTech,Supplier-C,246.57,329.49,198,18
+PRT-2010,High-Temp Gasket Seal Model-C,Consumables,ThermalTech,Supplier-A,469.72,770.61,65,32
+PRT-2011,Current Transformer Sensor Model-A,Electronics,BatteryCore Inc,Supplier-D,812.69,1108.58,257,42
+PRT-2012,Thermal Paste 50g Model-C,Consumables,Gigavolt,Supplier-E,48.47,88.83,34,18
+PRT-2013,BMS Control Board Model-B,Electronics,DisplayTech,Supplier-C,439.68,593.58,280,12
+PRT-2014,Thermal Paste 50g Model-C,Consumables,SafeSwitch,Supplier-C,505.38,696.3,316,13
+PRT-2015,CAN-Bus Transceiver Model-MAX,Electronics,SmartBMS Inc,Supplier-D,668.81,1036.58,206,24
+PRT-2016,Fusing Unit 200A Model-PRO,Components,SmartBMS Inc,Supplier-C,1124.62,2261.03,333,39
+PRT-2017,   Cooling Fan 120V Model-C,Components,VoltageReg Systems,Supplier-B,104.67,220.82,99,17
+PRT-2018,DC Contactor 400A Model-B,Components,PowerElec,Supplier-A,689.51,1029.0,324,23
+PRT-2019,Voltage Regulator Mod Model-MAX,Electronics,SafeSwitch,Supplier-C,1141.06,1808.77,335,13
+PRT-2020,Fusing Unit 200A Model-PRO,Components,DisplayTech,Supplier-B,1250.06,2243.39,292,22
+PRT-2021,Thermal Sensor Module Model-A,Components,PowerElec,Supplier-E,993.23,2028.59,14,23
+PRT-2022,Power Transformer 500kVA Model-B,Core Components,SafeSwitch,Supplier-A,141.71,264.22,308,10
+PRT-2023,Power Transformer 500kVA Model-PRO,Core Components,DisplayTech,Supplier-D,930.27,1459.89,197,20
+PRT-2024,Lithium Cell Module 48V Model-MAX,Core Components,Gigavolt,Supplier-A,17.77,24.01,316,47
+PRT-2025,BMS Control Board Model-MAX,Electronics,ThermalTech,Supplier-A,480.7,913.38,77,19
+PRT-2026,Cooling Liquid 5L Model-C,Consumables,BatteryCore Inc,Supplier-C,662.32,1306.4,259,13
+PRT-2027,High-Temp Gasket Seal Model-PRO,Consumables,AirFlow Systems,Supplier-C,1341.24,2189.88,36,21
+PRT-2028,   Solid-State Circuit Breaker Model-B,Core Components,BatteryCore Inc,Supplier-A,652.56,1382.74,87,13
+PRT-2029,High-Temp Gasket Seal Model-C,Consumables,PowerCable Co,Supplier-D,1034.16,1857.05,249,48
+PRT-2030,Voltage Regulator Mod Model-C,Electronics,SafeSwitch,Supplier-B,1182.56,2272.52,44,15
+PRT-2031,CAN-Bus Transceiver Model-MAX,Electronics,Gigavolt,Supplier-C,22.82,39.43,146,50
+PRT-2032,Power Transformer 500kVA Model-A,Core Components,VoltageReg Systems,Supplier-D,917.03,1466.91,241,30
+PRT-2033,Voltage Regulator Mod Model-PRO,Electronics,PowerCable Co,Supplier-A,69.55,127.92,185,44
+PRT-2034,Cooling Fan 120V Model-C,Components,PowerElec,Supplier-E,800.72,1516.51,296,22
+PRT-2035,Dielectric Grease Model-C,Consumables,VoltageReg Systems,Supplier-E,1071.06,1541.19,347,41
+PRT-2036,High-Temp Gasket Seal Model-PRO,Consumables,VoltageReg Systems,Supplier-B,429.37,618.99,107,35
+PRT-2037,Digital Logic Controller Model-MAX,Electronics,SmartBMS Inc,Supplier-B,330.44,470.21,196,14
+PRT-2038,Solid Lithium Cell Array Model-MAX,Core Components,PowerCable Co,Supplier-A,373.22,684.38,140,28
+PRT-2039,Power Transformer 500kVA Model-C,Core Components,SafeSwitch,Supplier-B,1420.16,2430.07,332,41
+PRT-2040,Cooling Fan 120V Model-MAX,Components,SafeSwitch,Supplier-A,838.11,1659.57,10,34
+PRT-2041,Lithium Cell Module 48V Model-B,Core Components,DisplayTech,Supplier-B,1169.67,2044.52,204,15
+PRT-2042,Cooling Liquid 5L Model-MAX,Consumables,ThermalTech,Supplier-D,882.57,1761.45,296,45
+PRT-2043,DC Contactor 400A Model-MAX,Components,Gigavolt,Supplier-D,1002.28,1937.56,325,37
+PRT-2044,Busbar Connector Copper Model-A,Components,PowerCable Co,Supplier-B,1317.97,2406.99,228,15
+PRT-2045,Thermal Paste 50g Model-B,Consumables,Gigavolt,Supplier-A,397.64,631.41,346,10
+PRT-2046,Insulation Foam Wrap Model-C,Consumables,VoltageReg Systems,Supplier-E,1350.53,1913.32,274,46
+PRT-2047,Cooling Fan 120V Model-C,Components,ThermalTech,Supplier-C,519.72,816.67,338,17
+PRT-2048,Cooling Fan 120V Model-PRO,Components,SmartBMS Inc,Supplier-D,1278.77,2431.26,291,11
+PRT-2049,CAN-Bus Transceiver Model-C,Electronics,ThermalTech,Supplier-D,507.89,670.96,220,33
+PRT-2050,CAN-Bus Transceiver Model-C,Electronics,ThermalTech,Supplier-C,1377.94,1953.53,71,16
+PRT-2051,DC Contactor 400A Model-MAX,Components,VoltageReg Systems,Supplier-A,1160.83,2244.96,215,16
+PRT-2052,Power Transformer 500kVA Model-PRO,Core Components,DisplayTech,Supplier-A,235.08,484.12,307,12
+PRT-2053,Lithium Cell Module 48V Model-A  ,Core Components,AirFlow Systems,Supplier-E,1282.18,2578.3,326,42
+PRT-2054,Fusing Unit 200A Model-MAX,Components,SafeSwitch,Supplier-A,1338.55,1806.81,57,46
+PRT-2055,Fusing Unit 200A Model-B,Components,DisplayTech,Supplier-A,1287.28,2189.22,197,37
+PRT-2056,Dielectric Grease Model-B,Consumables,SmartBMS Inc,Supplier-B,1265.36,1681.03,307,38
+PRT-2057,Terminal Cleaner Spray Model-C,Consumables,SafeSwitch,Supplier-C,1034.21,1820.78,21,44
+PRT-2058,Main Inverter Assembly Model-PRO,Core Components,ThermalTech,Supplier-B,1372.22,2303.1,52,21
+PRT-2059,Thermal Sensor Module Model-MAX,Components,PowerElec,Supplier-B,549.83,843.7,308,24
+PRT-2060,Solid-State Circuit Breaker Model-PRO,Core Components,PowerElec,Supplier-E,785.36,1354.82,67,37
+PRT-2061,   High-Temp Gasket Seal Model-PRO,Consumables,ThermalTech,Supplier-C,181.48,336.48,113,29
+PRT-2062,Terminal Cleaner Spray Model-PRO,Consumables,AirFlow Systems,Supplier-E,1004.08,1832.37,271,29
+PRT-2063,BMS Control Board Model-MAX,Electronics,DisplayTech,Supplier-D,347.54,592.0,329,16
+PRT-2064,Thermal Paste 50g Model-B,Consumables,PowerElec,Supplier-E,836.15,1492.54,6,41
+PRT-2065,BMS Control Board Model-MAX,Electronics,DisplayTech,Supplier-A,46.56,100.1,331,28
+PRT-2066,BMS Control Board Model-MAX,Electronics,VoltageReg Systems,Supplier-A,699.45,1499.28,123,14
+PRT-2067,Power Transformer 500kVA Model-PRO,Core Components,AirFlow Systems,Supplier-D,1071.65,1924.84,278,38
+PRT-2068,Terminal Cleaner Spray Model-A,Consumables,BatteryCore Inc,Supplier-B,1352.81,2700.15,149,46
+PRT-2069,Solid-State   Circuit   Breaker   Model-PRO,Core Components,SafeSwitch,Supplier-B,353.96,587.98,124,11
+PRT-2070,CAN-Bus Transceiver Model-B,Electronics,SmartBMS Inc,Supplier-D,1085.5,1864.93,338,34
+PRT-2071,BMS Control Board Model-A  ,Electronics,PowerCable Co,Supplier-B,950.25,1292.86,141,42
+PRT-2072,Cooling Liquid 5L Model-MAX,Consumables,Gigavolt,Supplier-B,266.84,555.45,36,41
+PRT-2073,Terminal Cleaner Spray Model-C,Consumables,AirFlow Systems,Supplier-B,130.3,285.55,1,31
+PRT-2074,   Power Transformer 500kVA Model-C,Core Components,SafeSwitch,Supplier-C,36.2,48.84,279,34
+PRT-2075,Insulation Foam Wrap Model-B,Consumables,SafeSwitch,Supplier-C,1320.12,2112.57,234,40
+PRT-2076,High-Temp Gasket Seal Model-C,Consumables,SmartBMS Inc,Supplier-E,586.27,1189.4,162,30
+PRT-2077,Busbar Connector Copper Model-A,Components,SafeSwitch,Supplier-E,812.76,1413.48,124,24
+PRT-2078,Digital Logic Controller Model-PRO,Electronics,SafeSwitch,Supplier-C,838.24,1791.77,262,44
+PRT-2079,DisplayTech LCD Unit Model-C,Electronics,SmartBMS Inc,Supplier-A,360.67,689.4,193,11
+PRT-2080,   Voltage Regulator Mod Model-C,Electronics,AirFlow Systems,Supplier-E,225.77,305.31,163,35
+PRT-2081,Voltage Regulator Mod Model-PRO,Electronics,AirFlow Systems,Supplier-D,1338.73,2284.66,265,21
+PRT-2082,DC Contactor 400A Model-PRO,Components,SmartBMS Inc,Supplier-A,683.36,1392.42,211,32
+PRT-2083,Current Transformer Sensor Model-A,Electronics,PowerElec,Supplier-E,1411.61,2505.57,259,38
+PRT-2084,Thermal Paste 50g Model-A,Consumables,Gigavolt,Supplier-B,305.32,619.44,146,15
+PRT-2085,Fusing Unit 200A Model-C,Components,PowerElec,Supplier-C,519.44,882.2,181,16
+PRT-2086,  DC Contactor 400A Model-A  ,Components,PowerElec,Supplier-B,793.69,1199.53,247,48
+PRT-2087,Lithium Cell Module 48V Model-MAX,Core Components,PowerElec,Supplier-D,1087.66,1846.37,261,28
+PRT-2088,Solid-State Circuit Breaker Model-MAX,Core Components,SmartBMS Inc,Supplier-A,1222.4,1934.06,211,39
+PRT-2089,BMS Control Board Model-A,Electronics,ThermalTech,Supplier-D,122.03,218.89,40,21
+PRT-2090,Lithium Cell Module 48V Model-PRO,Core Components,VoltageReg Systems,Supplier-C,530.08,852.85,336,27
+PRT-2091,DC Contactor 400A Model-C,Components,SmartBMS Inc,Supplier-B,214.54,310.84,340,11
+PRT-2092,Solid-State Circuit Breaker Model-C,Core Components,SmartBMS Inc,Supplier-D,968.79,1368.98,192,48
+PRT-2093,CAN-Bus Transceiver Model-B,Electronics,ThermalTech,Supplier-C,1143.31,2031.94,75,17
+PRT-2094,Thermal   Paste   50g   Model-A,Consumables,VoltageReg Systems,Supplier-D,1056.17,1570.56,90,10
+PRT-2095,Fusing Unit 200A Model-B,Components,BatteryCore Inc,Supplier-E,686.72,897.66,21,41
+PRT-2096,Thermal Paste 50g Model-B,Consumables,ThermalTech,Supplier-E,1240.48,2030.97,31,27
+PRT-2097,High-Temp Gasket Seal Model-PRO,Consumables,ThermalTech,Supplier-E,677.24,1291.19,46,44
+PRT-2098,Terminal Cleaner Spray Model-C,Consumables,SmartBMS Inc,Supplier-D,454.82,807.07,249,25
+PRT-2099,Busbar Connector Copper Model-C  ,Components,Gigavolt,Supplier-E,1218.75,2535.83,343,14
+PRT-2100,Fusing Unit 200A Model-B,Components,AirFlow Systems,Supplier-D,1159.87,1987.96,335,39
+PRT-2101,Cooling Fan 120V Model-B  ,Components,PowerElec,Supplier-C,733.2,1067.2,314,49
+PRT-2102,Solid-State Circuit Breaker Model-MAX,Core Components,DisplayTech,Supplier-B,250.06,388.34,213,11
+PRT-2103,Insulation Foam Wrap Model-MAX,Consumables,PowerElec,Supplier-A,817.64,1256.32,236,10
+PRT-2104,Voltage Regulator Mod Model-B,Electronics,SafeSwitch,Supplier-B,1179.07,2400.35,341,27
+PRT-2105,Voltage Regulator Mod Model-MAX,Electronics,PowerElec,Supplier-E,806.14,1189.45,38,33
+PRT-2106,High-Voltage Relay Model-PRO,Components,Gigavolt,Supplier-C,205.76,308.52,169,20
+PRT-2107,Busbar Connector Copper Model-MAX  ,Components,PowerCable Co,Supplier-B,230.72,313.38,262,31
+PRT-2108,DC Contactor 400A Model-MAX,Components,PowerElec,Supplier-E,799.68,1226.66,102,40
+PRT-2109,DisplayTech LCD Unit Model-B,Electronics,DisplayTech,Supplier-C,1351.74,2402.12,151,28
+PRT-2110,DisplayTech LCD Unit Model-MAX,Electronics,VoltageReg Systems,Supplier-D,150.22,237.31,0,25
+PRT-2111,Cooling Fan 120V Model-PRO,Components,AirFlow Systems,Supplier-A,83.0,139.65,271,48
+PRT-2112,BMS Control Board Model-PRO,Electronics,DisplayTech,Supplier-C,1284.07,2603.81,163,11
+PRT-2113,Solid-State Circuit Breaker Model-MAX,Core Components,SafeSwitch,Supplier-B,1116.43,1748.53,152,34
+PRT-2114,Cooling Liquid 5L Model-B,Consumables,AirFlow Systems,Supplier-C,1172.34,2427.03,329,20
+PRT-2115,Lithium Cell Module 48V Model-C,Core Components,DisplayTech,Supplier-D,1101.54,1942.12,339,19
+PRT-2116,Busbar Connector Copper Model-PRO,Components,DisplayTech,Supplier-C,315.55,465.77,100,10
+PRT-2117,DC Contactor 400A Model-C,Components,SmartBMS Inc,Supplier-D,402.72,809.72,315,17
+PRT-2118,Voltage Regulator Mod Model-C,Electronics,PowerCable Co,Supplier-C,686.31,1049.17,30,11
+PRT-2119,Dielectric Grease Model-A,Consumables,BatteryCore Inc,Supplier-C,556.32,1138.92,225,10
+PRT-2120,Lithium Cell Module 48V Model-PRO,Core Components,BatteryCore Inc,Supplier-E,835.25,1681.04,271,33
+PRT-2121,Fusing Unit 200A Model-B,Components,AirFlow Systems,Supplier-E,1320.45,2491.34,324,24
+PRT-2122,Insulation Foam Wrap Model-MAX,Consumables,ThermalTech,Supplier-A,388.41,563.06,105,44
+PRT-2123,   Digital Logic Controller Model-A,Electronics,PowerCable Co,Supplier-C,1264.08,2330.13,120,14
+PRT-2124,Current Transformer Sensor Model-PRO,Electronics,VoltageReg Systems,Supplier-B,1368.45,2375.06,122,29
+PRT-2125,Power Transformer 500kVA Model-PRO,Core Components,VoltageReg Systems,Supplier-A,1346.44,2710.3,134,41
+PRT-2126,Thermal Paste 50g Model-B,Consumables,PowerCable Co,Supplier-E,620.06,882.9,343,10
+PRT-2127,Fusing Unit 200A Model-A,Components,DisplayTech,Supplier-B,591.27,1198.69,94,23
+PRT-2128,Power Transformer 500kVA Model-PRO,Core Components,ThermalTech,Supplier-E,1362.92,2379.85,85,50
+PRT-2129,Solid Lithium Cell Array Model-C,Core Components,BatteryCore Inc,Supplier-C,276.24,516.93,123,43
+PRT-2130,   Busbar Connector Copper Model-C,Components,PowerCable Co,Supplier-D,976.47,1554.92,145,25
+PRT-2131,Digital Logic Controller Model-B,Electronics,PowerCable Co,Supplier-E,527.18,1039.16,187,16
+PRT-2132,Solid-State Circuit Breaker Model-B,Core Components,SmartBMS Inc,Supplier-E,334.11,496.34,246,31
+PRT-2133,Power Transformer 500kVA Model-C,Core Components,PowerElec,Supplier-C,134.5,185.6,89,48
+PRT-2134,High-Temp Gasket Seal Model-A,Consumables,PowerElec,Supplier-D,260.8,477.29,139,35
+PRT-2135,CAN-Bus Transceiver Model-C,Electronics,BatteryCore Inc,Supplier-D,1411.6,2634.4,124,27
+PRT-2136,DC Contactor 400A Model-B,Components,BatteryCore Inc,Supplier-E,1342.61,2699.82,279,17
+PRT-2137,Fusing Unit 200A Model-PRO,Components,SafeSwitch,Supplier-B,1286.87,1674.64,129,41
+PRT-2138,DisplayTech LCD Unit Model-A,Electronics,ThermalTech,Supplier-D,270.53,404.82,8,20
+PRT-2139,DC Contactor 400A Model-A,Components,ThermalTech,Supplier-B,644.45,1170.34,317,35
+PRT-2140,High-Voltage Relay Model-B,Components,AirFlow Systems,Supplier-C,450.76,838.44,190,47
+PRT-2141,Solid-State Circuit Breaker Model-PRO,Core Components,ThermalTech,Supplier-D,1204.46,1666.16,189,13
+PRT-2142,Insulation Foam Wrap Model-C,Consumables,AirFlow Systems,Supplier-A,1261.12,2197.29,129,33
+PRT-2143,   Lithium Cell Module 48V Model-A,Core Components,PowerCable Co,Supplier-E,157.21,255.0,260,49
+PRT-2144,Solid Lithium Cell Array Model-MAX,Core Components,Gigavolt,Supplier-D,72.87,150.45,302,16
+PRT-2145,Digital Logic Controller Model-C,Electronics,SmartBMS Inc,Supplier-D,372.86,515.09,9,45
+PRT-2146,Terminal Cleaner Spray Model-A,Consumables,Gigavolt,Supplier-B,631.74,917.44,193,36
+PRT-2147,Thermal Sensor Module Model-C,Components,Gigavolt,Supplier-B,832.02,1481.71,74,10
+PRT-2148,Cooling   Liquid   5L   Model-MAX,Consumables,SmartBMS Inc,Supplier-C,354.11,711.93,122,18
+PRT-2149,Cooling Liquid 5L Model-B,Consumables,SmartBMS Inc,Supplier-B,876.08,1722.86,122,36
+PRT-2150,Solid Lithium Cell Array Model-B,Core Components,DisplayTech,Supplier-A,1414.5,2347.5,132,18

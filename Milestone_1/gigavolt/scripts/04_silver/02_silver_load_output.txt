@@ -1,0 +1,6 @@
+table_name      row_count
+customers       500
+equipment_units 2500
+parts_inventory 150
+service_logs    4864
+warranty_claims 1171

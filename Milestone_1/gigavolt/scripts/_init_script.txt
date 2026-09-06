@@ -1,0 +1,84 @@
+#!/bin/bash
+set -euxo pipefail
+
+LOGFILE="/var/log/user-data.log"
+exec > >(tee -a "${LOGFILE}") 2>&1
+
+export DEBIAN_FRONTEND=noninteractive
+export NEEDRESTART_MODE=a
+
+echo "Starting setup: $(date)"
+
+# ==========================================
+# System update
+# ==========================================
+
+sudo apt-get update -y
+
+sudo apt-get upgrade -y \
+  -o Dpkg::Options::="--force-confdef" \
+  -o Dpkg::Options::="--force-confold"
+
+# ==========================================
+# Install required packages
+# ==========================================
+
+sudo apt-get install -y \
+  apt-transport-https \
+  curl \
+  wget \
+  unzip
+
+# ==========================================
+# MariaDB 12.3 Installation
+# ==========================================
+
+echo "Starting MariaDB 12.3 installation: $(date)"
+
+sudo mkdir -p /etc/apt/keyrings
+
+sudo curl -fsSL \
+  -o /etc/apt/keyrings/mariadb-keyring.asc \
+  'https://mariadb.org/mariadb_release_signing_key.pgp'
+
+sudo tee /etc/apt/sources.list.d/mariadb.sources > /dev/null << 'EOL'
+X-Repolib-Name: MariaDB
+Types: deb
+URIs: https://mirrors.accretive-networks.net/mariadb/repo/12.3/ubuntu
+Suites: resolute
+Components: main main/debug
+Signed-By: /etc/apt/keyrings/mariadb-keyring.asc
+EOL
+
+sudo apt-get update -y
+
+sudo apt-get install -y mariadb-server
+
+sudo systemctl enable --now mariadb
+
+echo "MariaDB version:"
+sudo mariadb --version
+
+echo "MariaDB service status:"
+sudo systemctl is-active mariadb
+
+# ==========================================
+# Download and extract dataset
+# ==========================================
+
+echo "Downloading Fall 2026 dataset: $(date)"
+
+sudo mkdir -p /opt/data/gigavolt/raw
+
+cd /opt/data/gigavolt/raw
+
+sudo wget -q --show-progress \
+  "https://622.gomillion.org/data/fall2026.zip" \
+  -O fall2026.zip
+
+sudo unzip -o fall2026.zip
+
+echo "Extracted files:"
+sudo find . -type f | sort
+
+echo "Setup complete: $(date)"

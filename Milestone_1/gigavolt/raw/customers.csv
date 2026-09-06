@@ -1,0 +1,526 @@
+customer_id,company_name,contact_name,phone,email,address,city,state,zip,country,created_date,status
+C-1386,IndustrialVolt,Anya Kamau,555 864 6686,anyakamau@industrialvolt.com,"Unit 200, 2969 Green Drive",Denver,CO,80259,US,05-08-2024,Active
+C-1379,PowerCore,Esteban Pham,(555)562-8120,esteban.p@powerre.com,8251 Enterprise Lane,Providence,RI,2966,USA,03-06-2023,Active
+C-1178,Battery Solutions,Hiroshi Green,(555)944-5677,hiroshigreen@battery.com,853 Power Lane,Austin,TX,78796,US,01/22/2023,Active
+C-1343,<b>Volt Corporation</b>,Robert   Adams,555-339-3393,robertadams@volt.com,8047 Factory Street,Chicago,IL,60641,US,10/25/2022,inactive
+C-1358,VoltTech,Ronald Mukherjee,(555) 654-5235,ronald.mukherjee@volttech.com,"Unit C, 7896 Manufacturing Street",Anchorage,AK,99512,United States,2022-04-26T00:00:00Z,active
+C-1344,Storage Industries Corp,  Hiroshi Park  ,(555)   695-7996,hiroshi.park@storage.com,1094 Manufacturing Street,San Francisco,CA,94180,USA,08/31/2022,inactive
+C-1032,TechPower,Dalia Takahashi,(555) 575-9560,dtakahashi@techpower.com,4920 Commerce Circle,Portland,OR,97294,United States,10-26-2023,Inactive
+C-1428,<div>IndustrialVolt</div>,Olga Suzuki,+1-555-248-2317,osuzuki@industrialvolt.com,<html>7642 Enterprise Lane</html>,Austin,TX,78754,US,2023/06/02,Inactive
+C-1346,Commercial Energy Corporation,Giovanni Tanaka,5554547216,giovanni.tanaka@mmercialenergy.com,<strong>9223 Energy Street</strong>,Newark,NJ,07155,US,12/27/2023,Active
+C-1146,Energy Systems,Dorothy Wilson,(555)998-6765,dorothywilson@energy.com,"Suite C, 9208 Tech Drive",Plano,TX,75011,USA,2022-05-30,active
+C-1289,MegaWatt,Carol Nasser,(555) 973-9942,cnasser@megawatt.com,6066 Corporate Drive,San Jose,CA,95188,,2021/05/28,Active
+C-1290,Dynamic TechVolt,Gregory Li,+1-555-366-7247,gregory.li@dynamictechvolt.com,"Unit 200, 1904 Enterprise Drive",Memphis,TN,38135,,2022-05-26T00:00:00Z,Active
+C-1494,Advanced EnergySecure Inc,  Kenji Doan  ,555 443 2999,kdoan@advancedenergysecure.com,9746 Factory Way,Fresno,CA,93759,USA,2023-10-07,inactive
+C-1042,EnergySecure,Michelle Zhou,(555)   651-7941,michelle.z@energysecure.com,<html><body>5546 Tech Parkway</body></html>,New Orleans,LA,70151,US,2022/07/03,inactive
+C-1354,TechVolt Corp,Arjun Gupta,(555)635-3226,arjun.g@techvolt.com,9673 Factory Circle,Minneapolis,MN,55472,,2022-01-28T00:00:00Z,active
+C-1036,Dynamic Power Industries,Carol Smith,(555)   542-6893,carolsmith@dynamicpower.com,4871 Energy Drive,Seattle,WA,98199,,07/24/2021,active
+C-1431,Battery Solutions LLC,Tendai Khoury,(555) 398-3947,tendai.k@battery.com,7139 Electric Street,Seattle,WA,98146,,2021-08-17,inactive
+C-1433,TechPower,Jacob Ward,(555)482-0064,jacobward@techpower.com,1105 Manufacturing Circle,Portland,OR,97224,United States,03/15/2023,Inactive
+C-1031,Industrial Volt Systems,Rohan Bhat,(555)760-5171,rohan.b@industrialvolt.com,"Suite F, 570 Factory Way",Atlanta,GA,30343,United States,2022/09/24,Inactive
+C-1020,Battery Corporation Inc,Valentina Rivera,555.433.7091,valentina.r@battery.com,5853 Manufacturing Circle,Raleigh,NC,27678,United States,2021-04-26,Active
+C-1513,Battery Corporation,Sunita Ali,(555)659-8911,sali@battery.com,8746 Energy Road,Boise,ID,83766,United States,09-03-2022,active
+C-1473,Strategic Grid Technologies,Simba Torres,5559539210,storres@strategicgrid.com,6417 Corporate Drive,Corpus Christi,TX,78481,United States,2021-08-01,inactive
+C-1200,SmartGrid,Viktor Smirnov,555 694 5929,viktor.smirnov@smartgrid.com,"Building 400, 7713 Manufacturing Parkway",Austin,TX,78794,US,02/03/2022,active
+C-1372,Premier SmartEnergy,Dennis Williams,555-634-2619,dwilliams@premiersmartenergy.com,3989 Manufacturing Parkway,Oakland,CA,94654,US,2022/04/15,active
+C-1405,VoltMax,Esteban Shah,5558831434,esteban.shah@voltmax.com,3392 Energy Boulevard,New York,NY,10043,,08-20-2023,Active
+C-1514,United TechPower Corp,Jack Robinson,555.495.2660,jack.r@unitedtechpower.com,8032 Electric Drive,Irvine,CA,92639,US,03-06-2024,active
+C-1497,<html><body>Energy Industries LLC</body></html>,  Lin Farah  ,+1-555-599-6441,lin.farah@energy.com,3976 Voltage Boulevard,Sacramento,CA,95863,USA,07/05/2021,Inactive
+C-1472,Energy Systems,Brandon Deshmukh,+1-555-893-4748,brandondeshmukh@energy.com,590 Voltage Boulevard,Oakland,CA,94633,United States,2022-07-16,Active
+C-1205,Strategic IndustrialVolt,Thomas Watson,(555)517-2666,thomas.watson@strategicindustrialvolt.com,1878 Battery Drive,Richmond,VA,23274,,2022-01-01T00:00:00Z,Active
+C-1133,<html><body>VoltTech Corp</body></html>,Dev Gonzalez,5558090031,devgonzalez@volttech.com,1594 Voltage Street,El Paso,TX,79926,US,01/28/2024,inactive
+C-1268,Grid Corporation,Valentina Chowdhury,+1-555-701-5063,valentina.chowdhury@grid.com,9077 Technology Road,San Jose,CA,95136,,08/09/2023,Inactive
+C-1362,Volt Systems,Ximena Kumar,(555) 578-9486,xkumar@volt.com,7712 Electric Lane,Cambridge,MA,2110,,2022-09-11T00:00:00Z,Inactive
+C-1154,Volt Systems,Stephanie Hassan,5559976163,shassan@volt.com,7417 Battery Lane,Minneapolis,MN,55418,United States,2022/08/08,Inactive
+C-1064,Storage Systems,Mark Gray,(555)565-4719,mgray@storage.com,6584 Corporate Way,Orlando,FL,32831,USA,01/10/2024,Active
+C-1349,Volt Corporation,   Sakura Li,5558603644,sakura.li@volt.com,<p>7125 Green Circle</p>,Honolulu,HI,96876,United States,04/30/2021,inactive
+C-1310,Battery Technologies LLC,Jamal King,555.856.3002,jamal.king@battery.com,9727 Innovation Boulevard,Houston,TX,77021,US,2022-09-20T00:00:00Z,Inactive
+C-1511,EcoVolt Corp,Sandra Kim,5552649699,sandra.kim@evolt.com,5437 Digital Way,Milwaukee,WI,53263,USA,2023/07/22,Inactive
+C-1224,CleanVolt,Ritu Hussein  ,555 647 7705,ritu.h@cleanvolt.com,7991 Tech Drive,Long Beach,CA,90849,United States,2023-06-23,Inactive
+C-1216,Power Corporation,Ignacio Sanchez,(555) 778-1517,isanchez@power.com,3552 Renewable Avenue,Grand Rapids,MI,49543,US,2024/03/28,Inactive
+C-1331,<div>Renewable Grid Technologies</div>,  Dmitriy Schmidt  ,5558096069,dmitriyschmidt@renewablegrid.com,"Building D, 3055 Green Boulevard",Grand Rapids,MI,49567,US,03/28/2023,inactive
+C-1517,Battery Solutions,Farid Petrov,555.694.5572,farid.petrov@battery.com,227 Digital Way,Denver,CO,80258,United States,08-16-2023,active
+C-1157,<html>BatteryPlus</html>,Timothy King,5552215886,timothy.king@batteryplus.com,4881 Power Road,Portland,OR,97260,,11/27/2023,Inactive
+C-1459,Prime Storage Systems,Gonzalo Cruz,555 831 8098,gonzalo.cruz@primestorage.com,3353 Solar Circle,Albuquerque,NM,87198,US,2023-08-12T00:00:00Z,Inactive
+C-1481,United Volt Industries,Kwame Zhang,555 362 6816,kwame.zhang@unitedvolt.com,6697 Technology Lane,Tucson,AZ,85776,,2021-10-10,Active
+C-1171,Technical EcoEnergy,Susan Ferrari,555 238 3513,susan.f@technicaleenergy.com,7569 Manufacturing Parkway,Baltimore,MD,21297,US,2023/01/31,inactive
+C-1115,<html>Global GreenPower</html>,Meera Malik,+1-555-532-7786,mmalik@globalgreenpower.com,4578 Smart Road,Las Vegas,NV,89158,,03-16-2022,inactive
+C-1442,Energy Solutions,James Rodriguez,5556257112,james.r@energy.com,816 Industrial Drive,Stamford,CT,06928,USA,03/20/2021,Active
+C-1458,Green PowerSafe Corporation,Bintu   Liu,5555971247,bliu@greenpowersafe.com,3565 Battery Circle,Columbus,OH,43232,USA,12/16/2021,Active
+C-1434,Strategic Grid Technologies Corporation,Astrid Mehta,(555)284-5250,astrid.mehta@strategicgrid.com,4233 Factory Way,Plano,TX,75022,USA,2024-04-04T00:00:00Z,active
+C-1385,Energy Industries,Francesca Perez,5556928239,francescaperez@energy.com,4612 Innovation Street,Long Beach,CA,90818,,07/19/2022,Inactive
+C-1314,PowerMax Corporation,Jamal Dumitrescu,(555)871-9142,jamal.d@powermax.com,7895 Electric Circle,Salt Lake City,UT,84145,US,2023-09-18,Active
+C-1374,Sustainable Power Industries,Michael Ramos,555.208.2980,michael.r@sustainablepower.com,"Building D, 591 Tech Avenue",Columbus,OH,43284,United States,05/29/2021,Active
+C-1198,PowerCore,Kareem Ahmed,+1-555-327-8381,kareem.a@powerre.com,7117 Technology Street,Tampa,FL,33638,,09-18-2022,Inactive
+C-1518,<p>Technical EnergyMax</p>,Vladimir Chen,+1-555-439-2910,vladimirchen@technicalenergymax.com,"Unit D, 5319 Technology Boulevard",Oakland,CA,94676,United States,05/21/2024,Inactive
+C-1141,<html><body>Battery Technologies</body></html>,Lars Kamau,(555)821-3155,lars.kamau@battery.com,5372 Commerce Circle,San Francisco,CA,94144,USA,2024-05-14,Inactive
+C-1033,Elite CleanEnergy Inc,Ronald Cox  ,(555)   819-5864,ronald.c@elitecleanenergy.com,9759 Manufacturing Lane,Raleigh,NC,27634,United States,2022-06-09T00:00:00Z,Inactive
+C-1366,Commercial SmartEnergy Inc,Dmitriy Hussein  ,555.532.2611,dmitriy.h@mmercialsmartenergy.com,"Suite 500, 9424 Manufacturing Road",Milwaukee,WI,53297,US,07-12-2021,active
+C-1239,CleanEnergy,Liam Okafor,(555) 359-7179,liam.o@cleanenergy.com,5998 Smart Road,Austin,TX,78714,United States,04-03-2021,active
+C-1253,<html>Prime Storage Solutions Corp</html>,Milan Lopez  ,555 849 0073,milanlopez@primestorage.com,2827 Green Lane,San Antonio,TX,78298,US,2023-10-06,inactive
+C-1256,IndustrialVolt,   Karen Nair,(555) 703-4021,karen.nair@industrialvolt.com,9067 Business Parkway,Buffalo,NY,14216,US,12-29-2021,Active
+C-1185,BatteryMax Corp,  Lindiwe Brown  ,555.638.4976,lbrown@batterymax.com,6340 Industrial Street,New York,NY,10044,US,10-08-2022,Inactive
+C-1211,Sustainable BatterySafe,Eun-Ji Brown,555.818.1779,ebrown@sustainablebatterysafe.com,<strong>9104 Corporate Parkway</strong>,Los Angeles,CA,90054,United States,2022-06-07,active
+C-1325,Smart SmartGrid,Sandra Ramirez,(555)657-8041,sandraramirez@smartsmartgrid.com,4136 Business Boulevard,St. Louis,MO,63157,United States,04/13/2021,Active
+C-1409,PowerSafe Inc,Dalia Roberts,(555) 929-6903,dalia.roberts@powersafe.com,8258 Power Lane,Las Vegas,NV,89169,US,08/31/2023,Active
+C-1436,Smart Energy Systems,   Malik Pereira,+1-555-909-7500,malik.p@smartenergy.com,"Building 400, 7447 Voltage Circle",New Orleans,LA,70174,USA,02/05/2022,Inactive
+C-1508,IndustrialVolt,Samira Shah,555 845 0943,samira.shah@industrialvolt.com,"Suite E, 6347 Smart Drive",Atlanta,GA,30397,,08-23-2021,active
+C-1075,Commercial Battery Technologies,Ruth Price,(555) 826-8945,ruth.p@mmercialbattery.com,1206 Solar Drive,Columbus,OH,43223,United States,11/29/2021,Active
+C-1332,SmartEnergy LLC,Aarav Thompson,5557293432,aarav.thompson@smartenergy.com,"Unit 500, 7815 Solar Street",Sacramento,CA,95848,,2023-03-30T00:00:00Z,active
+C-1162,Battery Corporation Corp,Zola Esposito,555 469 1638,zolaesposito@battery.com,1562 Innovation Road,Charlotte,NC,28262,,2024-01-22T00:00:00Z,Inactive
+C-1142,Industrial Storage Industries,Samuel Flores,(555)   272-4654,sflores@industrialstorage.com,6144 Innovation Lane,Portland,OR,97289,US,2023-10-07T00:00:00Z,Inactive
+C-1476,Energy Corporation LLC,   Elena Williams,555.316.3788,elena.w@energy.com,"Unit F, 7238 Commerce Boulevard",Charlotte,NC,28278,USA,06-16-2021,Inactive
+C-1367,TechPower,Meera Price,(555)   770-9960,mprice@techpower.com,<html><body>7097 Energy Way</body></html>,Irvine,CA,92645,USA,01-26-2024,inactive
+C-1081,<html>CleanEnergy</html>,Mustafa White,555 661 3710,mustafa.w@cleanenergy.com,2680 Technology Way,Plano,TX,75035,US,06/28/2022,inactive
+C-1406,Dynamic MegaWatt,Malik Wright,(555) 207-9746,malik.w@dynamicmegawatt.com,"Unit A, 218 Digital Street",Sacramento,CA,95887,United States,11-21-2023,inactive
+C-1334,<html><body>Industrial Volt Industries LLC</body></html>,Cynthia Cook,(555)   230-0834,cynthia.c@industrialvolt.com,"Building A, 2779 Smart Circle",Long Beach,CA,90855,,09-24-2023,inactive
+C-1382,SmartGrid Inc,Emma Traoré  ,(555)   208-1211,emma.t@smartgrid.com,5667 Commerce Circle,Miami,FL,33161,United States,12-28-2022,Active
+C-1355,Elite IndustrialVolt,Tunde Parker,+1-555-991-9429,tparker@eliteindustrialvolt.com,"Unit E, 9956 Green Avenue",Dallas,TX,75276,NULL,10/28/2021,Inactive
+C-1251,<div>VoltTech</div>,Igor Delgado,(555)   612-2544,igor.delgado@volttech.com,"Suite E, 2783 Innovation Drive",Honolulu,HI,96862,US,2022/04/20,active
+C-1292,CleanVolt,Igor Watson,(555)272-5399,igorwatson@cleanvolt.com,3646 Digital Road,Stamford,CT,06911,US,2022-07-21T00:00:00Z,Inactive
+C-1413,TechPower Corporation,Samuel Ito,555.777.6395,samuel.i@techpower.com,9503 Factory Drive,St. Louis,MO,63158,USA,01/12/2023,active
+C-1330,Energy Industries Corp,Aisha Myers,555.325.2009,aisha.m@energy.com,"Unit 200, 2887 Digital Avenue",Orlando,FL,32868,,10-29-2021,active
+C-1250,VoltSecure,Rania Saleh,(555) 948-4924,rania.s@voltsecure.com,"Unit 500, 3179 Voltage Boulevard",Stamford,CT,06987,US,2022-06-19T00:00:00Z,active
+C-1301,Volt Corporation,Siobhán   Ramirez,(555) 330-9069,siobhán.r@volt.com,4942 Factory Lane,Miami,FL,33183,US,2024-05-01T00:00:00Z,inactive
+C-1226,Green TechPower,Brenda Haddad,555 823 2122,brendahaddad@greentechpower.com,"Suite 300, 3180 Power Boulevard",Grand Rapids,MI,49567,NULL,12-03-2023,active
+C-1282,Apex VoltMax,Kagiso Takahashi,(555)601-0924,kagisotakahashi@apexvoltmax.com,"Unit 300, 1248 Tech Drive",Plano,TX,75082,United States,2023-01-12T00:00:00Z,Inactive
+C-1278,Battery Technologies Corporation,Camille Santos,555 562 2082,camille.s@battery.com,4529 Business Avenue,Chicago,IL,60660,,2022-07-09,active
+C-1356,Grid Corporation,Jeffrey Cook,(555)   887-1319,jcook@grid.com,"Suite 200, 2104 Tech Way",Phoenix,AZ,85083,United States,2024-05-02T00:00:00Z,inactive
+C-1029,Energy Industries,Mark Khan,555 221 5406,markkhan@energy.com,6598 Innovation Avenue,Raleigh,NC,27690,US,2021-09-25,Inactive
+C-1244,EcoVolt Corporation,Tariq Khalil,555 220 3061,tariq.khalil@evolt.com,<html><body>5829 Electric Road</body></html>,Long Beach,CA,90815,US,2022-04-13T00:00:00Z,Inactive
+C-1507,Smart EcoVolt,Astrid Mehta,+1-555-832-9020,astrid.m@smartevolt.com,9782 Innovation Street,Raleigh,NC,27689,,07-24-2023,Active
+C-1318,PowerSafe Corporation,  Carolyn Valenzuela  ,(555) 494-6660,carolyn.valenzuela@powersafe.com,<html><body>4156 Commerce Lane</body></html>,Richmond,VA,23298,USA,2022-11-15T00:00:00Z,Active
+C-1063,<b>Battery Solutions</b>,Rania Watson,+1-555-619-6504,rwatson@battery.com,"Suite F, 6605 Energy Circle",Reno,NV,89564,,2023/07/04,Inactive
+C-1026,Volt Industries Corp,Alejandro Smirnov,(555) 689-9613,alejandrosmirnov@volt.com,7914 Battery Way,Sacramento,CA,95863,US,2023/11/25,active
+C-1493,Green Power Corporation,Eric Reed,(555)   286-9118,ereed@greenpower.com,"Suite E, 8387 Smart Circle",Fresno,CA,93771,US,2022/06/25,Inactive
+C-1299,Grid Corporation,Daria Dumitrescu,555-457-1066,daria.d@grid.com,3815 Factory Way,Orlando,FL,32816,US,02-22-2023,Inactive
+C-1201,<html><body>EcoVolt Corp</body></html>,Jacob White,+1-555-421-7588,jacob.white@evolt.com,801 Innovation Parkway,San Diego,CA,92159,,09-18-2023,Active
+C-1495,Green TechVolt Corporation,Andrew Pham,(555)   940-2310,andrew.p@greentechvolt.com,249 Technology Way,Memphis,TN,38174,US,2023-02-13T00:00:00Z,inactive
+C-1163,EnergyMax,James Morris,5553617016,jmorris@energymax.com,"Building D, 4187 Energy Road",Stamford,CT,06957,,2021/11/09,Active
+C-1189,Strategic GreenPower,Jeffrey Mwangi,(555)   718-6513,jmwangi@strategicgreenpower.com,<p>1979 Solar Road</p>,Cleveland,OH,44188,US,05-21-2021,Inactive
+C-1134,Sustainable Storage Systems,Margaret Scott,+1-555-462-8582,margaret.s@sustainablestorage.com,2346 Renewable Boulevard,Milwaukee,WI,53228,USA,02/20/2024,Active
+C-1168,VoltTech Corporation,Ryan Moyo,555 931 0103,ryanmoyo@volttech.com,<html><body>5528 Solar Lane</body></html>,Denver,CO,80225,,06-18-2021,Active
+C-1231,<strong>Prime PowerMax</strong>,Ananya Martinez,(555)   655-2783,ananya.martinez@primepowermax.com,9384 Technology Parkway,Kansas City,MO,64169,United States,2024/04/09,active
+C-1320,Global BatteryMax Corporation,  Elizabeth Hernandez  ,(555)681-1040,elizabeth.hernandez@globalbatterymax.com,1606 Digital Avenue,Stamford,CT,06918,,07/23/2023,active
+C-1520,IndustrialVolt LLC,Ibrahim Okafor,555.971.0671,ibrahimokafor@industrialvolt.com,"<strong>Suite E, 7182 Factory Lane</strong>",Kansas City,MO,64195,USA,02-23-2023,Active
+C-1445,EnergySecure,Pooja Russo,+1-555-440-7577,prusso@energysecure.com,4541 Factory Way,Atlanta,GA,30319,USA,2021/12/30,active
+C-1466,<html><body>Battery Solutions</body></html>,Anushka Rao,(555)857-9028,anushka.r@battery.com,9158 Technology Way,Arlington,TX,76013,,2021-03-24,active
+C-1361,Strategic IndustrialVolt,Susan Sato,(555)224-2484,susan.sato@strategicindustrialvolt.com,<html><body>405 Business Parkway</body></html>,Milwaukee,WI,53222,US,04/10/2024,active
+C-1275,Energy Systems Corp,Rajesh Stewart,(555) 680-5497,rajesh.s@energy.com,"Unit B, 547 Corporate Road",Nashville,TN,37245,United States,2021-11-27T00:00:00Z,Inactive
+C-1073,Commercial TechPower,Malik Okafor  ,(555)   593-5180,mokafor@mmercialtechpower.com,1398 Battery Lane,Boston,MA,02180,,2021/10/14,Inactive
+C-1050,Grid Corporation,Donald Carter,(555) 238-0396,donald.c@grid.com,8171 Voltage Avenue,Albuquerque,NM,87127,,09/16/2023,Inactive
+C-1395,TechPower,Neha Castillo,+1-555-637-4423,neha.castillo@techpower.com,7347 Battery Avenue,El Paso,TX,79934,USA,12/15/2021,active
+C-1082,Premier BatterySafe,Samira Doan,(555)640-9854,samiradoan@premierbatterysafe.com,9519 Power Boulevard,Cleveland,OH,44119,,10/11/2023,Inactive
+C-1506,Power Corporation LLC,Larry Fischer,(555)693-4516,larry.f@power.com,1484 Energy Lane,Sacramento,CA,95873,USA,2023-04-23T00:00:00Z,inactive
+C-1348,VoltMax,Pavel Wright,+1-555-329-4326,pavel.w@voltmax.com,2357 Voltage Drive,Irvine,CA,92610,US,2023/10/27,Inactive
+C-1044,Smart PowerSafe,Dev Osei,(555)   944-4375,dosei@smartpowersafe.com,1221 Commerce Lane,Omaha,NE,68121,NULL,09-18-2021,Active
+C-1381,Technical Volt Corporation,Cynthia Watson,5558067781,cynthiawatson@technicalvolt.com,3929 Manufacturing Parkway,Kansas City,MO,64169,United States,2021/08/23,Inactive
+C-1197,Superior Battery Corporation,Shirley Cooper,555-296-1523,scooper@superiorbattery.com,"<html>Unit B, 9092 Smart Parkway</html>",Newark,NJ,7122,,01/07/2023,Inactive
+C-1417,Global IndustrialVolt,Fatima Castillo,(555)   430-8679,fatima.c@globalindustrialvolt.com,"Building 400, 290 Voltage Avenue",Philadelphia,PA,19112,,2022/09/12,Active
+C-1199,Energy Corporation LLC,Anya Fischer,555-920-3412,anya.fischer@energy.com,<p>4412 Power Avenue</p>,Nashville,TN,37274,USA,2024-06-04T00:00:00Z,inactive
+C-1250,VoltSecure,Benjamin Wu,555 825 4627,benjamin.wu@voltsecure.com,"Unit 500, 3179 Voltage Boulevard",Stamford,CT,06987,US,2022-06-19T00:00:00Z,active
+C-1447,Eco VoltSecure,Zola Zaman,5558805611,zzaman@evoltsecure.com,<p>3953 Solar Street</p>,Nashville,TN,37212,United States,04/17/2024,inactive
+C-1336,Global IndustrialVolt,Layla Doan,555 580 8893,ldoan@globalindustrialvolt.com,5497 Energy Road,Kansas City,MO,64182,US,2022-05-07T00:00:00Z,Active
+C-1363,Superior BatteryMax,Nicole Young,555.531.6057,nicole.young@superiorbatterymax.com,9217 Business Circle,Salt Lake City,UT,84150,United States,2022-08-18T00:00:00Z,inactive
+C-1245,Storage Industries LLC,Emma Xu,(555) 595-2630,emma.x@storage.com,3524 Tech Drive,Boise,ID,83743,,2021-12-15,Active
+C-1264,Grid Corporation Corporation,   Ritu Kelly,5554691739,ritu.kelly@grid.com,4795 Business Parkway,Long Beach,CA,90895,USA,09-10-2022,active
+C-1119,Storage Solutions,George Salazar,555 467 7120,georgesalazar@storage.com,9535 Commerce Way,Charlotte,NC,28260,United States,10/20/2021,active
+C-1179,GreenVolt,Amit Martin,555-209-7684,amitmartin@greenvolt.com,8223 Technology Avenue,San Francisco,CA,94140,United States,2022-09-21,Active
+C-1425,VoltSecure,Vladimir Allen,555.732.4053,vallen@voltsecure.com,4032 Power Boulevard,Arlington,TX,76046,,03/22/2021,inactive
+C-1339,BatteryPlus,   Daniel Rodriguez,(555)592-7707,drodriguez@batteryplus.com,7925 Corporate Boulevard,Milwaukee,WI,53248,US,2024-02-05T00:00:00Z,inactive
+C-1300,Advanced Energy Industries LLC,Raymond Rao,(555)   306-0936,raymond.r@advancedenergy.com,6156 Technology Drive,Dallas,TX,75295,United States,2023-02-03,active
+C-1019,Volt Systems,Makena   Nieminen,(555)348-5222,mnieminen@volt.com,3038 Enterprise Circle,Memphis,TN,38141,United States,2022/01/21,Active
+C-1184,VoltMax Corporation,Dalia Traoré,5559847644,dalia.traoré@voltmax.com,3535 Electric Lane,Richmond,VA,23296,US,02/28/2022,Inactive
+C-1345,Integrated TechVolt Inc,Arjun Khoury,(555)   484-5021,arjun.khoury@integratedtechvolt.com,4906 Renewable Circle,Milwaukee,WI,53293,United States,10/24/2023,active
+C-1359,Battery Technologies,Matteo Miller,(555)485-1762,matteo.miller@battery.com,6898 Battery Parkway,Newark,NJ,7121,USA,2024/03/14,active
+C-1389,Apex SmartEnergy Corporation,Steven Cho,(555)821-9703,steven.cho@apexsmartenergy.com,"Building C, 1371 Battery Lane",Buffalo,NY,14214,US,2023-08-23,Active
+C-1023,Commercial Energy Industries,Brenda Park,555 777 1208,bpark@mmercialenergy.com,3948 Corporate Drive,Boston,MA,2113,,2021/07/28,inactive
+C-1037,VoltTech Corporation,Elena Roberts,(555) 259-9029,elena.roberts@volttech.com,<b>5139 Electric Lane</b>,Denver,CO,80298,United States,06/03/2023,Inactive
+C-1296,United VoltTech,Francesca Mwangi,5556866394,francesca.mwangi@unitedvolttech.com,5350 Solar Lane,Oakland,CA,94645,USA,07/08/2021,Inactive
+C-1464,Commercial Power Corporation,Simba   Le,(555)546-3947,sle@mmercialpower.com,<b>6238 Commerce Parkway</b>,Baltimore,MD,21294,United States,11-20-2022,inactive
+C-1478,Premier Storage Systems,Svetlana Gray,5557532125,sgray@premierstorage.com,1331 Factory Street,Indianapolis,IN,46237,,2023-04-28T00:00:00Z,active
+C-1376,Grid Services Inc,Simba Morgan,(555)360-7939,simba.m@grid.com,<p>5309 Electric Circle</p>,Pittsburgh,PA,15215,US,2024-03-01T00:00:00Z,Inactive
+C-1010,Industrial Battery Solutions,Justin Le,555.409.5528,justinle@industrialbattery.com,9116 Voltage Street,Albuquerque,NM,87111,USA,06/28/2022,active
+C-1030,SmartGrid Corporation,David Ferreira,(555)   552-3708,dferreira@smartgrid.com,7202 Solar Road,Oakland,CA,94632,United States,03/07/2024,inactive
+C-1516,PowerSafe,Catherine Hall,5555374883,catherine.h@powersafe.com,2050 Enterprise Way,Grand Rapids,MI,49523,USA,2021/07/30,Inactive
+C-1230,Superior PowerMax Corporation,Liam Kiprono,(555) 724-3990,lkiprono@superiorpowermax.com,5924 Industrial Parkway,Lubbock,TX,79472,US,12-09-2022,Inactive
+C-1048,Renewable Power Industries Corporation,Sakura Ito,555 966 2884,sakura.ito@renewablepower.com,4310 Factory Lane,San Jose,CA,95124,,2021/08/02,active
+C-1450,Battery Corporation,Carol Weber,(555)277-1219,carol.weber@battery.com,3571 Renewable Street,Providence,RI,02981,USA,10-16-2023,inactive
+C-1126,Power Industries,Min-Jun Garcia,555-317-6892,min-jun.g@power.com,7489 Electric Street,Honolulu,HI,96811,,12/05/2021,active
+C-1430,Prime Battery Solutions,Zuri Rivera,(555) 955-8117,zuri.rivera@primebattery.com,"Building 400, 3360 Factory Lane",Tucson,AZ,85797,US,2022-12-26,inactive
+C-1489,<html>Energy Systems</html>,Tariq Perez,(555)345-3762,tariq.p@energy.com,9572 Industrial Drive,Irvine,CA,92680,US,2022/11/07,Inactive
+C-1156,MegaWatt,Esperanza   Khalil,(555)338-4096,esperanza.khalil@megawatt.com,977 Voltage Way,New York,NY,10062,United States,2022/09/28,Inactive
+C-1018,Power Corporation Inc,Seung-Min Thomas,+1-555-900-1090,seung-min.thomas@power.com,7141 Industrial Street,Washington,DC,20015,United States,2022-05-05T00:00:00Z,active
+C-1195,Apex VoltTech,Susan Anyanwu,(555) 825-7490,sanyanwu@apexvolttech.com,<strong>5960 Manufacturing Avenue</strong>,Milwaukee,WI,53248,USA,09/28/2022,inactive
+C-1174,Apex Grid Corporation,Anthony Mostafa,555 636 4670,anthony.mostafa@apexgrid.com,6962 Voltage Parkway,Plano,TX,75046,USA,10/04/2021,inactive
+C-1471,Eco EcoEnergy,Simba Reed,(555)   805-7081,simbareed@eeenergy.com,7409 Green Lane,Grand Rapids,MI,49523,,07/28/2023,active
+C-1360,Strategic Power Industries LLC,Nicole Delgado,+1-555-282-8326,nicole.delgado@strategicpower.com,6863 Enterprise Lane,Charlotte,NC,28225,USA,2022/04/19,active
+C-1132,PowerPlus,William Wright,(555)   725-2774,wwright@powerplus.com,2135 Technology Road,Anchorage,AK,99564,US,11-26-2021,Inactive
+C-1077,Volt Industries,Christine Weber,+1-555-304-4172,christineweber@volt.com,<html>6653 Smart Circle</html>,Providence,RI,02973,United States,01/28/2024,Inactive
+C-1480,Energy Corporation,Carlos Jones,(555)   950-0238,carlos.jones@energy.com,4470 Battery Road,Long Beach,CA,90855,United States,10-29-2021,Active
+C-1322,Grid Corporation,  Javier Ramirez  ,555.921.5762,javier.ramirez@grid.com,6857 Business Lane,Newark,NJ,07197,,2022/07/02,Active
+C-1165,SmartEnergy,  Ryan Price  ,555 710 3158,ryan.p@smartenergy.com,7043 Renewable Way,Buffalo,NY,14269,United States,01-31-2024,inactive
+C-1004,Volt Systems Corp,Larry Hussein,5557772720,larry.h@volt.com,1016 Commerce Street,Fresno,CA,93744,USA,05/07/2022,Inactive
+C-1243,Energy Systems Corp,Zola Ghanem,555-309-3666,zolaghanem@energy.com,9263 Innovation Road,Reno,NV,89535,US,2022-07-10,Active
+C-1499,BatteryMax,Patrick Rogers,(555)   772-4060,patrick.rogers@batterymax.com,<b>3499 Digital Road</b>,Los Angeles,CA,90089,US,2021-07-16T00:00:00Z,inactive
+C-1101,BatterySafe,Mariam Richardson,(555) 900-2991,mrichardson@batterysafe.com,4988 Smart Parkway,Sacramento,CA,95839,US,2023-09-30,Inactive
+C-1028,Apex BatteryMax Corporation,Ryan Haddad,(555) 257-5612,rhaddad@apexbatterymax.com,4151 Innovation Street,Pittsburgh,PA,15226,,10/21/2021,active
+C-1414,Power Industries,Mariam Navarro,555-450-9047,mnavarro@power.com,9077 Renewable Way,Phoenix,AZ,85054,,2023-05-10T00:00:00Z,Active
+C-1316,Battery Technologies,Zofia Nelson,(555)   521-8120,zofia.n@battery.com,"Suite 400, 6265 Smart Road",Indianapolis,IN,46248,US,12/02/2023,inactive
+C-1342,TechPower,Zeynep Mansour,555 531 3476,zmansour@techpower.com,"Suite D, 2149 Industrial Street",Nashville,TN,37213,US,11/11/2023,active
+C-1002,Superior TechPower,Justin Turner,+1-555-380-6182,jturner@superiortechpower.com,1619 Renewable Avenue,Los Angeles,CA,90087,United States,05/28/2021,inactive
+C-1053,Apex EcoVolt,Kathleen Verma,(555) 471-5991,kathleen.verma@apexevolt.com,<html>4447 Energy Boulevard</html>,Boise,ID,83724,USA,2023-11-01T00:00:00Z,inactive
+C-1279,<html>Energy Solutions</html>,Hao Scott  ,(555)   775-0387,hao.s@energy.com,"Suite 500, 3694 Corporate Lane",Arlington,TX,76017,US,11-05-2021,Active
+C-1099,Technical TechVolt,Marisol Campbell,(555)630-5434,marisolcampbell@technicaltechvolt.com,9339 Energy Parkway,Atlanta,GA,30349,,05/20/2023,Inactive
+C-1213,Strategic VoltSecure,Eun-Ji Yoon,555 208 1564,eun-ji.yoon@strategicvoltsecure.com,4806 Power Circle,Charlotte,NC,28253,USA,04/09/2024,active
+C-1054,EnergySecure,  Ignacio Al-Mansoor  ,(555) 226-1310,ignacioal-mansoor@energysecure.com,6680 Green Avenue,Richmond,VA,23266,USA,08/13/2021,Inactive
+C-1311,Eco Energy Solutions,Ibrahim Cooper,555-436-4386,icooper@eenergy.com,1716 Innovation Parkway,Phoenix,AZ,85056,US,08/18/2023,Active
+C-1429,Volt Corporation,Shirley Richardson,(555)594-8506,shirley.r@volt.com,5003 Solar Circle,Albuquerque,NM,87144,USA,08/16/2023,inactive
+C-1102,Power Systems LLC,Anthony Malik,(555)   228-1658,amalik@power.com,4109 Energy Circle,Albuquerque,NM,87137,USA,12/12/2021,Inactive
+C-1104,<div>IndustrialVolt</div>,Ananya Valenzuela,555-549-3921,ananyavalenzuela@industrialvolt.com,4078 Business Drive,Arlington,TX,76067,United States,09/06/2021,active
+C-1303,PowerSafe,Brenda Reyes,555 494 7379,brendareyes@powersafe.com,9291 Power Drive,Long Beach,CA,90863,,10/13/2022,active
+C-1269,EcoEnergy,Gregory Kumar  ,(555)   281-9180,gregory.kumar@eenergy.com,5146 Renewable Avenue,Milwaukee,WI,53286,,12/31/2022,inactive
+C-1263,CleanEnergy LLC,Dmitriy Lee,555-767-6716,dmitriy.lee@cleanenergy.com,<div>698 Smart Circle</div>,Boise,ID,83724,USA,2022-11-27,Active
+C-1222,<html>Apex Battery Solutions</html>,Hassan Price,555.988.8960,hassan.price@apexbattery.com,"Building 400, 2834 Renewable Avenue",San Antonio,TX,78213,,02-07-2024,Active
+C-1248,Apex GreenVolt,Ryan Evans,(555)486-7110,ryan.evans@apexgreenvolt.com,1538 Renewable Parkway,Grand Rapids,MI,49590,US,2023/07/03,active
+C-1095,Battery Technologies LLC,Siobhán Gomez,(555)   438-7076,siobhángomez@battery.com,<p>2298 Manufacturing Road</p>,Atlanta,GA,30324,United States,2022-01-27T00:00:00Z,inactive
+C-1182,Green Storage Solutions Corp,Jeffrey Tran,5558916861,jeffrey.t@greenstorage.com,1865 Green Street,Raleigh,NC,27696,USA,2023-09-09T00:00:00Z,inactive
+C-1515,United Storage Systems,Ji-Woo Phillips,(555)   683-1936,ji-woo.phillips@unitedstorage.com,"<strong>Building E, 3047 Smart Street</strong>",Miami,FL,33180,,09/23/2021,active
+C-1100,Grid Services,Mei-Ling Anderson,(555)440-8291,mei-ling.anderson@grid.com,2318 Green Way,Sacramento,CA,95867,,04-09-2023,Active
+C-1365,<html>Sustainable SmartEnergy</html>,George Colombo,(555) 844-2164,gcolombo@sustainablesmartenergy.com,7680 Solar Drive,Philadelphia,PA,19112,United States,2023/03/03,active
+C-1049,<html>SmartGrid Corp</html>,David Long,555.650.1094,davidlong@smartgrid.com,6138 Business Circle,Honolulu,HI,96857,USA,06/22/2022,inactive
+C-1096,Green BatteryPlus,Elena Chen,+1-555-632-2487,echen@greenbatteryplus.com,6667 Voltage Boulevard,Phoenix,AZ,85051,US,2021-03-14T00:00:00Z,Inactive
+C-1177,Sustainable BatterySafe,Larry Romano,(555)   523-5616,larryromano@sustainablebatterysafe.com,2832 Voltage Boulevard,San Antonio,TX,78230,USA,07-01-2023,inactive
+C-1443,<div>TechVolt</div>,Emma Rivera  ,555-601-7374,emma.rivera@techvolt.com,<div>1015 Tech Lane</div>,Plano,TX,75012,USA,09-27-2021,Inactive
+C-1454,Elite PowerCore,Sven Turner,(555)   675-5509,sturner@elitepowerre.com,344 Industrial Lane,Atlanta,GA,30321,,09-09-2021,inactive
+C-1435,Innovative Grid Technologies,Nancy Hill,555.309.4590,nhill@innovativegrid.com,9710 Innovation Drive,New Orleans,LA,70122,USA,03/24/2024,Inactive
+C-1186,Smart Battery Corporation,Ananya Delgado,555 399 3095,adelgado@smartbattery.com,6351 Renewable Circle,Milwaukee,WI,53250,USA,03/27/2021,Inactive
+C-1449,Advanced EnergyMax,Nicole Hoang,+1-555-545-2100,nicolehoang@advancedenergymax.com,"Unit A, 316 Corporate Avenue",Detroit,MI,48232,US,03-23-2021,inactive
+C-1188,Industrial Volt Corporation Corporation,Tariq Martin,555 848 9938,tariqmartin@industrialvolt.com,"Unit F, 9482 Tech Way",Boise,ID,83738,US,01-31-2024,Active
+C-1448,<p>Smart VoltSecure Inc</p>,Barbara Banda  ,555.315.5961,barbara.banda@smartvoltsecure.com,<html>6284 Battery Circle</html>,Minneapolis,MN,55423,USA,2023/11/02,active
+C-1457,Storage Systems LLC,Henrik Salazar  ,(555)844-4268,henrik.salazar@storage.com,6678 Enterprise Avenue,Detroit,MI,48272,US,11/01/2023,Active
+C-1239,CleanEnergy,Priya Patel,(555)379-4559,priya.p@cleanenergy.com,5998 Smart Road,Austin,TX,78714,United States,04-03-2021,active
+C-1121,<b>SmartGrid</b>,Jabari Yoon,555.698.1322,jyoon@smartgrid.com,4167 Solar Boulevard,Dallas,TX,75282,,2023-01-09T00:00:00Z,inactive
+C-1261,Technical Grid Corporation,Bilal Sanchez,(555) 665-7163,bilal.sanchez@technicalgrid.com,"Suite E, 9560 Enterprise Way",Raleigh,NC,27613,United States,04-08-2023,active
+C-1196,BatteryMax Inc,Nicole Farah,+1-555-944-0511,nfarah@batterymax.com,"Suite 500, 9168 Tech Boulevard",Detroit,MI,48260,USA,11/15/2022,active
+C-1350,Prime EnergySecure,Michelle Rao,555 248 4943,michellerao@primeenergysecure.com,6686 Tech Lane,San Francisco,CA,94154,USA,2022-09-24T00:00:00Z,active
+C-1317,<html>BatteryMax</html>,  Kenji Gupta  ,555-916-6819,kgupta@batterymax.com,6512 Business Road,Sacramento,CA,95888,United States,2022-10-04,Inactive
+C-1380,Global SmartGrid Inc,Alexander Peterson,+1-555-766-3210,alexander.p@globalsmartgrid.com,5059 Business Drive,Lubbock,TX,79479,United States,2021-03-18T00:00:00Z,Inactive
+C-1058,Power Systems Inc,Jerry Li,+1-555-580-5456,jerry.li@power.com,6162 Corporate Way,Reno,NV,89586,USA,06/16/2021,active
+C-1470,Global TechPower,Helen Müller,5556039742,hmüller@globaltechpower.com,5810 Tech Lane,Atlanta,GA,30373,,01/14/2024,inactive
+C-1242,Prime CleanEnergy,Zofia Anyanwu,(555)   551-9809,zofia.a@primecleanenergy.com,927 Renewable Road,Reno,NV,89574,USA,2022-05-29T00:00:00Z,inactive
+C-1465,SmartEnergy,Brian Joshi,5555607266,brianjoshi@smartenergy.com,3256 Electric Circle,Atlanta,GA,30383,,2021/11/19,inactive
+C-1088,PowerPlus,Kimberly King,+1-555-530-4303,kimberly.k@powerplus.com,"Unit 200, 9239 Solar Boulevard",Salt Lake City,UT,84115,USA,2021-05-19T00:00:00Z,active
+C-1143,<strong>Apex VoltSecure Corporation</strong>,Nikhil Colombo,(555) 781-7170,nikhil.c@apexvoltsecure.com,"Unit D, 123 Renewable Lane",Irvine,CA,92672,USA,12-17-2021,Inactive
+C-1086,<div>Volt Corporation Corporation</div>,Chiara Vasquez,(555)924-9131,chiara.vasquez@volt.com,"Suite 300, 2716 Enterprise Way",Salt Lake City,UT,84169,,11-22-2022,inactive
+C-1097,Integrated TechPower LLC,Jun Gonzalez,(555)333-9801,jun.g@integratedtechpower.com,2023 Corporate Way,Philadelphia,PA,19127,,2022/01/08,inactive
+C-1326,Grid Corporation,Hamza Ramos,555.957.6230,hamza.ramos@grid.com,7348 Renewable Street,Fresno,CA,93742,United States,09-01-2021,active
+C-1191,EnerStore,Francesca Clark,555-826-5374,fclark@enerstore.com,"Suite C, 7623 Enterprise Street",Tampa,FL,33642,USA,05-21-2024,active
+C-1294,Storage Systems Corporation,Kevin Okafor,(555) 585-2743,kevinokafor@storage.com,"<div>Building 300, 7698 Industrial Circle</div>",St. Louis,MO,63191,USA,07/23/2021,inactive
+C-1212,GreenPower,Chioma Park,555 416 1688,chiomapark@greenpower.com,6278 Digital Road,Miami,FL,33153,,09/30/2023,Active
+C-1309,United Battery Corporation Inc,   Zeynep Watson,555-457-8895,zeynep.watson@unitedbattery.com,<html><body>2233 Power Circle</body></html>,Tampa,FL,33624,USA,2021-04-08,inactive
+C-1107,Dynamic PowerMax,Giovanni Khoury,555 483 1694,giovannikhoury@dynamicpowermax.com,8137 Smart Boulevard,Los Angeles,CA,90031,US,2024-03-24T00:00:00Z,inactive
+C-1373,Eco CleanVolt,Meera Hernandez,+1-555-551-2270,meera.hernandez@ecleanvolt.com,1817 Smart Street,Richmond,VA,23210,US,06-15-2022,inactive
+C-1068,EnergySecure,Sanjay Evans,555.479.6443,sanjay.evans@energysecure.com,"Unit B, 5831 Corporate Circle",Portland,OR,97281,,2023-01-02T00:00:00Z,active
+C-1456,Prime PowerCore,Barbara Ndebele,(555) 418-6904,bndebele@primepowerre.com,2632 Voltage Lane,Reno,NV,89561,USA,2022-05-31T00:00:00Z,inactive
+C-1208,PowerPlus,Rebecca Valenzuela,(555)   663-1391,rebecca.valenzuela@powerplus.com,6165 Tech Parkway,Portland,OR,97283,United States,05/25/2023,active
+C-1479,<div>Grid Corporation</div>,Yusuf Turner,555.911.1920,yusuf.turner@grid.com,3684 Solar Circle,Memphis,TN,38189,US,05/29/2023,active
+C-1485,SmartEnergy,Larry Khoury,(555) 635-6278,larry.khoury@smartenergy.com,6822 Commerce Boulevard,Houston,TX,77041,,03-07-2023,active
+C-1090,Energy Industries,Samira Mukherjee,(555)849-7867,samira.mukherjee@energy.com,"Building F, 4068 Energy Avenue",Irvine,CA,92629,,04/22/2022,inactive
+C-1451,United Energy Corporation Corporation,James Bennett,555-436-7323,jbennett@unitedenergy.com,1170 Innovation Street,Portland,OR,97234,US,2021/05/06,active
+C-1423,Energy Corporation,   Hamza Joshi,555 925 9487,hamza.j@energy.com,1723 Energy Boulevard,Miami,FL,33159,US,02/05/2023,inactive
+C-1118,BatteryPlus,Meera Peterson,555.584.0821,meera.peterson@batteryplus.com,5091 Battery Circle,Grand Rapids,MI,49558,United States,08-19-2023,Inactive
+C-1122,Integrated BatterySafe,Bilal Verma,555-779-1807,bilal.v@integratedbatterysafe.com,502 Factory Avenue,Richmond,VA,23220,USA,2021/12/16,Inactive
+C-1288,Prime SmartEnergy Corp,Amit Young,555 726 1264,amit.y@primesmartenergy.com,6961 Battery Parkway,Plano,TX,75077,USA,2023-03-12,active
+C-1287,BatteryPlus,Obinna Parker,(555)   213-1116,oparker@batteryplus.com,204 Battery Boulevard,St. Louis,MO,63193,United States,2023/07/01,inactive
+C-1039,GreenPower,Soo-Jin Garcia,(555)755-8153,sgarcia@greenpower.com,7551 Power Way,Plano,TX,75061,USA,03/16/2024,inactive
+C-1126,Power Industries,Min-Jun Garcia,555-317-6892,min-jun.g@power.com,7489 Electric Street,Honolulu,HI,96811,,12/05/2021,Active
+C-1247,Technical IndustrialVolt,Dalia Miller,5552333467,dalia.m@technicalindustrialvolt.com,5565 Factory Circle,Houston,TX,77054,United States,02/26/2023,Inactive
+C-1343,<b>Volt Corporation</b>,Robert   Adams,(555)   528-3119,robertadams@volt.com,8047 Factory Street,Chicago,IL,60641,US,10/25/2022,inactive
+C-1364,Battery Solutions,Jennifer Mehta,(555) 599-7414,jmehta@battery.com,<b>2943 Green Parkway</b>,St. Louis,MO,63172,,03/07/2024,Active
+C-1402,EcoVolt,Min-Jun Hassan,+1-555-777-5467,mhassan@evolt.com,6413 Green Drive,Dallas,TX,75256,USA,2021-12-28T00:00:00Z,Inactive
+C-1241,Power Industries,Stanislav Saleh,555.789.5915,stanislav.s@power.com,"Suite F, 712 Digital Circle",Los Angeles,CA,90065,,11/02/2021,active
+C-1131,SmartGrid,Hiroshi Flores,(555) 688-1796,hflores@smartgrid.com,7611 Solar Avenue,Fresno,CA,93737,,2022-05-08T00:00:00Z,inactive
+C-1412,Prime EcoEnergy,Vladimir Delgado,+1-555-555-4240,vladimir.d@primeeenergy.com,"Suite 400, 2169 Manufacturing Drive",Nashville,TN,37268,United States,12/22/2021,Inactive
+C-1351,VoltTech,Hassan Zhang,(555)   347-8026,hzhang@volttech.com,6489 Industrial Parkway,Seattle,WA,98137,   ,2024-01-12T00:00:00Z,Pending
+C-1500,Dynamic Volt Industries,   Christine Miller,555 387 9226,christine.m@dynamicvolt.com,6496 Solar Avenue,Cambridge,MA,2146,US,01-25-2024,Inactive
+C-1167,EcoEnergy,Vikram Rossi,+1-555-359-3123,vikram.rossi@eenergy.com,8859 Factory Way,Nashville,TN,37231,US,10/23/2022,Active
+C-1509,Green Energy Solutions Corporation,  Bogdan Long  ,555-911-0122,bogdanlong@greenenergy.com,"Suite F, 7681 Battery Road",Phoenix,AZ,85091,US,06-15-2023,Active
+C-1255,<div>Energy Industries</div>,George Petrov,(555) 797-3087,georgepetrov@energy.com,5147 Corporate Road,Providence,RI,02925,,03/08/2021,Inactive
+C-1027,Battery Solutions,Hyun-Woo Davis,(555)960-7870,hdavis@battery.com,1475 Green Boulevard,Providence,RI,2916,United States,2022/05/08,inactive
+C-1483,Global Energy Industries Corp,Donna Brown,(555)   758-7076,donnabrown@globalenergy.com,5573 Battery Boulevard,Baltimore,MD,21219,US,2021-03-20,Inactive
+C-1066,Grid Corporation,John Lee,555 509 3195,jlee@grid.com,1579 Electric Parkway,Chicago,IL,60680,USA,2023-09-08,active
+C-1482,<html>Smart Energy Corporation Corp</html>,Camila Navarro,5552849801,camila.n@smartenergy.com,8212 Innovation Boulevard,Los Angeles,CA,90091,United States,10/11/2022,Active
+C-1001,Innovative Volt Systems LLC,Bilal Ndebele,555.948.4144,bilalndebele@innovativevolt.com,620 Battery Avenue,Salt Lake City,UT,84187,USA,04-23-2024,active
+C-1502,<div>Prime Energy Corporation Inc</div>,Fatima Morales,(555)   561-9814,fatima.m@primeenergy.com,"Suite 400, 3831 Battery Street",Detroit,MI,48258,USA,04/05/2024,inactive
+C-1391,CleanEnergy,Deborah Kulkarni,(555)373-7442,deborahkulkarni@cleanenergy.com,"Building C, 2079 Commerce Drive",Austin,TX,78761,United States,2021-03-25T00:00:00Z,inactive
+C-1484,Premier Battery Corporation,  Amanda Anyanwu  ,555.322.9626,aanyanwu@premierbattery.com,5090 Enterprise Road,Los Angeles,CA,90079,United States,2023-11-22T00:00:00Z,Inactive
+C-1151,PowerMax,Dorothy Takahashi,555.231.8462,dtakahashi@powermax.com,"Building A, 3911 Electric Drive",San Jose,CA,95188,US,2021-11-23,Inactive
+C-1304,Volt Corporation Corp,Pavel Jung,555.481.3679,paveljung@volt.com,1549 Battery Circle,Stamford,CT,6963,,05-07-2024,active
+C-1210,SmartEnergy Inc,Ritu Tanaka,(555) 568-2364,ritu.tanaka@smartenergy.com,"Unit 400, 8589 Corporate Drive",Boise,ID,83799,US,02-11-2022,Active
+C-1071,TechVolt,Brenda Nowak,(555)520-3378,brenda.nowak@techvolt.com,3371 Electric Boulevard,San Antonio,TX,78292,,03/31/2023,Active
+C-1329,Superior PowerPlus,Gregory Szymański,5554363887,gszymański@superiorpowerplus.com,6891 Solar Boulevard,Sacramento,CA,95883,US,2021/04/12,Active
+C-1144,EcoEnergy Inc,Ritu Russo,555.530.8058,rrusso@eenergy.com,7226 Industrial Drive,Nashville,TN,37250,,2022-12-29T00:00:00Z,Inactive
+C-1365,<html>Sustainable SmartEnergy</html>,Emma Zhou,555-385-6483,emmazhou@htmlsustainablesmartenergyhtml.com,7680 Solar Drive,Philadelphia,PA,19112,United States,2023/03/03,active
+C-1153,Eco Power Industries,Kwame Saleh,555-447-0589,kwame.saleh@epower.com,129 Digital Circle,Orlando,FL,32882,USA,2022/03/08,Inactive
+C-1120,TechVolt,Nikolai Zaman,(555)258-0144,nikolaizaman@techvolt.com,2380 Corporate Drive,Boston,MA,02164,USA,2023/09/06,inactive
+C-1056,Global Storage Systems,Zuri Ndebele,555-512-5988,zndebele@globalstorage.com,9708 Tech Parkway,Plano,TX,75062,United States,07/15/2023,Active
+C-1085,Grid Corporation,Zeynep Thompson,(555)   332-6074,zeynepthompson@grid.com,8033 Smart Drive,Boston,MA,02150,United States,2023/02/06,inactive
+C-1368,CleanEnergy Inc,  Alexander Robinson  ,(555) 938-2800,alexander.robinson@cleanenergy.com,"Building E, 7043 Power Drive",El Paso,TX,79990,USA,2021/04/27,inactive
+C-1467,<strong>Industrial BatteryPlus</strong>,Carolyn Rogers,5554010932,carolyn.r@industrialbatteryplus.com,3275 Tech Drive,Atlanta,GA,30358,United States,2021-06-14,Inactive
+C-1140,<b>EnergyMax LLC</b>,Lin Nguyen,+1-555-628-4748,lnguyen@energymax.com,8285 Digital Boulevard,Newark,NJ,07123,USA,06/11/2022,Active
+C-1410,Apex Energy Industries,Gregory Vasquez,555 842 8264,gregory.vasquez@apexenergy.com,4320 Factory Avenue,New Orleans,LA,70178,,09/02/2021,Inactive
+C-1202,Smart CleanVolt Corp,Janet Verma  ,555.748.0584,janet.v@smartcleanvolt.com,6265 Commerce Parkway,Charlotte,NC,28254,,11-13-2023,Active
+C-1166,Global GreenPower,Ritu Flores,555 922 6715,ritu.f@globalgreenpower.com,4995 Innovation Boulevard,Pittsburgh,PA,15217,,2022/12/15,active
+C-1236,United PowerMax LLC,Vikram Al-Mansoor,(555)901-5388,vikramal-mansoor@unitedpowermax.com,"Suite 500, 8715 Electric Lane",St. Louis,MO,63119,USA,05-02-2022,inactive
+C-1452,Premier Energy Solutions,Nia Schmidt,5555339810,nia.s@premierenergy.com,<div>6500 Solar Boulevard</div>,Corpus Christi,TX,78452,,2023-12-27,Active
+C-1505,CleanEnergy,Yuki Scott,+1-555-245-2964,yukiscott@cleanenergy.com,8066 Business Avenue,Lubbock,TX,79476,NULL,11/15/2022,active
+C-1105,EnergySecure,Yoko Kelly,+1-555-929-3675,yoko.k@energysecure.com,351 Innovation Drive,Plano,TX,75071,US,2022-04-23T00:00:00Z,inactive
+C-1492,Eco PowerPlus,Ibrahim Martin,5557885218,ibrahim.martin@epowerplus.com,9308 Factory Boulevard,Milwaukee,WI,53291,US,11/07/2022,Inactive
+C-1187,VoltTech,Arjun Patel,5558194567,arjun.patel@volttech.com,4919 Smart Boulevard,El Paso,TX,79933,US,2024-01-17T00:00:00Z,Active
+C-1125,United EcoVolt,Ignacio   Mukherjee,555 344 7265,imukherjee@unitedevolt.com,2294 Enterprise Avenue,Plano,TX,75033,United States,2021-12-15T00:00:00Z,inactive
+C-1190,SmartGrid,Xiaowei Zhou,(555) 608-3613,xiaowei.z@smartgrid.com,"Suite C, 3254 Enterprise Parkway",Anchorage,AK,99578,USA,2021-07-13,active
+C-1312,CleanEnergy LLC,Ren Mitchell,+1-555-615-9206,ren.m@cleanenergy.com,9228 Energy Avenue,Plano,TX,75059,United States,2023/09/22,Inactive
+C-1240,TechPower,Min-Jun Kumar,555-795-5832,min-jun.kumar@techpower.com,"Building F, 718 Smart Way",Baltimore,MD,21284,US,2022-06-21,Inactive
+C-1257,United VoltSecure,  Kevin Mansour  ,555-438-5556,kevinmansour@unitedvoltsecure.com,"Building F, 9585 Solar Street",San Diego,CA,92158,USA,07/24/2023,Active
+C-1035,Grid Corporation Inc,Ashley Kumar,(555)841-2616,ashley.kumar@grid.com,8661 Renewable Road,Portland,OR,97285,,11/16/2022,Active
+C-1069,VoltMax,Jack Perez,5553512154,jack.p@voltmax.com,8067 Innovation Drive,Boston,MA,2119,USA,01/04/2024,Pending
+C-1323,Storage Solutions Inc,James Myers,555 862 4230,james.myers@storage.com,"Suite F, 791 Factory Street",Detroit,MI,48248,USA,06/12/2023,Inactive
+C-1468,Power Corporation Corporation,Stephen Cook,555.277.8271,stephencook@power.com,"Suite 200, 6021 Innovation Circle",El Paso,TX,79972,USA,05/05/2022,inactive
+C-1293,<b>Battery Technologies Corp</b>,Kwame Petrov,(555) 622-9673,kwamepetrov@battery.com,8801 Renewable Road,Minneapolis,MN,55422,,12-10-2023,active
+C-1419,Industrial CleanEnergy Inc,  Sunita Reed  ,555-747-4745,sreed@industrialcleanenergy.com,"Suite 400, 9315 Business Street",Portland,OR,97256,US,2023-07-15T00:00:00Z,Active
+C-1112,Power Industries LLC,Hao Evans,5554021393,hao.e@power.com,"Building 300, 5907 Business Circle",Reno,NV,89541,US,2022/11/05,Active
+C-1103,Advanced EnergySecure,Javier Hernandez,(555) 430-8158,javier.hernandez@advancedenergysecure.com,"Building 200, 7099 Tech Road",Tampa,FL,33677,United States,07/01/2023,inactive
+C-1396,Industrial Grid Corporation Inc,Amy Zhang,5553480048,amy.z@industrialgrid.com,4775 Digital Road,New York,NY,10044,,08/11/2021,Inactive
+C-1498,PowerSafe Inc,Stephanie Price,(555)   611-9670,stephanie.p@powersafe.com,3794 Innovation Boulevard,Boise,ID,83734,USA,2024-06-05,Active
+C-1038,Global Battery Corporation,Bogdan Costa,(555) 682-5119,bogdan.c@globalbattery.com,<p>9541 Energy Boulevard</p>,Cleveland,OH,44166,United States,03-07-2022,inactive
+C-1258,Energy Corporation,Anushka Kang,(555)   273-5427,anushka.k@energy.com,7096 Electric Way,Reno,NV,89589,United States,2021-11-21T00:00:00Z,inactive
+C-1083,Volt Industries,Eun-Ji Turner,555-455-1181,eun-ji.turner@volt.com,5386 Commerce Way,Boise,ID,83746,USA,2022-07-27T00:00:00Z,active
+C-1098,Grid Technologies,Nour Anyanwu,555.699.8053,nouranyanwu@grid.com,8753 Solar Avenue,Plano,TX,75017,US,05/16/2024,active
+C-1228,Power Corporation,Dalia Hughes,(555)   522-7918,dalia.hughes@power.com,649 Innovation Road,Corpus Christi,TX,78476,US,2023-10-25,inactive
+C-1173,<b>Battery Solutions LLC</b>,Arjun Yamamoto,555.341.7546,arjun.y@battery.com,712 Renewable Lane,Grand Rapids,MI,49516,USA,2021/10/08,Active
+C-1006,Smart Power Solutions,Patrick Green,(555)446-2057,patrick.green@smartpower.com,7533 Battery Lane,Miami,FL,33132,USA,2022-11-02T00:00:00Z,active
+C-1408,VoltSecure,Jennifer Hussein,+1-555-990-1546,jhussein@voltsecure.com,6001 Energy Way,Philadelphia,PA,19187,,05/29/2023,Active
+C-1352,Grid Corporation,Ji-Woo Green,(555) 814-0345,ji-woo.g@grid.com,"Unit B, 4355 Manufacturing Way",Long Beach,CA,90848,USA,09/15/2023,Inactive
+C-1335,Technical Power Solutions,Hassan Ahmed,(555) 378-1708,hassan.ahmed@technicalpower.com,6922 Power Drive,Milwaukee,WI,53222,United States,2021-04-23,Inactive
+C-1076,BatteryPlus Inc,Susan Osei,(555)   851-1156,sosei@batteryplus.com,4907 Innovation Street,Baltimore,MD,21215,United States,11/26/2022,inactive
+C-1180,TechVolt Corp,Catalina Sanchez,(555)   299-5785,csanchez@techvolt.com,"Unit A, 1781 Renewable Circle",Charlotte,NC,28221,United States,01/06/2024,active
+C-1384,Global PowerSafe Inc,Pamela Rahimi  ,555.639.8949,pamelarahimi@globalpowersafe.com,"Building 200, 1041 Solar Parkway",Fresno,CA,93730,USA,2021/11/20,inactive
+C-1375,Power Industries Inc,Anya Long,555.963.9077,along@power.com,2348 Renewable Avenue,Buffalo,NY,14249,,2022-07-05T00:00:00Z,Inactive
+C-1503,Green SmartGrid,Patrick Yang  ,(555) 970-1317,patrick.yang@greensmartgrid.com,3901 Power Street,Omaha,NE,68178,USA,03-31-2021,active
+C-1138,Volt Corporation Corporation,Karen Kim,5559725277,karen.kim@volt.com,<b>8888 Enterprise Circle</b>,Miami,FL,33193,USA,2022-11-26,inactive
+C-1488,Advanced EcoVolt,Sekou Oliveira,555-621-1024,soliveira@advancedevolt.com,4534 Industrial Drive,Richmond,VA,23220,United States,2022/05/23,Active
+C-1283,Industrial Storage Industries,George Singh,(555)232-9933,george.singh@industrialstorage.com,4996 Renewable Avenue,Los Angeles,CA,90072,USA,2023/08/14,active
+C-1337,Sustainable Energy Systems Corp,Nancy Miller,5559149995,nancy.miller@sustainableenergy.com,6465 Renewable Lane,Anchorage,AK,99593,US,11/02/2021,Inactive
+C-1296,United VoltTech,Francesca Mwangi,555.447.8139,francesca.mwangi@unitedvolttech.com,5350 Solar Lane,Oakland,CA,94645,USA,07/08/2021,Inactive
+C-1421,Superior BatterySafe,Giovanni Sanders,(555)767-5108,giovanni.sanders@superiorbatterysafe.com,8880 Innovation Avenue,Stamford,CT,06991,US,2023-04-02,active
+C-1158,Industrial Energy Systems Corporation,Priya Thompson,555.326.7775,pthompson@industrialenergy.com,5732 Tech Circle,Chicago,IL,60639,USA,05/02/2023,inactive
+C-1441,<strong>Superior Storage Solutions</strong>,Giovanni Keita,555 351 3360,gkeita@superiorstorage.com,5181 Technology Boulevard,Milwaukee,WI,53287,US,07/21/2021,active
+C-1091,Elite GreenVolt,Hassan Doan,(555)640-8021,hassan.d@elitegreenvolt.com,2937 Smart Parkway,Los Angeles,CA,90096,United States,11-17-2023,active
+C-1427,Integrated Volt Industries,Mateo Stewart,555.513.1330,mateo.s@integratedvolt.com,4192 Tech Avenue,Phoenix,AZ,85047,United States,05/11/2022,Active
+C-1442,Energy Solutions,Jerry Vasquez,555.217.3777,jvasquez@energy.com,816 Industrial Drive,Stamford,CT,06928,USA,03/20/2021,Active
+C-1332,SmartEnergy LLC,Aarav Thompson,+1-555-243-7152,aarav.thompson@smartenergy.com,"Unit 500, 7815 Solar Street",Sacramento,CA,95848,,2023-03-30T00:00:00Z,active
+C-1475,Commercial Energy Corporation,Isabel Diop,555 452 4956,isabel.d@mmercialenergy.com,5765 Renewable Avenue,San Francisco,CA,94173,USA,2023-05-15,Inactive
+C-1407,SmartGrid,Jerry Bhat,+1-555-248-0176,jerry.b@smartgrid.com,1741 Battery Road,Fresno,CA,93727,USA,11/07/2021,Inactive
+C-1504,Volt Systems,Paul Mehta,(555)   533-7144,pmehta@volt.com,1358 Power Lane,Buffalo,NY,14273,United States,05/26/2022,inactive
+C-1160,Grid Services Corp,Haruto Flores,555 918 5884,harutoflores@grid.com,<p>302 Electric Parkway</p>,Plano,TX,75063,US,12-29-2021,Active
+C-1240,TechPower,Björn   Singh,555-628-8856,bsingh@techpower.com,"Building F, 718 Smart Way",Baltimore,MD,21284,US,2022-06-21,Inactive
+C-1067,Storage Systems,  Dorothy Taylor  ,(555)   407-8224,dorothytaylor@storage.com,<b>8686 Manufacturing Boulevard</b>,Richmond,VA,23246,,2023/06/16,Inactive
+C-1161,Commercial CleanVolt,John Morris,(555)431-0341,john.morris@mmercialcleanvolt.com,<p>6681 Energy Circle</p>,San Jose,CA,95198,US,2021/06/09,inactive
+C-1005,Smart BatteryMax Corp,Daria Ahmed,+1-555-535-0414,daria.ahmed@smartbatterymax.com,"Suite B, 2366 Manufacturing Road",Boston,MA,2190,,2021-07-09,inactive
+C-1218,Technical BatteryMax,Sekou Suzuki,555 451 6869,ssuzuki@technicalbatterymax.com,"Building 300, 6627 Voltage Boulevard",Raleigh,NC,27690,USA,09-08-2023,Inactive
+C-1229,Power Corporation Corporation,Stephanie Ramos,(555) 944-5053,stephanie.ramos@power.com,1950 Commerce Circle,Cambridge,MA,02145,,07/11/2022,Active
+C-1298,Renewable PowerPlus,Paul Vang,(555)490-8332,paulvang@renewablepowerplus.com,"Suite 400, 451 Corporate Drive",Cleveland,OH,44152,,2024-05-29T00:00:00Z,Inactive
+C-1078,Global CleanEnergy,Emma Zhou,(555)705-5156,emma.zhou@globalcleanenergy.com,"Building 500, 7372 Solar Road",Oakland,CA,94645,USA,08/01/2021,inactive
+C-1267,Energy Systems,   Camila Cook,+1-555-786-8792,camila.c@energy.com,"Suite F, 7526 Factory Street",Phoenix,AZ,85069,US,2022-09-30,Inactive
+C-1286,PowerPlus,Ashley Khoury,555-683-1561,ashley.k@powerplus.com,3593 Energy Boulevard,Plano,TX,75045,US,2023-06-29,active
+C-1338,<p>United SmartGrid</p>,Min-Jun Zhou,(555)942-7382,min-junzhou@unitedsmartgrid.com,"Building F, 4498 Digital Circle",Grand Rapids,MI,49533,,07/21/2023,Active
+C-1094,MegaWatt,Timothy   Anyanwu,+1-555-440-9586,timothy.a@megawatt.com,1069 Power Drive,Kansas City,MO,64114,US,07/04/2023,active
+C-1271,Smart Volt Industries Corporation,Sandra Costa,(555) 436-7342,sandra.costa@smartvolt.com,7173 Digital Circle,St. Louis,MO,63158,,2023/04/21,inactive
+C-1369,Prime GreenPower,Kathleen Clark,(555)   850-7458,kclark@primegreenpower.com,"Suite A, 7414 Digital Avenue",Sacramento,CA,95850,USA,2021-11-17,Active
+C-1023,Commercial Energy Industries,Brenda Park,+1-555-756-8809,bpark@mmercialenergy.com,3948 Corporate Drive,Boston,MA,2113,,2021/07/28,inactive
+C-1065,Advanced Energy Systems Inc,Malik Kiprono,555.749.8808,malik.kiprono@advancedenergy.com,8195 Smart Road,Baltimore,MD,21282,United States,2022-12-08T00:00:00Z,active
+C-1242,Prime CleanEnergy,Michelle Flores,5556214450,michelle.flores@primecleanenergy.com,927 Renewable Road,Reno,NV,89574,USA,2022-05-29T00:00:00Z,inactive
+C-1108,<html>EnergySecure LLC</html>,Javier Carter,5559067777,jcarter@energysecure.com,<html><body>2574 Battery Drive</body></html>,San Diego,CA,92117,,11-25-2023,Active
+C-1092,TechPower,Raymond Doan,555 492 5973,raymond.d@techpower.com,2096 Digital Parkway,Fresno,CA,93754,US,10-16-2022,Active
+C-1069,VoltMax,Jack Perez,5553512154,jack.p@voltmax.com,8067 Innovation Drive,Boston,MA,2119,USA,01/04/2024,Active
+C-1284,VoltTech,Hyun-Woo Romano,(555)   880-9688,hromano@volttech.com,706 Enterprise Street,Kansas City,MO,64115,,2021-10-29T00:00:00Z,active
+C-1089,CleanEnergy Corporation,Kavita Diaz,(555)   625-5666,kavita.d@cleanenergy.com,7880 Battery Way,Plano,TX,75063,United States,04/24/2021,inactive
+C-1007,PowerMax Corporation,Tomasz Bianchi,555 876 7717,tomasz.bianchi@powermax.com,"Building B, 1049 Commerce Avenue",Miami,FL,33178,US,11/18/2021,inactive
+C-1072,Volt Corporation,Matthew Ward,(555)   885-1003,matthew.w@volt.com,<html><body>536 Green Street</body></html>,San Diego,CA,92140,,08/15/2021,Inactive
+C-1461,Elite Storage Solutions,Seung-Min Kowalski,(555)339-3356,seung-min.kowalski@elitestorage.com,5803 Innovation Drive,Reno,NV,89511,United States,2023/03/16,Active
+C-1501,Renewable Energy Systems LLC,Andrew Reed,+1-555-658-9301,areed@renewableenergy.com,3960 Factory Avenue,Reno,NV,89588,USA,2023-02-07T00:00:00Z,Active
+C-1474,Power Solutions,Steven Xu,+1-555-343-5624,stevenxu@power.com,<html>3973 Digital Street</html>,Cleveland,OH,44183,USA,2023-10-02,Inactive
+C-1057,Energy Corporation,Aarav Mendoza,555 296 3727,aarav.mendoza@energy.com,"Unit E, 7130 Tech Parkway",Houston,TX,77033,United States,2022-11-23,Inactive
+C-1045,Volt Systems,Priya Bousaid,555-864-8135,priya.bousaid@volt.com,2968 Power Circle,Pittsburgh,PA,15273,US,2022/06/19,inactive
+C-1302,Green Battery Corporation,Matthew Flores,5552461655,matthew.flores@greenbattery.com,"<html><body>Building B, 4653 Innovation Street</body></html>",Salt Lake City,UT,84160,US,11/30/2023,Inactive
+C-1281,Commercial Energy Corporation Corp,   Jeffrey Agarwal,555.739.6711,jeffreyagarwal@mmercialenergy.com,"Unit E, 4343 Voltage Street",Orlando,FL,32867,USA,12/15/2023,active
+C-1453,Industrial Storage Systems,Matthew Osei,5553942550,matthew.osei@industrialstorage.com,2738 Manufacturing Parkway,Detroit,MI,48293,United States,09/03/2023,active
+C-1254,Storage Solutions,Matthew Price,555-471-8536,mprice@storage.com,1594 Voltage Road,Arlington,TX,76077,,2024-01-12T00:00:00Z,active
+C-1392,Elite VoltSecure,Aisha Watanabe,555-285-4074,aisha.w@elitevoltsecure.com,1652 Electric Way,Minneapolis,MN,55459,US,2023/01/10,active
+C-1130,Volt Industries,Nadezhda Khalil,555-306-4415,nadezhda.khalil@volt.com,<b>2496 Enterprise Drive</b>,Milwaukee,WI,53260,,12/17/2021,Inactive
+C-1351,VoltTech,Stephanie Lopez,(555) 270-6999,stephanie.l@volttech.com,6489 Industrial Parkway,Seattle,WA,98137,   ,2024-01-12T00:00:00Z,Inactive
+C-1379,PowerCore,Yusuf Jackson,5555037496,yusuf.jackson@powerre.com,8251 Enterprise Lane,Providence,RI,2966,USA,03-06-2023,Active
+C-1273,Commercial Volt Systems,Helen Valenzuela,+1-555-977-2585,hvalenzuela@mmercialvolt.com,720 Digital Road,Plano,TX,75084,,08-11-2021,active
+C-1440,PowerSafe,Jonathan Gill,5557320940,jonathangill@powersafe.com,3714 Enterprise Lane,Columbus,OH,43260,US,2023/08/31,active
+C-1432,Volt Systems,Gonzalo Peterson,555.597.5301,gonzalo.peterson@volt.com,3191 Digital Boulevard,Lubbock,TX,79461,USA,2022-09-12,active
+C-1418,Strategic Grid Services,Mikhail Novák,555-650-8969,mikhailnovák@strategicgrid.com,423 Renewable Parkway,Tampa,FL,33677,,2021-07-09T00:00:00Z,Active
+C-1117,CleanEnergy,David Rodriguez,(555)547-1290,drodriguez@cleanenergy.com,"Building C, 9267 Commerce Parkway",Lubbock,TX,79444,United States,2022-09-01,inactive
+C-1371,Storage Solutions,Kimberly Hussein,555 626 8945,kimberly.h@storage.com,"Suite A, 6997 Factory Road",San Antonio,TX,78226,United States,2024-06-10T00:00:00Z,inactive
+C-1147,<html><body>Global Power Systems</body></html>,Stephanie El-Sayed,555-571-9771,sel-sayed@globalpower.com,5532 Voltage Street,San Antonio,TX,78231,,05-18-2023,inactive
+C-1003,CleanVolt LLC,William Mostafa,555 391 1749,wmostafa@cleanvolt.com,3914 Voltage Circle,Columbus,OH,43256,US,2023-03-29T00:00:00Z,Inactive
+C-1456,Prime PowerCore,Barbara Ndebele,5558631954,bndebele@primepowerre.com,2632 Voltage Lane,Reno,NV,89561,USA,2022-05-31T00:00:00Z,inactive
+C-1324,VoltMax,Ren Abadi  ,555 895 4001,renabadi@voltmax.com,1578 Commerce Avenue,San Francisco,CA,94152,,06-27-2022,inactive
+C-1307,Global VoltMax Inc,  Keisha King  ,555-702-2783,keisha.k@globalvoltmax.com,5280 Corporate Lane,Minneapolis,MN,55456,USA,02-28-2024,Inactive
+C-1519,<b>Innovative SmartEnergy</b>,Ingrid Brooks,555 759 0450,ingrid.brooks@innovativesmartenergy.com,1672 Innovation Parkway,Miami,FL,33131,USA,2021/05/21,active
+C-1175,Energy Industries Corp,   Lars Kelly,(555)   777-3072,lars.k@energy.com,3942 Battery Street,Richmond,VA,23224,,2021/12/31,Active
+C-1022,Premier EnergySecure,Diego Ghanem,555-448-0135,diego.ghanem@premierenergysecure.com,6988 Renewable Boulevard,Portland,OR,97261,USA,2022/11/13,Inactive
+C-1487,PowerPlus Inc,Ren   Rodriguez,555-723-2772,ren.r@powerplus.com,8076 Corporate Avenue,Austin,TX,78768,USA,05/20/2022,Inactive
+C-1183,EnerStore,Chen Kim,555-855-2186,chen.kim@enerstore.com,2203 Voltage Circle,Detroit,MI,48251,,07/06/2023,active
+C-1424,Innovative Volt Industries,Ritu Mendoza,5557934960,ritumendoza@innovativevolt.com,7600 Technology Road,Atlanta,GA,30369,United States,09/16/2022,inactive
+C-1225,MegaWatt Corp,Makena Rodriguez,5557008030,mrodriguez@megawatt.com,9081 Solar Drive,Las Vegas,NV,89165,,2022-07-25,active
+C-1139,Grid Corporation,Layla Ndebele,555.347.3424,lndebele@grid.com,2348 Battery Boulevard,Los Angeles,CA,90076,United States,2022-02-05,Inactive
+C-1270,EnergySecure Corporation,Alejandro Agarwal,(555)   684-8040,alejandro.agarwal@energysecure.com,3469 Enterprise Lane,Richmond,VA,23296,United States,08/08/2023,Inactive
+C-1034,BatteryPlus,Min-Jun Scott,(555) 932-0903,min-jun.s@batteryplus.com,<html><body>7790 Factory Road</body></html>,Anchorage,AK,99516,United States,11/04/2023,Active
+C-1129,Advanced Grid Technologies,Lindiwe Thompson,+1-555-678-2130,lindiwe.t@advancedgrid.com,9878 Tech Boulevard,St. Louis,MO,63147,United States,05/16/2024,Inactive
+C-1308,Elite Volt Corporation,Nikolai   Morgan,555.866.9838,nikolaimorgan@elitevolt.com,7644 Power Avenue,New Orleans,LA,70112,,02-12-2023,Inactive
+C-1388,<html><body>GreenPower</body></html>,Irina Cooper,(555) 532-7545,icooper@greenpower.com,4205 Voltage Boulevard,Omaha,NE,68169,,10-01-2023,Active
+C-1285,Grid Services Inc,Min-Jun   Khalil,(555)   215-9912,mkhalil@grid.com,"Suite E, 4076 Industrial Street",Charlotte,NC,28222,,2022-02-13,Active
+C-1260,Strategic GreenPower,Rohan Agarwal,555-224-4254,rohan.agarwal@strategicgreenpower.com,5515 Enterprise Road,Atlanta,GA,30314,US,2023/11/12,active
+C-1333,Industrial Battery Solutions Corp,Donna Myers,+1-555-298-0142,dmyers@industrialbattery.com,2195 Factory Lane,New Orleans,LA,70165,United States,2022/08/22,Inactive
+C-1221,BatterySafe,Jessica Robinson,+1-555-335-8950,jessica.robinson@batterysafe.com,5236 Enterprise Lane,Detroit,MI,48292,,2022/09/07,inactive
+C-1079,TechVolt LLC,Kathleen Nowak,+1-555-741-2018,kathleen.n@techvolt.com,6372 Digital Street,Milwaukee,WI,53267,United States,04/01/2023,inactive
+C-1420,Integrated SmartEnergy,Jason Saleh,(555) 283-0548,jason.saleh@integratedsmartenergy.com,701 Innovation Boulevard,Raleigh,NC,27637,US,2024-04-04T00:00:00Z,active
+C-1137,VoltSecure,Nour Morris,(555)   839-8208,nmorris@voltsecure.com,"Suite A, 373 Digital Avenue",New Orleans,LA,70117,,2024-01-02,Inactive
+C-1321,Sustainable Energy Systems,Marisol Nasser,555-840-4217,mnasser@sustainableenergy.com,<strong>8557 Technology Road</strong>,Anchorage,AK,99569,United States,02/25/2024,inactive
+C-1268,Grid Corporation,Valentina Chowdhury,5555468202,valentina.chowdhury@grid.com,9077 Technology Road,San Jose,CA,95136,,08/09/2023,Inactive
+C-1116,BatteryPlus Corp,Raymond Ramos,555.289.3813,rramos@batteryplus.com,5150 Smart Way,Corpus Christi,TX,78426,,2022-03-19T00:00:00Z,inactive
+C-1093,Smart Power Solutions,Salma Weber  ,555.315.1529,salma.weber@smartpower.com,<html>4072 Energy Parkway</html>,Philadelphia,PA,19116,USA,06/25/2023,Inactive
+C-1455,Industrial Energy Systems,Jonathan Ivanov,(555)   935-3939,jonathan.ivanov@industrialenergy.com,"Building 200, 2131 Digital Road",Irvine,CA,92689,US,2023/08/20,Inactive
+C-1486,TechVolt,Tomasz Jung,555 346 7605,tomasz.j@techvolt.com,5526 Renewable Circle,Stamford,CT,6949,United States,2021-11-07,inactive
+C-1046,Energy Industries Corporation,Arjun Hernandez,(555)735-9806,arjun.h@energy.com,7584 Corporate Drive,Nashville,TN,37271,USA,06/29/2022,inactive
+C-1340,Eco Energy Systems,Deepa Robinson,(555) 844-7876,drobinson@eenergy.com,7683 Technology Boulevard,Dallas,TX,75220,,10-31-2022,Inactive
+C-1080,Power Systems,Lin Lee  ,555.524.6285,lin.l@power.com,4364 Smart Drive,Seattle,WA,98198,,2022-04-14,Active
+C-1181,Green SmartEnergy,Layla Chavez  ,(555)   800-5517,lchavez@greensmartenergy.com,1696 Commerce Street,Raleigh,NC,27691,United States,03/26/2024,Inactive
+C-1477,PowerSafe Inc,Ingrid Carter,(555)   689-4360,icarter@powersafe.com,2169 Enterprise Boulevard,Baltimore,MD,21262,,11/06/2021,active
+C-1347,EcoVolt,Kagiso Kumar,555-424-3879,kkumar@evolt.com,<strong>926 Smart Road</strong>,Miami,FL,33124,USA,09/25/2021,Active
+C-1438,EnergyMax Inc,Brandon Adebayo,555.425.2464,brandon.adebayo@energymax.com,3768 Energy Parkway,Dallas,TX,75291,US,09/20/2022,active
+C-1306,Energy Systems,  Kenji Zaman  ,555.886.4236,kenji.z@energy.com,8497 Digital Street,Cambridge,MA,2184,United States,10-01-2023,active
+C-1262,Prime Power Solutions,Lin Wood,(555)   511-7068,lin.w@primepower.com,"Building A, 3641 Manufacturing Lane",Orlando,FL,32835,USA,2023/08/26,Active
+C-1203,<html>Integrated SmartEnergy</html>,Ashley Mostafa,(555)393-2285,ashley.m@integratedsmartenergy.com,1956 Factory Road,Chicago,IL,60630,,2021-04-15T00:00:00Z,active
+C-1246,PowerCore Corp,Yusuf Williams,(555)255-8662,yusuf.w@powerre.com,6001 Voltage Street,Baltimore,MD,21293,,2022-06-17T00:00:00Z,inactive
+C-1128,Industrial BatteryMax Corp,Margaret Traoré,5558963137,margaret.t@industrialbatterymax.com,628 Smart Lane,Charlotte,NC,28221,,2021-10-27T00:00:00Z,active
+C-1415,Eco Volt Industries,Mustafa Lopez,555-583-8060,mustafa.lopez@evolt.com,7339 Factory Lane,Buffalo,NY,14237,US,03/19/2021,Inactive
+C-1289,MegaWatt,Tomasz Hernandez,555 934 0359,tomasz.hernandez@megawatt.com,6066 Corporate Drive,San Jose,CA,95188,,2021/05/28,Active
+C-1506,Power Corporation LLC,Amy Carter,5559315829,amycarter@power.com,1484 Energy Lane,Sacramento,CA,95873,USA,2023-04-23T00:00:00Z,inactive
+C-1463,Energy Corporation,Lindiwe Colombo,555.287.0838,lcolombo@energy.com,6838 Voltage Road,Grand Rapids,MI,49579,USA,2023-08-27T00:00:00Z,Active
+C-1124,EnerStore,Amara   Agarwal,5559407957,amaraagarwal@enerstore.com,"Suite D, 9802 Green Circle",Stamford,CT,06918,US,2023-03-20T00:00:00Z,Inactive
+C-1249,Advanced EcoEnergy,Makena Bailey,555-923-5909,makena.b@advancedeenergy.com,<p>8682 Industrial Circle</p>,Orlando,FL,32828,US,12/11/2022,Active
+C-1059,VoltSecure LLC,Rachel Liu,555 293 0210,rachelliu@voltsecure.com,8733 Corporate Street,Detroit,MI,48217,USA,2022-04-23,Inactive
+C-1383,SmartEnergy,Camila Castillo,(555)371-2992,ccastillo@smartenergy.com,8857 Renewable Drive,San Jose,CA,95182,,2022-11-14T00:00:00Z,Active
+C-1297,Storage Industries,Dennis Szymański,555.764.8104,dennis.szymański@storage.com,7601 Power Avenue,Providence,RI,02946,USA,2021-10-10T00:00:00Z,active
+C-1496,Battery Solutions Corporation,Ingrid Navarro,(555)   257-2187,ingridnavarro@battery.com,7829 Electric Boulevard,New Orleans,LA,70174,United States,2021-11-21,Inactive
+C-1204,Superior EnergyMax,Aisha Reddy,(555) 734-8766,aisha.r@superiorenergymax.com,1504 Innovation Road,Phoenix,AZ,85071,US,05/24/2022,inactive
+C-1215,SmartGrid,Soo-Jin Rao,555 928 7761,soo-jinrao@smartgrid.com,3096 Manufacturing Lane,Miami,FL,33183,US,06/19/2021,inactive
+C-1390,Prime SmartEnergy Corp,Tendai Bailey,5559791511,tendai.b@primesmartenergy.com,"Suite A, 4008 Innovation Avenue",San Jose,CA,95134,USA,2022/05/26,Active
+C-1141,<html><body>Battery Technologies</body></html>,Lars Kamau,(555)   904-7444,lars.kamau@battery.com,5372 Commerce Circle,San Francisco,CA,94144,USA,2024-05-14,Inactive
+C-1009,Commercial Grid Technologies,Farid Joshi,(555)   683-3613,farid.joshi@mmercialgrid.com,"<div>Unit 200, 7849 Green Drive</div>",Los Angeles,CA,90064,,2023-10-13,Active
+C-1209,Technical BatterySafe,Chioma Sharma,(555) 715-0818,chioma.sharma@technicalbatterysafe.com,6475 Battery Avenue,Phoenix,AZ,85086,,2021/08/28,Active
+C-1135,PowerPlus,Jeffrey Young,555.952.1166,jeffrey.young@powerplus.com,2117 Digital Circle,Oakland,CA,94650,US,07-21-2022,Inactive
+C-1277,Volt Industries,Jamal   Russo,(555) 297-3031,jamal.russo@volt.com,<div>7702 Renewable Road</div>,Omaha,NE,68178,US,04-17-2023,inactive
+C-1291,Advanced IndustrialVolt,Anushka Ortiz,5554262361,anushka.o@advancedindustrialvolt.com,2184 Energy Street,Plano,TX,75069,,07/05/2023,active
+C-1377,Grid Technologies,Amina Hoang,555.863.5365,amina.hoang@grid.com,8433 Renewable Parkway,Boise,ID,83769,US,2022-12-20T00:00:00Z,Inactive
+C-1155,Smart PowerSafe Corp,Sekou Rao,5557460728,sekou.rao@smartpowersafe.com,7493 Power Street,San Francisco,CA,94143,USA,2021-07-30,Inactive
+C-1265,<div>Storage Industries</div>,Brian Clark,+1-555-461-2024,brianclark@storage.com,931 Industrial Street,Milwaukee,WI,53216,USA,04/25/2023,Active
+C-1152,Volt Corporation,Vladimir Jung,+1-555-921-9818,vjung@volt.com,6220 Renewable Avenue,San Francisco,CA,94127,US,2023-08-12T00:00:00Z,inactive
+C-1305,Smart IndustrialVolt LLC,Kenneth Long,(555)   451-8003,klong@smartindustrialvolt.com,4813 Green Boulevard,Minneapolis,MN,55492,US,04-28-2021,Active
+C-1223,TechVolt,Paul Jung,555-903-3996,pjung@techvolt.com,675 Solar Way,Denver,CO,80279,United States,2024/03/28,inactive
+C-1123,TechVolt,Nicole Moore,555.879.6332,nmoore@techvolt.com,5720 Voltage Boulevard,Omaha,NE,68141,US,04/04/2024,active
+C-1051,<p>VoltTech Corp</p>,Meera Cortez,555 987 7348,mcortez@volttech.com,6170 Innovation Road,Pittsburgh,PA,15256,USA,2023/03/23,Inactive
+C-1237,VoltSecure,Simba Adebayo,555 248 9056,sadebayo@voltsecure.com,1253 Corporate Avenue,Anchorage,AK,99576,USA,09/24/2021,active
+C-1159,<html><body>Prime VoltMax</body></html>,Eun-Ji Szymański,555-679-3967,eszymański@primevoltmax.com,7457 Technology Boulevard,Atlanta,GA,30334,US,2021-05-27T00:00:00Z,inactive
+C-1206,Commercial EnergySecure LLC,Daria Kowalski,(555)769-2168,dariakowalski@mmercialenergysecure.com,6168 Energy Parkway,Honolulu,HI,96871,,2023-02-16,Active
+C-1259,Elite Energy Solutions Corp,Dev Novák,5552989232,devnovák@eliteenergy.com,<p>6883 Energy Way</p>,Atlanta,GA,30391,US,03-24-2021,active
+C-1313,Commercial PowerPlus,David Mansour,555.612.4245,davidmansour@mmercialpowerplus.com,"Building 200, 7277 Manufacturing Avenue",Minneapolis,MN,55485,USA,2022/02/09,Active
+C-1510,<html><body>Commercial Battery Solutions Inc</body></html>,Joshua Mukherjee,(555) 750-2743,joshua.mukherjee@mmercialbattery.com,1975 Energy Boulevard,Memphis,TN,38166,,2021-05-25T00:00:00Z,active
+C-1145,Industrial IndustrialVolt,Ashley Yoon,5555005532,ashleyyoon@industrialindustrialvolt.com,<strong>5151 Smart Lane</strong>,Arlington,TX,76030,United States,2021/05/22,active
+C-1055,EnergyMax Corp,Anthony Novák,555.788.6952,anthony.novák@energymax.com,7146 Smart Drive,Charlotte,NC,28268,,06/30/2023,Active
+C-1113,BatteryPlus Inc,Daniel Watanabe,(555)909-1140,daniel.w@batteryplus.com,9370 Voltage Parkway,Philadelphia,PA,19137,,09/07/2022,Active
+C-1226,Green TechPower,Chiara Agarwal,(555) 308-3936,chiara.a@greentechpower.com,"Suite 300, 3180 Power Boulevard",Grand Rapids,MI,49567,NULL,12-03-2023,active
+C-1150,Volt Industries,Chiara Ward,(555)682-9255,chiara.w@volt.com,2946 Technology Drive,Atlanta,GA,30399,United States,06/24/2024,Active
+C-1362,Volt Systems,Stephen Hoang,555-606-4340,stephen.hoang@volt.com,7712 Electric Lane,Cambridge,MA,2110,,2022-09-11T00:00:00Z,Active
+C-1012,Green Grid Services,Kathleen Soto,5553005681,ksoto@greengrid.com,1443 Green Parkway,Newark,NJ,07136,United States,2022-07-02,Inactive
+C-1491,<html><body>SmartGrid Corporation</body></html>,   Richard Anyanwu,(555)908-9274,richard.anyanwu@smartgrid.com,6701 Battery Road,Memphis,TN,38176,,06/20/2021,Active
+C-1280,Grid Services,Ingrid Müller,(555)845-3852,ingrid.m@grid.com,4316 Technology Avenue,San Antonio,TX,78258,,01/11/2023,Active
+C-1235,Power Industries,Aditya Oliveira,5555054084,aditya.o@power.com,"<html><body>Unit 300, 1137 Tech Circle</body></html>",Orlando,FL,32880,US,10/01/2022,Inactive
+C-1292,CleanVolt,Igor Watson,5558108474,igorwatson@cleanvolt.com,3646 Digital Road,Stamford,CT,06911,US,2022-07-21T00:00:00Z,Inactive
+C-1512,Premier PowerCore Corporation,William Rodriguez  ,555-980-3993,wrodriguez@premierpowerre.com,1840 Electric Drive,Salt Lake City,UT,84175,United States,2022-05-15,inactive
+C-1169,Volt Corporation Inc,Patrick Cortez,(555)   677-6503,patrick.cortez@volt.com,5283 Technology Avenue,Columbus,OH,43232,United States,06/27/2021,Active
+C-1460,EcoEnergy,Katherine Abadi,+1-555-890-8050,kabadi@eenergy.com,2565 Smart Boulevard,San Francisco,CA,94124,,08/21/2022,Active
+C-1328,VoltTech,Anushka Wu,555-863-5550,awu@volttech.com,6664 Innovation Lane,Arlington,TX,76024,US,2022/07/25,active
+C-1490,TechPower,Matteo Khoury,+1-555-797-7709,matteokhoury@techpower.com,5903 Green Road,Irvine,CA,92669,USA,04-18-2024,Active
+C-1106,Integrated VoltMax,Jun Wright,(555)   873-4513,jun.w@integratedvoltmax.com,3428 Solar Way,Reno,NV,89538,US,04/03/2021,Inactive
+C-1214,PowerMax,Kathleen Traoré,555 403 0517,kathleen.traoré@powermax.com,3855 Innovation Drive,Los Angeles,CA,90029,USA,2021-11-01T00:00:00Z,Active
+C-1344,Storage Industries Corp,  Hiroshi Park  ,(555)   695-7996,hiroshi.park@storage.com,1094 Manufacturing Street,San Francisco,CA,94180,USA,08/31/2022,Active
+C-1319,Power Systems,Arjun Miller,(555)465-5114,arjunmiller@power.com,5382 Digital Avenue,Corpus Christi,TX,78498,US,01-18-2023,inactive
+C-1394,SmartEnergy,Rodrigo Ndebele,+1-555-935-9593,rodrigo.ndebele@smartenergy.com,4656 Enterprise Street,Irvine,CA,92692,United States,04/18/2021,active
+C-1052,Green Power Systems Corporation,Amy Hall  ,5558601650,ahall@greenpower.com,9180 Innovation Drive,Philadelphia,PA,19152,US,2021-03-06,Inactive
+C-1084,EcoEnergy,  Kenneth Stewart  ,+1-555-752-5851,kstewart@eenergy.com,564 Power Street,Orlando,FL,32883,United States,05/06/2022,inactive
+C-1327,VoltSecure,Anna Robinson,(555)   890-5483,annarobinson@voltsecure.com,6865 Enterprise Circle,Charlotte,NC,28222,US,2022/08/17,Active
+C-1295,Grid Technologies,Karen Mukherjee,+1-555-938-9082,kmukherjee@grid.com,"Building 300, 8533 Solar Street",Grand Rapids,MI,49515,United States,03/21/2023,active
+C-1446,Renewable Power Solutions Corporation,Kimberly Cook,(555)843-8553,kimberly.c@renewablepower.com,5331 Factory Circle,Irvine,CA,92687,United States,2021-12-09T00:00:00Z,active
+C-1401,SmartGrid,Ingrid Wang,(555)988-7682,ingrid.w@smartgrid.com,6392 Factory Lane,Chicago,IL,60619,,05-19-2021,Active
+C-1008,TechPower Corporation,   Valentina Nasser,+1-555-745-1572,valentinanasser@techpower.com,8579 Smart Avenue,El Paso,TX,79953,USA,06-17-2024,active
+C-1011,<div>Energy Systems</div>,Amina Nguyen,(555)439-2843,aminanguyen@energy.com,2636 Innovation Lane,San Antonio,TX,78284,USA,2022-12-03T00:00:00Z,Active
+C-1227,<div>Energy Solutions Inc</div>,David   Tanaka,+1-555-382-1905,davidtanaka@energy.com,5204 Factory Way,Tampa,FL,33614,United States,08-12-2021,active
+C-1393,Eco TechVolt,Ritu Ndebele,(555) 394-9726,ritu.ndebele@etechvolt.com,447 Electric Avenue,Omaha,NE,68164,US,08/10/2021,Active
+C-1411,PowerSafe,  Amina Gupta  ,(555)918-1831,amina.gupta@powersafe.com,3762 Business Avenue,Plano,TX,75021,United States,2024/06/25,active
+C-1378,EcoEnergy,   Jason Ward,5559506836,jasonward@eenergy.com,3940 Renewable Drive,Baltimore,MD,21258,US,04/06/2023,Inactive
+C-1387,EnergySecure,Salma Diop,5558060009,salmadiop@energysecure.com,<b>6838 Tech Avenue</b>,El Paso,TX,79923,United States,06/18/2023,inactive
+C-1276,SmartGrid,Angela Popovic,5557878525,angelapopovic@smartgrid.com,3062 Manufacturing Street,Arlington,TX,76028,US,12/11/2023,inactive
+C-1041,MegaWatt,Amy Nguyen,555-662-4346,amynguyen@megawatt.com,3222 Electric Parkway,Lubbock,TX,79418,United States,06-28-2023,Inactive
+C-1043,VoltTech,Soo-Jin Thomas,+1-555-305-9030,sthomas@volttech.com,7313 Voltage Parkway,Austin,TX,78728,,01/11/2022,Active
+C-1047,Prime SmartEnergy,Svetlana Garcia,5558507386,svetlana.g@primesmartenergy.com,3688 Innovation Lane,Kansas City,MO,64194,US,2021-09-15,Active
+C-1462,VoltSecure,Nikolai Jang,+1-555-557-2281,njang@voltsecure.com,2980 Smart Circle,Las Vegas,NV,89186,US,03-16-2024,inactive
+C-1148,Battery Technologies,Meera Gray,555 742 9764,meeragray@battery.com,"Building 200, 6850 Tech Road",Lubbock,TX,79463,US,02/10/2024,active
+C-1469,EnergySecure,Neha Pereira,555.226.3825,neha.p@energysecure.com,"Unit E, 5781 Factory Parkway",New Orleans,LA,70125,US,04/30/2021,Active
+C-1397,<strong>Commercial Power Systems</strong>,Gonzalo Pereira,555 269 8207,gonzalo.pereira@mmercialpower.com,9157 Technology Lane,Portland,OR,97268,United States,2023-04-08,inactive
+C-1439,Integrated BatteryPlus,Dennis Flores,555 269 8319,dennis.flores@integratedbatteryplus.com,6790 Electric Lane,San Antonio,TX,78290,   ,2023-02-27T00:00:00Z,active
+C-1074,PowerMax,Lisa Ali,5556323284,lisa.ali@powermax.com,4872 Green Street,Pittsburgh,PA,15283,,2022-03-19T00:00:00Z,Active
+C-1220,Green Storage Solutions,Fatima Haddad,555-651-6747,fatima.h@greenstorage.com,5918 Enterprise Parkway,Omaha,NE,68167,USA,04-20-2023,Inactive
+C-1353,Battery Corporation,Brenda Abadi,555-858-3289,brendaabadi@battery.com,8614 Commerce Avenue,Chicago,IL,60634,United States,2023/09/17,Active
+C-1207,VoltSecure LLC,Mustafa Moyo,(555) 862-2155,mmoyo@voltsecure.com,8615 Battery Circle,Minneapolis,MN,55450,,2023/03/12,Active
+C-1422,Innovative Power Corporation,   Tariq Sharma,555.541.2328,tariq.s@innovativepower.com,1557 Solar Way,Boston,MA,2138,USA,04-12-2023,active
+C-1437,<html>PowerMax</html>,Pavel Park,555-262-9024,pavelpark@powermax.com,8444 Renewable Parkway,Fresno,CA,93787,United States,2022-04-28T00:00:00Z,active
+C-1070,PowerCore,Amanda Diallo,(555) 567-1470,amandadiallo@powerre.com,6068 Commerce Road,Miami,FL,33167,US,02-27-2024,active
+C-1404,Storage Systems Corporation,Esi Roberts,5554256714,esiroberts@storage.com,5147 Battery Boulevard,Austin,TX,78722,USA,07/04/2023,inactive
+C-1149,PowerMax,Priya Ito,(555)469-7813,priya.i@powermax.com,3046 Battery Way,Houston,TX,77045,USA,10/23/2023,Inactive
+C-1021,<html><body>CleanEnergy</body></html>,Xiaowei Adams,5555231253,xiaowei.a@cleanenergy.com,827 Green Street,Atlanta,GA,30378,US,2023-03-16,inactive
+C-1136,EnergySecure,Rebecca Lee,5557091271,rebeccalee@energysecure.com,4942 Energy Drive,Plano,TX,75040,,06/29/2024,Active
+C-1370,Prime Storage Industries,Valentina King,(555)717-8304,valentina.king@primestorage.com,9923 Electric Street,Denver,CO,80264,USA,2023-01-25T00:00:00Z,Active
+C-1416,PowerPlus,Siobhán   Lee,+1-555-280-5706,siobhánlee@powerplus.com,3043 Energy Avenue,Cleveland,OH,44153,,12/30/2021,inactive
+C-1341,Power Industries LLC,Tunde Deshmukh,555.417.5314,tundedeshmukh@power.com,8855 Battery Street,Austin,TX,78731,,2023-09-29T00:00:00Z,inactive
+C-1127,TechVolt,Daniel Reddy,5552258878,daniel.r@techvolt.com,635 Business Drive,Cambridge,MA,02168,,2024-03-30T00:00:00Z,Active
+C-1016,Energy Corporation Inc,Ji-Woo Long  ,+1-555-311-1126,jlong@energy.com,"Unit E, 4102 Solar Lane",Grand Rapids,MI,49593,USA,04/09/2024,Inactive
+C-1164,Superior Energy Systems,Zeynep Allen,(555) 439-1335,zeynepallen@superiorenergy.com,913 Technology Drive,Cleveland,OH,44138,US,2022/09/03,inactive
+C-1154,Volt Systems,Raymond   Collins,555.733.6721,raymond.c@volt.com,7417 Battery Lane,Minneapolis,MN,55418,United States,2022/08/08,Active
+C-1087,Green VoltTech,Scott Yoon,555.206.8597,scottyoon@greenvolttech.com,2294 Business Way,San Diego,CA,92115,,2021-06-13T00:00:00Z,active
+C-1025,BatteryPlus Corp,Dev Bennett,(555)   430-3490,dbennett@batteryplus.com,4781 Commerce Lane,Washington,DC,20079,USA,2021/12/09,active
+C-1266,Grid Corporation,Stephanie Kamau,555.836.1941,stephaniekamau@grid.com,9402 Industrial Avenue,Richmond,VA,23299,,09/16/2021,inactive
+C-1025,BatteryPlus Corp,Dev Bennett,+1-555-275-7094,dbennett@batteryplus.com,4781 Commerce Lane,Washington,DC,20079,USA,2021/12/09,active
+C-1217,SmartGrid,Valentina Fischer,555-578-0988,valentina.fischer@smartgrid.com,9535 Commerce Avenue,Atlanta,GA,30340,,04/20/2023,active
+C-1274,Green Storage Systems LLC,Tariq Hassan,555 652 3114,thassan@greenstorage.com,5728 Tech Street,Salt Lake City,UT,84170,   ,07/11/2023,Inactive
+C-1114,CleanEnergy Inc,Arjun Roberts,(555)831-0367,aroberts@cleanenergy.com,<html><body>5003 Technology Drive</body></html>,Nashville,TN,37259,United States,2023-04-26,active
+C-1024,Apex Energy Corporation,Laura Murphy,(555)   874-5362,lmurphy@apexenergy.com,9232 Commerce Avenue,Atlanta,GA,30369,United States,2023/08/24,inactive
+C-1040,Innovative GreenVolt Corporation,Paloma Ghanem  ,555.606.6057,pghanem@innovativegreenvolt.com,4020 Technology Lane,Las Vegas,NV,89162,USA,2022-06-04T00:00:00Z,Active
+C-1017,Green Grid Technologies,Rebecca Khoury,555 732 0373,rebeccakhoury@greengrid.com,4214 Energy Avenue,Raleigh,NC,27645,USA,2021-03-08T00:00:00Z,Inactive
+C-1272,Renewable Volt Corporation Inc,Emily Williams,(555) 260-1849,emily.williams@renewablevolt.com,"Unit 200, 8074 Green Boulevard",Memphis,TN,38168,,03/04/2022,inactive
+C-1238,GreenVolt,Mark Petrov,+1-555-735-7168,markpetrov@greenvolt.com,7097 Voltage Boulevard,Las Vegas,NV,89161,United States,01-18-2022,inactive
+C-1444,Sustainable PowerPlus,Dmitriy Green,555-612-5690,dgreen@sustainablepowerplus.com,3778 Voltage Lane,Grand Rapids,MI,49552,USA,2023-03-09T00:00:00Z,Active
+C-1357,Industrial TechVolt,Michelle Keita,555.472.8111,michellekeita@industrialtechvolt.com,6444 Commerce Circle,Dallas,TX,75295,,09/20/2022,Active
+C-1403,Energy Solutions LLC,Harpreet Kamau,(555)969-1370,harpreetkamau@energy.com,9703 Power Parkway,Baltimore,MD,21264,US,2023-07-23T00:00:00Z,Inactive
+C-1176,Industrial Volt Industries Inc,Yulia Taylor,555 914 9180,yulia.t@industrialvolt.com,"Suite A, 5223 Green Avenue",Nashville,TN,37227,US,01-03-2023,Inactive
+C-1315,Global PowerMax,George Castillo,+1-555-707-1617,george.castillo@globalpowermax.com,5060 Electric Avenue,Indianapolis,IN,46276,,2023-10-11T00:00:00Z,active
+C-1252,Battery Technologies,Elena Castillo  ,+1-555-804-1483,elenacastillo@battery.com,9470 Electric Parkway,Baltimore,MD,21214,USA,09/11/2023,inactive
+C-1426,TechPower LLC,Meera Morgan,(555) 964-1068,meeramorgan@techpower.com,8854 Solar Drive,Indianapolis,IN,46277,USA,2023-09-05,active
+C-1170,<b>Storage Systems Corp</b>,Nikhil Chen,(555)538-3909,nikhilchen@storage.com,6380 Battery Street,Kansas City,MO,64157,USA,12-20-2022,active

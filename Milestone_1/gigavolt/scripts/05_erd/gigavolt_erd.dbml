@@ -1,0 +1,70 @@
+Table customers {
+  customer_id varchar [pk]
+  company_name varchar
+  contact_name varchar
+  phone varchar
+  email varchar
+  address varchar
+  city varchar
+  state char
+  zip varchar
+  country char
+  created_date date
+  status varchar
+}
+
+Table equipment_units {
+  equipment_id varchar [pk]
+  customer_id varchar [not null]
+  model varchar
+  serial_number varchar
+  install_date date
+  capacity_kw decimal
+  voltage varchar
+  warranty_expiration date
+  status varchar
+  location_notes text
+}
+
+Table service_logs {
+  dispatch_id varchar [pk]
+  equipment_id varchar [not null]
+  dispatch_date date
+  technician varchar
+  service_type varchar
+  hours_spent decimal
+  labor_cost decimal
+  resolution_summary text
+  status varchar
+}
+
+Table parts_inventory {
+  part_id varchar [pk]
+  part_name varchar
+  category varchar
+  manufacturer varchar
+  supplier varchar
+  unit_cost decimal
+  unit_price decimal
+  stock_quantity int
+  reorder_level int
+}
+
+Table warranty_claims {
+  claim_id varchar [pk]
+  equipment_id varchar [not null]
+  dispatch_id varchar
+  part_id varchar
+  claim_date date
+  claim_amount decimal
+  approved_amount decimal
+  status varchar
+  denial_reason text
+  claim_notes text
+}
+
+Ref: equipment_units.customer_id > customers.customer_id
+Ref: service_logs.equipment_id > equipment_units.equipment_id
+Ref: warranty_claims.equipment_id > equipment_units.equipment_id
+Ref: warranty_claims.dispatch_id > service_logs.dispatch_id
+Ref: warranty_claims.part_id > parts_inventory.part_id

@@ -1,0 +1,1249 @@
+claim_id,equipment_id,dispatch_id,part_id,claim_date,claim_amount,approved_amount,status,denial_reason,claim_notes
+CLM-9986,EQ-6004,,,2023/10/28,576.91,576.91,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9376,EQ-6471,DISP-14099,PRT-2002,06/28/2022,1031.12,903.5,APPROVED,N/A,Claim for replacement part PRT-2002 under equipment warranty.
+CLM-9563,EQ-6411,DISP-13904,PRT-2048,09/22/2021,3618.15,3618.15,Approved,N/A,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9903,EQ-6107,,PRT-2121,2022-01-28,3895.52,NULL,Pending,,Claim for replacement part PRT-2121 under equipment warranty.
+CLM-9853,EQ-6872,DISP-12198,NULL,11/30/2021,1073.64,1073.64,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9673,EQ-5091,DISP-10018,PRT-2050,2022-09-16,2687.45,2687.45,APPROVED,N/A,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9180,EQ-5570,DISP-10228,,2023-03-16T00:00:00Z,2730.57,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.  
+CLM-9274,EQ-7354,DISP-14565,PRT-2072,2022-12-08T00:00:00Z,1019.83,1019.83,APPROVED,N/A,Claim for replacement part PRT-2072 under equipment warranty.
+CLM-9914,EQ-7002,DISP-10347,PRT-2038,2022-05-18T00:00:00Z,208.72,NULL,Pending,,Claim for replacement part PRT-2038 under equipment warranty.
+CLM-9334,EQ-5595,DISP-12250,,08/27/2021,1368.36,828.56,Approved,N/A,Claim for replacement part N/A under equipment warranty.  
+CLM-9489,EQ-6915,DISP-13592,,12-18-2022,1061.46,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9731,EQ-5735,DISP-11438,PRT-2074,02/21/2023,3439.57,NULL,Under Review,,Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9200,EQ-7494,DISP-11789,PRT-2059,04/04/2023,2890.06,2890.06,Approved,N/A,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9692,EQ-6645,DISP-12360,PRT-2106,10/20/2023,2665.02,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9231,EQ-5533,DISP-13023,PRT-2015,01/28/2023,2314.03,NULL,Pending,,Claim for replacement part PRT-2015 under equipment warranty.  
+CLM-9071,EQ-7294,DISP-11968,PRT-2001,07-28-2023,970.15,970.15,APPROVED,N/A,Claim for replacement part PRT-2001 under equipment warranty.
+CLM-9169,EQ-6709,DISP-11356,PRT-2105,2023-02-25,3664.47,NULL,Under Review,,Claim for replacement part PRT-2105 under equipment warranty.
+CLM-9706,EQ-7274,DISP-12429,PRT-2080,2022-06-20,1712.3,NULL,Pending,,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-10099,EQ-5741,DISP-12793,PRT-2127,2023-07-12T00:00:00Z,4707.55,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2127 under equipment warranty.
+CLM-9515,EQ-5972,,PRT-2008,12/10/2021,1181.31,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9443,EQ-5173,DISP-12077,PRT-2047,06-05-2023,2105.28,NULL,Pending,,Claim for replacement part PRT-2047 under equipment warranty.  
+CLM-9415,EQ-7269,,PRT-2140,11-02-2023,1317.28,1317.28,Under Review,N/A,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9383,EQ-7043,DISP-12397,,01/16/2022,1950.45,NULL,Pending,<p></p>,Claim for replacement part N/A under equipment warranty.
+CLM-10084,EQ-5096,DISP-14697,PRT-2041,2024/02/20,1421.38,NULL,Under Review,,  Claim for replacement part PRT-2041 under equipment warranty.  
+CLM-9233,EQ-5680,DISP-13349,,09-10-2022,1992.77,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-10122,EQ-6517,DISP-11383,PRT-2132,2024-05-02T00:00:00Z,3190.88,NULL,Pending,,Claim for replacement part PRT-2132 under equipment warranty.
+CLM-10011,EQ-7394,DISP-14741,PRT-2138,09/18/2021,2572.16,NULL,Under Review,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9458,EQ-5808,,,12-16-2023,3290.83,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9580,EQ-7088,,PRT-2060,2021-10-05,3456.77,NULL,Pending,<html></html>,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-10128,EQ-6524,DISP-14442,NULL,2023-02-23T00:00:00Z,2677.99,1558.37,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9907,EQ-5609,DISP-13318,PRT-2024,11/09/2022,1037.24,1037.24,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2024 under equipment warranty.
+CLM-10077,EQ-7439,DISP-14213,PRT-2149,04/22/2024,292.49,NULL,Pending,,Claim for replacement part PRT-2149 under equipment warranty.
+CLM-9767,EQ-7124,DISP-14883,PRT-2080,2024-01-17,195.56,NULL,Under Review,,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-9083,EQ-7237,DISP-11778,PRT-2007,08/13/2022,4090.75,NULL,Under Review,,Claim for replacement part PRT-2007 under equipment warranty.
+CLM-9739,EQ-5576,DISP-10022,PRT-2045,2022/06/16,2243.95,2243.95,APPROVED,N/A,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9714,EQ-7171,DISP-13115,PRT-2147,05/04/2022,522.82,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2147 under equipment warranty.  
+CLM-9235,EQ-5008,,,11-01-2021,1454.26,1454.26,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9653,EQ-6662,DISP-13714,PRT-2050,10/14/2022,1705.04,NULL,Under Review,,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9817,EQ-6715,DISP-13219,PRT-2069,2024/08/10,3629.96,3629.96,APPROVED,N/A,Claim for replacement part PRT-2069 under equipment warranty.
+CLM-10047,EQ-7468,,PRT-2089,11/14/2023,441.86,441.86,Approved,N/A,Claim for replacement part PRT-2089 under equipment warranty.
+CLM-9541,EQ-6690,DISP-12856,PRT-2026,01-13-2023,1807.89,1541.92,APPROVED,N/A,Claim for replacement part PRT-2026 under equipment warranty.
+CLM-9797,EQ-6025,DISP-10994,PRT-2012,2021-09-04T00:00:00Z,271.95,0.0,Rejected,<html>Improper installation by non-certified party</html>,Claim for replacement part PRT-2012 under equipment warranty.  
+CLM-9906,EQ-5784,DISP-14315,   ,2022-01-15T00:00:00Z,3937.83,3937.83,APPROVED,N/A,  Claim for replacement part N/A under equipment warranty.  
+CLM-9654,EQ-5727,,PRT-2050,2023-11-11T00:00:00Z,4132.58,NULL,Under Review,,  Claim for replacement part PRT-2050 under equipment warranty.  
+CLM-9685,EQ-5912,DISP-12517,   ,09/07/2022,1425.32,1425.32,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9655,EQ-6155,DISP-14720,PRT-2050,01/17/2023,1279.66,NULL,Under Review,,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9650,EQ-5478,DISP-14417,PRT-2071,10/21/2021,4040.43,4040.43,APPROVED,N/A,Claim for replacement part PRT-2071 under equipment warranty.
+CLM-9940,EQ-7286,NULL,PRT-2077,2023-04-04T00:00:00Z,3788.14,NULL,Pending,,Claim for replacement part PRT-2077 under equipment warranty.
+CLM-9360,EQ-5841,DISP-11135,PRT-2034,06-06-2024,1030.09,1030.09,Approved,N/A,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9172,EQ-6350,DISP-11240,,12/27/2023,4383.57,NULL,Pending,<html></html>,Claim for replacement part N/A under equipment warranty.
+CLM-9569,EQ-7017,DISP-12616,PRT-2091,2023/01/31,4405.25,NULL,Under Review,<strong></strong>,Claim for replacement part PRT-2091 under equipment warranty.
+CLM-9618,EQ-7140,DISP-11845,PRT-2069,08/18/2023,1323.15,1323.15,Approved,N/A,Claim for replacement part PRT-2069 under equipment warranty.
+CLM-9298,EQ-5220,DISP-10165,PRT-2042,2022/08/15,304.66,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2042 under equipment warranty.
+CLM-9992,EQ-7125,DISP-11424,,09-28-2021,4298.43,0.0,Rejected,Normal wear and tear excluded,  Claim for replacement part N/A under equipment warranty.  
+CLM-9444,EQ-5212,DISP-12909,,05/15/2024,4213.28,4213.28,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10182,EQ-6770,DISP-10170,PRT-2114,2021-08-09,1391.44,NULL,Pending,,   Claim for replacement part PRT-2114 under equipment warranty.
+CLM-10050,EQ-6100,DISP-10099,PRT-2044,2022-08-05,772.63,772.63,Approved,N/A,Claim for replacement part PRT-2044 under equipment warranty.
+CLM-9495,EQ-5864,DISP-13781,PRT-2126,2023-09-27,3358.73,3358.73,Approved,N/A,Claim for replacement part PRT-2126 under equipment warranty.
+CLM-9656,EQ-5315,DISP-11437,PRT-2094,11-17-2021,1195.0,NULL,Pending,,Claim for replacement part PRT-2094 under equipment warranty.
+CLM-9147,EQ-7449,DISP-12410,,09/05/2021,1170.7,1170.7,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10001,EQ-7422,DISP-13250,PRT-2016,2023-10-12T00:00:00Z,2303.76,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2016 under equipment warranty.
+CLM-9195,EQ-6918,DISP-13672,,03/29/2023,482.42,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9390,EQ-5991,DISP-14949,PRT-2068,07/19/2021,3357.12,3357.12,Approved,N/A,  Claim for replacement part PRT-2068 under equipment warranty.  
+CLM-9250,EQ-6896,DISP-14492,PRT-2028,02/15/2024,1030.88,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9651,EQ-5864,DISP-10974,PRT-2048,2022-12-21T00:00:00Z,1907.47,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9603,EQ-5549,DISP-11056,,2024/04/13,2430.21,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9085,EQ-7172,DISP-12117,PRT-2133,2023-10-12T00:00:00Z,4422.54,4422.54,Approved,N/A,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-10026,EQ-7171,DISP-14336,PRT-2138,09/12/2021,1776.7,NULL,Under Review,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9089,EQ-6373,DISP-10004,,2023-07-19T00:00:00Z,3742.3,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.  
+CLM-9872,EQ-5102,,PRT-2034,2023-09-17,3619.87,3619.87,APPROVED,N/A,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9354,EQ-5256,DISP-12030,PRT-2044,12-13-2022,2954.35,2954.35,Approved,N/A,Claim for replacement part PRT-2044 under equipment warranty.  
+CLM-9865,EQ-6838,,PRT-2126,01-17-2022,2431.26,0.0,Rejected,<div>Unauthorized modification detected</div>,Claim for replacement part PRT-2126 under equipment warranty.
+CLM-9644,EQ-5614,,PRT-2133,2022-10-31T00:00:00Z,2740.38,NULL,Pending,,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9033,EQ-7126,DISP-12389,PRT-2119,2024-04-03T00:00:00Z,4099.37,4099.37,APPROVED,N/A,Claim for replacement part PRT-2119 under equipment warranty.
+CLM-9628,EQ-6208,DISP-13829,PRT-2149,2021/10/16,924.53,924.53,Approved,N/A,Claim for replacement part PRT-2149 under equipment warranty.
+CLM-9391,EQ-5866,DISP-10808,,2024/07/28,4695.39,4695.39,APPROVED,<html><body>N/A</body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-10107,EQ-5556,,PRT-2070,08/05/2024,2175.42,2175.42,Approved,N/A,Claim for replacement part PRT-2070 under equipment warranty.
+CLM-9163,EQ-6121,DISP-12924,PRT-2116,07/29/2022,568.82,568.82,APPROVED,N/A,Claim for replacement part PRT-2116 under equipment warranty.
+CLM-9419,EQ-6676,DISP-10533,,12/11/2021,1481.44,1481.44,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9373,EQ-5228,,,2022/04/17,3707.07,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9301,EQ-6164,DISP-12448,,2023/01/19,560.57,560.57,APPROVED,N/A,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9203,EQ-6980,DISP-12888,PRT-2054,03/28/2024,1090.1,NULL,Under Review,,Claim for replacement part PRT-2054 under equipment warranty.
+CLM-9971,EQ-6959,,PRT-2064,2024-02-27T00:00:00Z,4143.97,NULL,Under Review,,Claim for replacement part PRT-2064 under equipment warranty.
+CLM-9407,EQ-6499,DISP-13252,PRT-2089,08/26/2022,3860.29,NULL,Pending,,Claim for replacement part PRT-2089 under equipment warranty.
+CLM-9481,EQ-5655,DISP-14621,,06-06-2022,177.38,177.38,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9730,EQ-7361,DISP-11348,,2021-08-19T00:00:00Z,3092.2,2854.67,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9922,EQ-6662,DISP-12871,PRT-2008,01-19-2024,1146.57,NULL,Pending,,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9454,EQ-5842,,,01/03/2024,3937.9,3937.9,Approved,<p>N/A</p>,Claim for replacement part N/A under equipment warranty.
+CLM-9365,EQ-6679,DISP-11248,PRT-2008,2021/12/27,728.91,728.91,APPROVED,N/A,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9981,EQ-6764,DISP-11120,PRT-2131,2024/06/07,1586.91,1586.91,Approved,N/A,Claim for replacement part PRT-2131 under equipment warranty.
+CLM-9905,EQ-6278,DISP-13097,PRT-2089,10/21/2023,2326.7,2326.7,Approved,N/A,Claim for replacement part PRT-2089 under equipment warranty.
+CLM-9403,EQ-5624,DISP-14100,,2022-07-24,2744.97,NULL,Pending,<html><body></body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-9894,EQ-5035,,PRT-2020,04/22/2023,1696.75,1696.75,Approved,N/A,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9294,EQ-7077,DISP-13434,PRT-2059,2023-10-18T00:00:00Z,2339.21,2339.21,APPROVED,N/A,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-10068,EQ-7160,DISP-10418,PRT-2092,08/19/2021,1874.7,NULL,Pending,,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-9284,EQ-5498,DISP-14355,PRT-2023,2021-07-24,1832.98,1832.98,APPROVED,N/A,Claim for replacement part PRT-2023 under equipment warranty.
+CLM-9881,EQ-7105,,PRT-2011,01-17-2023,4026.03,0.0,Rejected,Warranty expired prior to claim date,   Claim for replacement part PRT-2011 under equipment warranty.
+CLM-9178,EQ-6258,DISP-10207,PRT-2081,10/20/2023,3207.61,NULL,Under Review,,Claim for replacement part PRT-2081 under equipment warranty.
+CLM-9737,EQ-5861,DISP-12982,PRT-2032,2023-06-28T00:00:00Z,2562.64,NULL,Under Review,,   Claim for replacement part PRT-2032 under equipment warranty.
+CLM-9528,EQ-5516,DISP-13612,PRT-2045,08/05/2023,306.82,306.82,Approved,N/A,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9467,EQ-6560,DISP-11448,PRT-2060,04-23-2023,456.26,456.26,Approved,N/A,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-10014,EQ-6306,DISP-10475,,07/12/2022,2983.34,2983.34,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9857,EQ-6642,,,2023-07-21T00:00:00Z,2971.16,2971.16,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9875,EQ-5047,DISP-10694,PRT-2095,03/07/2023,2534.57,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2095 under equipment warranty.
+CLM-10032,EQ-6836,DISP-12362,PRT-2011,11/17/2022,4175.63,4175.63,Approved,N/A,   Claim for replacement part PRT-2011 under equipment warranty.
+CLM-9351,EQ-5471,,PRT-2126,2022-08-20,3014.94,3014.94,APPROVED,N/A,Claim for replacement part PRT-2126 under equipment warranty.
+CLM-9499,EQ-5980,DISP-10962,,08/18/2021,1629.5,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9248,EQ-5607,,PRT-2076,08/09/2023,4134.9,0.0,Rejected,Warranty expired prior to claim date,   Claim for replacement part PRT-2076 under equipment warranty.
+CLM-9546,EQ-6244,,,2023-12-03T00:00:00Z,4525.99,4525.99,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10095,EQ-7198,DISP-10726,NULL,2022-03-13T00:00:00Z,4177.12,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10000,EQ-6511,,,01/29/2022,2624.08,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9512,EQ-5486,DISP-12250,PRT-2020,11-10-2021,2047.17,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9468,EQ-5133,DISP-11396,PRT-2048,05-26-2024,4342.36,3885.0,APPROVED,N/A,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-10124,EQ-6410,DISP-10064,PRT-2141,10/02/2021,342.1,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-10054,EQ-5739,DISP-14136,PRT-2130,2024-03-19T00:00:00Z,753.67,753.67,APPROVED,N/A,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-9897,EQ-6461,DISP-12134,,2022/02/05,1833.21,NULL,Under Review,,   Claim for replacement part N/A under equipment warranty.
+CLM-9660,EQ-6873,,,09/30/2022,638.49,638.49,Approved,N/A,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9275,EQ-5744,DISP-12100,PRT-2086,2023-03-20T00:00:00Z,4380.48,4380.48,Approved,N/A,Claim for replacement part PRT-2086 under equipment warranty.
+CLM-9765,EQ-7057,DISP-12772,PRT-2110,2023-05-01T00:00:00Z,996.41,NULL,Under Review,,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9057,EQ-7179,DISP-10484,PRT-2032,02/15/2023,1985.0,1985.0,APPROVED,N/A,Claim for replacement part PRT-2032 under equipment warranty.
+CLM-9417,EQ-6774,DISP-12683,,2022-12-26,3576.01,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10189,EQ-5555,DISP-12099,,2021-08-30T00:00:00Z,1982.35,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9834,EQ-6594,DISP-13356,PRT-2143,2022-01-04T00:00:00Z,2341.85,2341.85,Approved,N/A,Claim for replacement part PRT-2143 under equipment warranty.
+CLM-9424,EQ-7394,DISP-11015,PRT-2101,2024/08/05,2045.7,2045.7,Approved,N/A,Claim for replacement part PRT-2101 under equipment warranty.
+CLM-9882,EQ-6923,DISP-13563,PRT-2056,10/13/2023,4376.44,0.0,Rejected,Normal wear and tear excluded,  Claim for replacement part PRT-2056 under equipment warranty.  
+CLM-9045,EQ-5774,DISP-10016,PRT-2087,05-17-2024,1879.53,1879.53,APPROVED,N/A,Claim for replacement part PRT-2087 under equipment warranty.
+CLM-9108,EQ-6850,,,2023/12/01,4370.37,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-10031,EQ-6963,,PRT-2034,07/22/2023,2013.81,2013.81,APPROVED,N/A,   Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9015,EQ-6160,DISP-14755,PRT-2115,2023-12-04,4588.49,0.0,Rejected,<b>Unauthorized modification detected</b>,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9369,EQ-5993,,PRT-2135,02/25/2023,2742.86,NULL,Under Review,,Claim for replacement part PRT-2135 under equipment warranty.
+CLM-10126,EQ-5317,DISP-14441,PRT-2034,03-31-2022,2182.0,NULL,Pending,<html></html>,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9573,EQ-5443,,PRT-2048,11-16-2023,3101.88,3101.88,APPROVED,N/A,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9246,EQ-6612,DISP-13773,,01-01-2024,2423.51,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9095,EQ-7399,DISP-10816,,2023/03/01,3109.06,3109.06,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9148,EQ-7086,DISP-13951,PRT-2119,2022/02/08,2543.25,NULL,Under Review,,Claim for replacement part PRT-2119 under equipment warranty.  
+CLM-9318,EQ-6802,,PRT-2088,2023/12/25,4284.9,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2088 under equipment warranty.
+CLM-9485,EQ-5216,DISP-11279,PRT-2092,09/24/2023,1507.35,NULL,Pending,,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-9941,EQ-5639,DISP-14279,PRT-2078,2021-07-30,212.9,NULL,Pending,,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-10045,EQ-6292,DISP-12060,NULL,06/11/2023,1069.07,0.0,Rejected,<p>Unauthorized modification detected</p>,Claim for replacement part N/A under equipment warranty.
+CLM-9475,EQ-5050,DISP-13783,PRT-2024,2021-12-30,2599.9,2018.75,APPROVED,N/A,Claim for replacement part PRT-2024 under equipment warranty.
+CLM-9539,EQ-5606,DISP-13341,,2022-10-28T00:00:00Z,2134.33,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9321,EQ-6033,DISP-14220,,2022-01-18T00:00:00Z,725.63,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9181,EQ-7006,,PRT-2021,2023/01/19,1965.25,NULL,Pending,,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-10017,EQ-6800,DISP-14366,,2022/10/08,4755.56,4755.56,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9251,EQ-7285,DISP-11939,PRT-2132,2021/07/14,2566.88,NULL,Pending,,Claim for replacement part PRT-2132 under equipment warranty.
+CLM-9942,EQ-5739,DISP-14034,PRT-2113,2021-07-27,3104.45,NULL,Under Review,,   Claim for replacement part PRT-2113 under equipment warranty.
+CLM-9173,EQ-6994,,PRT-2090,01/18/2022,4122.55,4122.55,Under Review,N/A,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9002,EQ-7020,DISP-12090,PRT-2012,05/24/2022,4229.25,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9209,EQ-6081,,PRT-2007,01/01/2022,4632.48,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2007 under equipment warranty.
+CLM-9031,EQ-7226,DISP-14332,,2023-11-28T00:00:00Z,4146.82,4146.82,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10154,EQ-7047,,PRT-2020,04/26/2024,704.35,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-10016,EQ-5867,DISP-14284,PRT-2088,2024/02/13,4448.41,NULL,Under Review,,Claim for replacement part PRT-2088 under equipment warranty.
+CLM-9146,EQ-6533,,,2023-12-04T00:00:00Z,4333.81,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9537,EQ-6899,DISP-14152,PRT-2035,05/10/2023,4303.16,NULL,Pending,,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-9694,EQ-7437,DISP-12914,PRT-2048,07-18-2022,4674.0,4674.0,APPROVED,N/A,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9606,EQ-5050,DISP-12312,,02-27-2022,994.71,519.42,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9874,EQ-6514,,PRT-2052,12/14/2022,1617.94,0.0,Rejected,Unauthorized modification detected,Claim   for   replacement   part   PRT-2052   under   equipment   warranty.
+CLM-9179,EQ-7022,NULL,PRT-2013,2024-01-27,205.11,0.0,Rejected,Unauthorized modification detected,   Claim for replacement part PRT-2013 under equipment warranty.
+CLM-9813,EQ-6743,DISP-12056,,12-13-2023,3472.23,3472.23,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9554,EQ-5612,DISP-10748,,07-12-2024,1729.91,NULL,Pending,<b></b>,Claim for replacement part N/A under equipment warranty.
+CLM-9272,EQ-7451,DISP-13199,PRT-2077,10/25/2022,574.21,NULL,Under Review,,Claim for replacement part PRT-2077 under equipment warranty.
+CLM-10133,EQ-5004,DISP-14956,,07/14/2024,3478.25,0.0,Rejected,<html>Unauthorized modification detected</html>,Claim for replacement part N/A under equipment warranty.
+CLM-9319,EQ-6465,DISP-13756,,2022-01-16T00:00:00Z,3387.44,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9928,EQ-6114,DISP-13198,PRT-2106,02-25-2022,293.97,293.97,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9011,EQ-5998,DISP-10318,,01/01/2023,4101.96,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10018,EQ-7084,DISP-10887,,2023-11-21T00:00:00Z,4399.85,4399.85,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9803,EQ-6324,DISP-12361,PRT-2074,2022-10-23,2962.93,NULL,Under Review,,Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9678,EQ-5195,DISP-11314,PRT-2002,01/01/2023,4375.1,NULL,Pending,,Claim for replacement part PRT-2002 under equipment warranty.
+CLM-9916,EQ-7092,DISP-12810,PRT-2020,2021/08/21,4092.26,4092.26,APPROVED,N/A,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9718,EQ-6432,DISP-11767,,12-29-2021,1408.03,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9925,EQ-5611,DISP-10844,PRT-2147,2021-07-08,3959.08,NULL,Pending,,Claim for replacement part PRT-2147 under equipment warranty.
+CLM-9505,EQ-6039,,PRT-2075,06/07/2022,631.29,631.29,APPROVED,N/A,Claim for replacement part PRT-2075 under equipment warranty.
+CLM-10168,EQ-5412,DISP-11788,,06-07-2022,2167.02,2167.02,APPROVED,<html><body>N/A</body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-10040,EQ-7365,,PRT-2111,2022-01-03T00:00:00Z,708.31,NULL,Under Review,<html></html>,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9576,EQ-6535,DISP-11424,PRT-2131,2021/08/09,2964.41,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2131 under equipment warranty.
+CLM-9536,EQ-6334,DISP-14219,PRT-2016,2023/01/23,1520.35,1520.35,Approved,N/A,Claim for replacement part PRT-2016 under equipment warranty.
+CLM-9589,EQ-6984,DISP-10261,PRT-2141,12/19/2021,4425.98,NULL,Under Review,,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-9855,EQ-6541,DISP-11154,PRT-2131,2022-06-26T00:00:00Z,463.69,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2131 under equipment warranty.
+CLM-9222,EQ-5359,DISP-13752,PRT-2144,12-05-2021,324.28,324.28,Under Review,<html>N/A</html>,Claim for replacement part PRT-2144 under equipment warranty.
+CLM-10058,EQ-7267,,PRT-2106,01/06/2023,1948.89,0.0,Rejected,<strong>Normal wear and tear excluded</strong>,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9592,EQ-6495,DISP-12357,,04/17/2023,4021.96,4021.96,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9109,EQ-5001,DISP-11218,PRT-2022,04/02/2024,2660.17,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2022 under equipment warranty.
+CLM-9695,EQ-6044,DISP-12936,,07-09-2022,1513.98,1513.98,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9672,EQ-6261,DISP-14521,,2021/11/28,3217.31,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9001,EQ-5376,,PRT-2070,2024-04-11,576.2,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2070 under equipment warranty.
+CLM-9104,EQ-6822,,,2022/11/18,1564.1,1564.1,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9096,EQ-6477,DISP-13074,PRT-2052,2023-04-04,391.85,391.85,APPROVED,N/A,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9219,EQ-7108,DISP-11089,,06-24-2023,2844.57,0.0,Rejected,<html><body>Warranty expired prior to claim date</body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-10090,EQ-6930,DISP-13630,PRT-2069,09/27/2022,3872.71,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2069 under equipment warranty.
+CLM-9138,EQ-6610,DISP-13575,,2021/12/24,4655.43,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9810,EQ-6313,DISP-14374,PRT-2017,2024/05/15,806.71,806.71,Approved,N/A,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9226,EQ-6513,DISP-10918,PRT-2087,2021-07-22T00:00:00Z,2801.13,2801.13,APPROVED,N/A,Claim for replacement part PRT-2087 under equipment warranty.
+CLM-10081,EQ-5219,,,2023-10-16T00:00:00Z,1474.53,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9193,EQ-7165,DISP-12134,PRT-2057,2024-08-06T00:00:00Z,1228.66,1228.66,Approved,N/A,Claim for replacement part PRT-2057 under equipment warranty.
+CLM-9771,EQ-6745,DISP-14802,PRT-2129,2023-01-04,3539.83,3539.83,APPROVED,N/A,   Claim for replacement part PRT-2129 under equipment warranty.
+CLM-9463,EQ-6340,DISP-12986,,02/05/2024,4573.85,4573.85,Approved,<b>N/A</b>,Claim for replacement part N/A under equipment warranty.
+CLM-9873,EQ-7079,DISP-11796,PRT-2028,03/24/2023,1157.74,NULL,Under Review,,  Claim for replacement part PRT-2028 under equipment warranty.  
+CLM-9555,EQ-5245,DISP-13367,PRT-2021,2024-01-04T00:00:00Z,1029.66,698.42,APPROVED,N/A,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-9049,EQ-5102,DISP-12426,PRT-2049,2021-09-08T00:00:00Z,580.08,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2049 under equipment warranty.
+CLM-10176,EQ-6839,   ,PRT-2104,2024-02-10,3102.61,2078.35,Approved,N/A,Claim for replacement part PRT-2104 under equipment warranty.
+CLM-9430,EQ-6846,DISP-12207,PRT-2101,03-30-2022,636.65,388.64,Approved,N/A,Claim for replacement part PRT-2101 under equipment warranty.
+CLM-10060,EQ-6969,DISP-11862,PRT-2035,2024-03-30T00:00:00Z,4424.83,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-9431,EQ-5886,DISP-12069,PRT-2067,03/24/2022,2753.45,2753.45,APPROVED,N/A,Claim for replacement part PRT-2067 under equipment warranty.
+CLM-9582,EQ-5766,,,12/09/2022,2260.36,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10113,EQ-5037,DISP-10977,,09-04-2023,4745.89,NULL,Under Review,<html><body></body></html>,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9705,EQ-5889,DISP-10416,PRT-2052,09/07/2021,619.41,NULL,Pending,,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9356,EQ-6852,DISP-12303,PRT-2046,07-27-2022,3327.47,3327.47,APPROVED,N/A,Claim for replacement part PRT-2046 under equipment warranty.
+CLM-9198,EQ-5692,DISP-13688,PRT-2138,12/11/2023,4068.19,NULL,Pending,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9919,EQ-5371,DISP-10449,PRT-2079,2023-10-05T00:00:00Z,4654.45,4654.45,APPROVED,N/A,Claim for replacement part PRT-2079 under equipment warranty.  
+CLM-9691,EQ-7199,DISP-11464,PRT-2017,2022-08-13,1960.99,1960.99,APPROVED,N/A,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9171,EQ-5909,,,01/21/2024,365.02,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9227,EQ-6192,DISP-11230,PRT-2100,2022-04-04,273.33,NULL,Under Review,,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-10044,EQ-6832,DISP-10786,PRT-2066,2022/07/27,941.81,941.81,APPROVED,N/A,Claim for replacement part PRT-2066 under equipment warranty.
+CLM-9568,EQ-5764,,,11/01/2021,992.01,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9596,EQ-6671,DISP-10044,PRT-2014,09-14-2021,4283.36,4283.36,APPROVED,N/A,Claim for replacement part PRT-2014 under equipment warranty.
+CLM-9975,EQ-5903,DISP-10986,,02/18/2022,3853.6,3853.6,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9362,EQ-5748,,PRT-2020,2021-07-06,3276.51,0.0,Under Review,Warranty expired prior to claim date,   Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9518,EQ-5477,DISP-10436,PRT-2055,07/08/2022,834.82,NULL,Pending,,Claim for replacement part PRT-2055 under equipment warranty.
+CLM-9743,EQ-5657,DISP-11369,,07-05-2024,2780.64,2780.64,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9680,EQ-7059,DISP-14070,,2021/08/20,671.5,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9684,EQ-5188,DISP-12027,,12/24/2022,4079.46,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9427,EQ-5295,DISP-14477,PRT-2100,11/27/2023,4736.38,NULL,Under Review,,   Claim for replacement part PRT-2100 under equipment warranty.
+CLM-9093,EQ-5693,,PRT-2045,03/14/2023,644.42,NULL,Pending,,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9926,EQ-5171,,PRT-2110,01-24-2024,4693.29,4693.29,Approved,N/A,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9132,EQ-6313,DISP-14714,,2021-08-11T00:00:00Z,1531.14,1531.14,APPROVED,N/A,   Claim for replacement part N/A under equipment warranty.
+CLM-10024,EQ-6903,DISP-14412,,2022-07-31T00:00:00Z,4560.49,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-10003,EQ-7006,,,06-08-2023,1254.31,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10066,EQ-6769,DISP-10353,PRT-2084,2024-04-03,715.45,368.78,APPROVED,N/A,Claim   for   replacement   part   PRT-2084   under   equipment   warranty.
+CLM-9121,EQ-6783,DISP-13118,PRT-2070,07/17/2023,2897.1,2897.1,APPROVED,N/A,Claim for replacement part PRT-2070 under equipment warranty.
+CLM-9877,EQ-5226,,PRT-2012,2021/11/01,3973.43,3973.43,APPROVED,N/A,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-10115,EQ-5116,DISP-12750,,2022-12-10,299.35,NULL,Pending,,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9371,EQ-6716,,PRT-2037,07-24-2023,3710.92,NULL,Pending,,Claim for replacement part PRT-2037 under equipment warranty.
+CLM-9682,EQ-5760,DISP-12758,PRT-2096,2021/09/07,3575.36,3575.36,APPROVED,N/A,Claim for replacement part PRT-2096 under equipment warranty.
+CLM-9271,EQ-6389,DISP-10883,PRT-2144,2024-05-09T00:00:00Z,4075.84,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2144 under equipment warranty.
+CLM-9866,EQ-7312,DISP-13657,,06/11/2022,1908.38,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9773,EQ-6692,,PRT-2109,2023/03/15,1235.94,NULL,Pending,,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-9688,EQ-5224,DISP-13057,PRT-2041,2021-12-29T00:00:00Z,1697.58,NULL,Under Review,,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9004,EQ-5932,,PRT-2058,08/13/2024,679.82,NULL,Pending,,Claim for replacement part PRT-2058 under equipment warranty.
+CLM-9900,EQ-5784,DISP-14277,,10/15/2022,4261.3,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-10112,EQ-6466,DISP-13659,PRT-2140,05-21-2024,2280.27,2280.27,APPROVED,N/A,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-10131,EQ-5822,DISP-14885,,2021-10-10,2686.23,2686.23,Under Review,<html><body>N/A</body></html>,Claim for replacement part N/A under equipment warranty.  
+CLM-9277,EQ-6879,DISP-12210,PRT-2018,2022/05/18,1313.66,NULL,Under Review,,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9990,EQ-7017,DISP-13122,PRT-2112,07/02/2024,3360.98,0.0,Rejected,Improper installation by non-certified party,  Claim for replacement part PRT-2112 under equipment warranty.  
+CLM-9224,EQ-6846,DISP-13952,PRT-2055,01/02/2023,3375.66,NULL,Under Review,,Claim for replacement part PRT-2055 under equipment warranty.
+CLM-10034,EQ-6928,DISP-14222,,11-21-2022,4002.08,0.0,Rejected,<html><body>Normal wear and tear excluded</body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-9738,EQ-5010,DISP-13908,PRT-2112,07-28-2022,4022.29,0.0,Rejected,Unauthorized modification detected,Claim   for   replacement   part   PRT-2112   under   equipment   warranty.
+CLM-10010,EQ-7192,DISP-10244,PRT-2124,08/02/2022,2203.75,NULL,Under Review,,Claim for replacement part PRT-2124 under equipment warranty.
+CLM-9341,EQ-5841,DISP-12363,PRT-2082,2021-09-20,953.62,NULL,Under Review,,Claim for replacement part PRT-2082 under equipment warranty.
+CLM-9891,EQ-5426,DISP-14404,,11/15/2023,738.53,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10175,EQ-7247,DISP-11311,PRT-2003,2021/08/17,2471.09,NULL,Under Review,,Claim for replacement part PRT-2003 under equipment warranty.
+CLM-9533,EQ-6111,DISP-11069,PRT-2005,2023-01-15,4255.42,0.0,Rejected,Unauthorized modification detected,   Claim for replacement part PRT-2005 under equipment warranty.
+CLM-9034,EQ-6721,DISP-14365,PRT-2142,2021-12-23,1048.82,NULL,Pending,,Claim for replacement part PRT-2142 under equipment warranty.
+CLM-9794,EQ-6614,DISP-12386,PRT-2108,04/10/2022,1184.65,1184.65,Approved,N/A,Claim for replacement part PRT-2108 under equipment warranty.
+CLM-9720,EQ-5743,,PRT-2051,2021-12-30T00:00:00Z,2078.49,NULL,Pending,,Claim for replacement part PRT-2051 under equipment warranty.
+CLM-9530,EQ-5603,DISP-14588,PRT-2148,2024-05-28,479.36,479.36,Approved,<strong>N/A</strong>,Claim for replacement part PRT-2148 under equipment warranty.
+CLM-9339,EQ-6403,DISP-12218,PRT-2087,2024-06-27T00:00:00Z,2649.2,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2087 under equipment warranty.
+CLM-9863,EQ-7341,DISP-10199,PRT-2068,2021-09-07,3954.53,NULL,Pending,<html><body></body></html>,Claim for replacement part PRT-2068 under equipment warranty.
+CLM-9324,EQ-5090,DISP-11297,PRT-2081,10/23/2023,2202.37,2202.37,APPROVED,N/A,Claim for replacement part PRT-2081 under equipment warranty.
+CLM-10035,EQ-7106,DISP-11403,PRT-2023,06/26/2022,2116.18,NULL,Under Review,,Claim for replacement part PRT-2023 under equipment warranty.
+CLM-9525,EQ-5125,DISP-11202,PRT-2113,2024/06/25,2591.66,2591.66,Approved,N/A,Claim for replacement part PRT-2113 under equipment warranty.
+CLM-9027,EQ-7254,DISP-12308,PRT-2107,2023/01/31,3460.81,NULL,Pending,,Claim for replacement part PRT-2107 under equipment warranty.
+CLM-9072,EQ-7278,,PRT-2056,11-25-2022,3778.32,NULL,Under Review,,Claim for replacement part PRT-2056 under equipment warranty.
+CLM-10028,EQ-7265,DISP-14039,,2022-09-12T00:00:00Z,639.94,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9766,EQ-7261,DISP-14667,PRT-2035,2022-12-07,4057.37,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-9382,EQ-7167,DISP-13030,,2024-07-24T00:00:00Z,4733.97,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9768,EQ-7139,DISP-12259,PRT-2030,05/03/2023,3936.59,3936.59,Approved,N/A,Claim for replacement part PRT-2030 under equipment warranty.
+CLM-10150,EQ-5208,DISP-12957,PRT-2133,2024-08-09T00:00:00Z,2476.0,NULL,Under Review,,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9410,EQ-5956,DISP-12781,PRT-2116,09/19/2022,3588.28,NULL,Under Review,,Claim for replacement part PRT-2116 under equipment warranty.
+CLM-9021,EQ-5185,,PRT-2116,2024/08/04,1792.24,904.01,Approved,N/A,Claim for replacement part PRT-2116 under equipment warranty.
+CLM-9630,EQ-6386,DISP-14862,PRT-2043,2021-11-04T00:00:00Z,3182.57,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2043 under equipment warranty.
+CLM-9868,EQ-6058,DISP-11984,,2022/07/26,4532.15,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9970,EQ-6441,DISP-12204,,2022/03/30,3219.18,3219.18,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9741,EQ-7060,,,12/01/2022,3111.33,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-10156,EQ-6587,DISP-12060,PRT-2021,11/08/2022,4585.87,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-10199,EQ-5282,DISP-14440,PRT-2147,08-17-2022,2878.4,NULL,Pending,,   Claim for replacement part PRT-2147 under equipment warranty.
+CLM-9965,EQ-6628,DISP-11444,PRT-2074,2022/02/13,1762.83,NULL,Pending,,Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9155,EQ-6755,DISP-10418,PRT-2053,11/18/2023,1124.55,0.0,Pending,Normal wear and tear excluded,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9982,EQ-5731,DISP-14372,,2022-03-19,4300.05,4300.05,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9835,EQ-6045,DISP-13039,PRT-2049,2024-08-14,3469.39,NULL,Pending,,Claim for replacement part PRT-2049 under equipment warranty.
+CLM-10135,EQ-5454,DISP-14912,,05/14/2022,1287.8,NULL,Pending,,Claim for replacement part N/A under equipment warranty.  
+CLM-9449,EQ-7223,DISP-12258,PRT-2037,07/28/2023,1875.78,1875.78,Approved,N/A,   Claim for replacement part PRT-2037 under equipment warranty.
+CLM-9983,EQ-5695,DISP-12656,PRT-2016,2022-06-22,2135.74,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2016 under equipment warranty.
+CLM-9564,EQ-5287,DISP-13469,,08/09/2023,1255.22,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9895,EQ-5464,,PRT-2011,2021-09-07T00:00:00Z,2737.64,NULL,Under Review,,Claim for replacement part PRT-2011 under equipment warranty.
+CLM-9223,EQ-5184,DISP-11851,,2022/09/12,898.05,898.05,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.  
+CLM-9764,EQ-5593,,PRT-2066,10/02/2022,2490.49,2490.49,APPROVED,N/A,  Claim for replacement part PRT-2066 under equipment warranty.  
+CLM-9129,EQ-6722,DISP-14513,PRT-2009,10-08-2021,3350.45,3350.45,Approved,N/A,Claim for replacement part PRT-2009 under equipment warranty.
+CLM-10163,EQ-7039,DISP-10105,,2021-07-13T00:00:00Z,2691.86,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9442,EQ-5680,DISP-14530,PRT-2103,2023-10-23T00:00:00Z,4664.04,NULL,Pending,<html><body></body></html>,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9723,EQ-5963,DISP-13057,PRT-2068,2024/06/22,3565.43,NULL,Pending,<html><body></body></html>,Claim for replacement part PRT-2068 under equipment warranty.
+CLM-9100,EQ-5316,,PRT-2047,08-05-2021,715.48,NULL,Under Review,,Claim for replacement part PRT-2047 under equipment warranty.
+CLM-9372,EQ-6816,,PRT-2001,02-10-2024,1728.65,1728.65,APPROVED,N/A,Claim for replacement part PRT-2001 under equipment warranty.
+CLM-9557,EQ-6658,DISP-12230,PRT-2140,2022-08-12,2595.6,NULL,Under Review,,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-10063,EQ-6104,,,12/11/2023,2090.69,2090.69,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9392,EQ-6975,DISP-10220,PRT-2092,03-16-2022,4536.12,NULL,Pending,<html><body></body></html>,  Claim for replacement part PRT-2092 under equipment warranty.  
+CLM-10121,EQ-6692,,PRT-2099,2022/03/25,3298.06,2302.18,Approved,N/A,Claim for replacement part PRT-2099 under equipment warranty.
+CLM-9783,EQ-6382,DISP-10889,PRT-2054,12/19/2021,2462.44,2462.44,APPROVED,N/A,Claim for replacement part PRT-2054 under equipment warranty.
+CLM-9306,EQ-6417,DISP-14036,,2023-03-04T00:00:00Z,423.93,423.93,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9397,EQ-6198,DISP-12787,,2021-08-21T00:00:00Z,2006.61,2006.61,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10149,EQ-7272,DISP-14132,,12-21-2022,841.52,NULL,Pending,<strong></strong>,Claim for replacement part N/A under equipment warranty.
+CLM-9452,EQ-6346,DISP-10496,PRT-2032,02-10-2024,3110.56,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2032 under equipment warranty.
+CLM-9205,EQ-6415,DISP-10550,PRT-2117,2023-06-15T00:00:00Z,2883.84,2883.84,Approved,N/A,Claim for replacement part PRT-2117 under equipment warranty.
+CLM-9050,EQ-6573,DISP-12658,PRT-2105,08/04/2021,1175.29,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2105 under equipment warranty.
+CLM-9831,EQ-5476,DISP-11585,,2022-04-25T00:00:00Z,3304.89,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9728,EQ-7293,DISP-11612,PRT-2053,01-12-2022,1832.01,NULL,Pending,<b></b>,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9111,EQ-6797,DISP-11854,,03-12-2022,1164.27,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.  
+CLM-10051,EQ-5134,DISP-10293,PRT-2018,2024-08-11T00:00:00Z,834.2,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9995,EQ-7287,DISP-11104,PRT-2103,2022-02-07,1523.56,NULL,Under Review,,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9978,EQ-5744,DISP-11449,PRT-2004,2023/04/14,2031.59,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2004 under equipment warranty.
+CLM-9065,EQ-6811,,PRT-2094,08/12/2022,4246.55,NULL,Pending,,Claim for replacement part PRT-2094 under equipment warranty.
+CLM-9622,EQ-6934,DISP-14147,,2023-11-19,4325.78,4325.78,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9497,EQ-5367,DISP-11817,PRT-2137,2024-03-05T00:00:00Z,2042.1,2042.1,APPROVED,N/A,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-10109,EQ-7176,DISP-10953,PRT-2093,10/30/2021,333.62,NULL,Pending,,Claim for replacement part PRT-2093 under equipment warranty.
+CLM-9313,EQ-5372,DISP-12191,PRT-2112,04-01-2023,529.29,529.29,APPROVED,N/A,Claim for replacement part PRT-2112 under equipment warranty.
+CLM-9924,EQ-5720,DISP-14412,PRT-2059,04/11/2022,344.96,344.96,Approved,<p>N/A</p>,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9007,EQ-6689,DISP-14618,PRT-2028,2021-10-29,2660.24,NULL,Under Review,,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9183,EQ-6932,DISP-10154,PRT-2131,05/10/2023,3623.02,NULL,Pending,<p></p>,Claim for replacement part PRT-2131 under equipment warranty.
+CLM-10108,EQ-5530,DISP-12386,PRT-2050,2023/01/14,1769.2,NULL,Pending,,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9716,EQ-6042,,PRT-2139,2021-11-24T00:00:00Z,3582.63,NULL,Pending,,Claim for replacement part PRT-2139 under equipment warranty.
+CLM-10197,EQ-6442,DISP-13697,PRT-2010,2022/09/23,4288.45,NULL,Under Review,,Claim for replacement part PRT-2010 under equipment warranty.
+CLM-9099,EQ-6659,DISP-14578,PRT-2143,02/01/2023,660.5,NULL,Under Review,,Claim for replacement part PRT-2143 under equipment warranty.
+CLM-9166,EQ-5112,DISP-11465,NULL,03/18/2024,3127.86,3127.86,Approved,<strong>N/A</strong>,Claim for replacement part N/A under equipment warranty.
+CLM-9829,EQ-6317,DISP-14142,PRT-2054,09/28/2022,4273.17,NULL,Pending,,Claim for replacement part PRT-2054 under equipment warranty.
+CLM-9526,EQ-6645,DISP-11904,PRT-2110,05/16/2022,3615.9,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9079,EQ-6419,DISP-14097,,2023-02-27,2211.85,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9600,EQ-7446,DISP-11141,PRT-2012,2024-06-19T00:00:00Z,1229.84,NULL,Pending,,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9506,EQ-6411,DISP-10168,PRT-2141,2022-07-12T00:00:00Z,742.5,742.5,Approved,N/A,  Claim for replacement part PRT-2141 under equipment warranty.  
+CLM-9320,EQ-5229,DISP-10097,PRT-2060,2022-11-15T00:00:00Z,834.13,NULL,Pending,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9080,EQ-5827,DISP-14519,PRT-2034,06/13/2024,1777.65,1777.65,APPROVED,N/A,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9445,EQ-7496,DISP-12027,PRT-2148,2022-10-03,2320.16,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2148 under equipment warranty.
+CLM-10030,EQ-5712,DISP-11244,PRT-2094,08/28/2022,4398.76,4398.76,APPROVED,N/A,Claim for replacement part PRT-2094 under equipment warranty.
+CLM-9824,EQ-6806,DISP-10017,,11/16/2022,3745.13,NULL,Pending,,  Claim for replacement part N/A under equipment warranty.  
+CLM-9348,EQ-6652,,PRT-2010,10-06-2022,928.89,928.89,Approved,N/A,Claim for replacement part PRT-2010 under equipment warranty.
+CLM-9812,EQ-6643,DISP-13949,PRT-2009,2023/06/24,804.34,0.0,Rejected,<div>Normal wear and tear excluded</div>,Claim for replacement part PRT-2009 under equipment warranty.
+CLM-10177,EQ-6748,DISP-12482,NULL,2024/03/14,2758.95,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9420,EQ-5569,DISP-12752,,11/02/2021,1914.83,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10184,EQ-6311,DISP-11152,   ,03/10/2024,4371.14,4371.14,Under Review,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9196,EQ-5886,DISP-13245,PRT-2101,2023-11-09T00:00:00Z,2313.94,NULL,Under Review,,Claim for replacement part PRT-2101 under equipment warranty.
+CLM-9531,EQ-5322,DISP-11822,PRT-2144,02-24-2022,3035.01,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2144 under equipment warranty.
+CLM-9234,EQ-5260,DISP-13091,PRT-2064,2023-06-10T00:00:00Z,2637.94,2637.94,APPROVED,<strong>N/A</strong>,Claim for replacement part PRT-2064 under equipment warranty.
+CLM-9067,EQ-6038,,PRT-2028,07-31-2024,4199.64,4199.64,APPROVED,<p>N/A</p>,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9385,EQ-5781,DISP-12893,PRT-2065,2023-05-10,2679.14,2679.14,APPROVED,N/A,Claim for replacement part PRT-2065 under equipment warranty.  
+CLM-9238,EQ-6833,DISP-12983,PRT-2110,11/29/2021,561.28,561.28,APPROVED,N/A,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9338,EQ-5310,DISP-13122,PRT-2008,2022-03-11,900.42,NULL,Under Review,,  Claim for replacement part PRT-2008 under equipment warranty.  
+CLM-9740,EQ-6758,DISP-13585,PRT-2091,2022-06-11,4570.39,4570.39,Approved,N/A,Claim for replacement part PRT-2091 under equipment warranty.
+CLM-9352,EQ-6135,DISP-13630,PRT-2041,2023-08-10T00:00:00Z,4023.21,NULL,Pending,<div></div>,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9793,EQ-6658,,,06/28/2023,622.8,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9144,EQ-6439,DISP-12484,PRT-2117,03-04-2024,790.52,790.52,APPROVED,N/A,Claim for replacement part PRT-2117 under equipment warranty.
+CLM-9411,EQ-7315,DISP-12420,,01/23/2024,1145.19,1145.19,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9631,EQ-5716,DISP-10117,PRT-2103,09/09/2023,863.93,NULL,Under Review,<strong></strong>,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9416,EQ-5957,DISP-13300,PRT-2036,2024-02-18T00:00:00Z,1644.76,NULL,Pending,<html><body></body></html>,Claim for replacement part PRT-2036 under equipment warranty.
+CLM-9364,EQ-5908,DISP-14453,PRT-2123,2023-05-29T00:00:00Z,4791.79,3134.8,APPROVED,N/A,Claim for replacement part PRT-2123 under equipment warranty.
+CLM-9675,EQ-6750,DISP-13308,PRT-2100,2023/04/26,1513.49,1513.49,Approved,N/A,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-9647,EQ-6936,DISP-10357,PRT-2062,2023-04-24T00:00:00Z,548.74,NULL,Under Review,,Claim for replacement part PRT-2062 under equipment warranty.
+CLM-9156,EQ-6569,DISP-12687,PRT-2113,09/27/2022,2119.3,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2113 under equipment warranty.  
+CLM-9474,EQ-6486,DISP-13052,PRT-2127,03/07/2024,1526.96,1526.96,Approved,N/A,Claim for replacement part PRT-2127 under equipment warranty.
+CLM-9307,EQ-6116,,PRT-2124,12-03-2023,2987.08,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2124 under equipment warranty.
+CLM-9516,EQ-6214,DISP-11887,PRT-2140,09/24/2023,1010.06,NULL,Under Review,,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9115,EQ-6438,,PRT-2009,2023-08-30T00:00:00Z,2674.47,2674.47,Approved,N/A,Claim for replacement part PRT-2009 under equipment warranty.  
+CLM-9479,EQ-5866,DISP-13186,PRT-2119,09/18/2023,1191.45,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2119 under equipment warranty.
+CLM-9029,EQ-5569,,PRT-2133,02-18-2023,2856.75,NULL,Pending,,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9283,EQ-5184,DISP-11845,PRT-2134,09/25/2022,1227.13,1227.13,APPROVED,N/A,Claim for replacement part PRT-2134 under equipment warranty.
+CLM-9643,EQ-7183,DISP-11427,,07-02-2023,3581.73,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9663,EQ-5070,DISP-14415,,12-21-2023,4055.5,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10169,EQ-5355,DISP-14234,PRT-2019,12-09-2023,545.01,NULL,Pending,,  Claim for replacement part PRT-2019 under equipment warranty.  
+CLM-9343,EQ-5628,DISP-10155,,07/19/2021,3989.83,3395.31,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9330,EQ-6472,DISP-13544,,04-04-2024,3323.34,NULL,Under Review,<strong></strong>,Claim for replacement part N/A under equipment warranty.
+CLM-9996,EQ-6510,DISP-10303,PRT-2112,2023/06/25,1345.81,968.52,APPROVED,N/A,  Claim for replacement part PRT-2112 under equipment warranty.  
+CLM-9892,EQ-5886,DISP-12152,PRT-2124,2024/05/14,3279.18,NULL,Under Review,,Claim for replacement part PRT-2124 under equipment warranty.
+CLM-9585,EQ-5992,,PRT-2092,2022-12-20,4182.44,NULL,Pending,,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-9291,EQ-6525,DISP-14260,,2022-12-20,2653.03,2653.03,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9798,EQ-6994,DISP-10127,PRT-2053,04/15/2022,813.72,NULL,Pending,,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9127,EQ-6629,DISP-12115,PRT-2147,2022-03-04T00:00:00Z,720.93,0.0,Rejected,<p>Warranty expired prior to claim date</p>,Claim for replacement part PRT-2147 under equipment warranty.
+CLM-9762,EQ-5968,,PRT-2046,01/17/2024,2351.88,2351.88,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2046 under equipment warranty.
+CLM-9488,EQ-7430,DISP-13616,,03/15/2024,4385.04,3489.47,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9597,EQ-5672,DISP-11570,PRT-2118,03/31/2024,188.51,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2118 under equipment warranty.
+CLM-9822,EQ-7325,,,01/24/2023,4321.11,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10188,EQ-5570,DISP-10646,PRT-2037,12/26/2022,1628.83,1628.83,APPROVED,N/A,Claim for replacement part PRT-2037 under equipment warranty.
+CLM-10102,EQ-6432,DISP-13438,,12-03-2021,2430.3,2430.3,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9920,EQ-6252,DISP-14812,PRT-2133,2022-06-27,2893.23,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9785,EQ-5137,,PRT-2071,2024-04-20T00:00:00Z,484.64,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2071 under equipment warranty.  
+CLM-9423,EQ-6389,DISP-14527,,2023-08-19T00:00:00Z,3371.64,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-10087,EQ-5713,,PRT-2030,2021/09/26,4220.06,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2030 under equipment warranty.
+CLM-9056,EQ-6206,DISP-11451,PRT-2026,2022/10/25,2987.86,1797.99,APPROVED,N/A,Claim for replacement part PRT-2026 under equipment warranty.
+CLM-9210,EQ-5251,DISP-14800,,2022-09-23T00:00:00Z,4727.55,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9679,EQ-5816,DISP-13859,PRT-2137,12-31-2022,717.57,717.57,Approved,N/A,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9775,EQ-7370,,PRT-2090,2021-07-02,3504.83,3504.83,Approved,N/A,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9006,EQ-6700,DISP-13425,PRT-2132,01/24/2023,682.1,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2132 under equipment warranty.
+CLM-9489,EQ-6915,DISP-13592,,12-18-2022,1061.46,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10125,EQ-5852,DISP-11787,,12/24/2022,1833.45,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9262,EQ-5312,DISP-12923,,2022-03-29T00:00:00Z,588.39,0.0,Rejected,<html><body>Improper installation by non-certified party</body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-9993,EQ-7227,DISP-13778,PRT-2087,08-28-2023,1204.94,NULL,Pending,,Claim for replacement part PRT-2087 under equipment warranty.
+CLM-9837,EQ-5811,DISP-11215,PRT-2029,2023/01/11,2108.08,NULL,Pending,,Claim for replacement part PRT-2029 under equipment warranty.
+CLM-9331,EQ-5680,DISP-12913,PRT-2008,2022-04-20T00:00:00Z,2604.73,1348.34,APPROVED,N/A,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9913,EQ-6849,DISP-12343,,05-28-2022,544.72,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10019,EQ-7253,DISP-13468,,05/30/2024,1975.97,1975.97,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9944,EQ-6344,DISP-13617,PRT-2048,01/31/2023,4582.4,NULL,Under Review,,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9288,EQ-6812,DISP-11572,PRT-2129,03-03-2022,2007.66,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2129 under equipment warranty.
+CLM-9395,EQ-5896,DISP-13520,PRT-2020,2024/01/11,699.93,NULL,Under Review,,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9282,EQ-7252,DISP-14803,,2022/12/26,3587.28,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9667,EQ-7239,DISP-12589,PRT-2046,2024/05/02,1109.3,NULL,Pending,,Claim for replacement part PRT-2046 under equipment warranty.  
+CLM-9105,EQ-5548,DISP-12347,,11-11-2023,2706.05,NULL,Pending,,   Claim for replacement part N/A under equipment warranty.
+CLM-9686,EQ-5780,DISP-10739,PRT-2130,2021/12/06,378.44,378.44,Approved,N/A,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-9194,EQ-5387,DISP-10745,PRT-2135,2021-10-09T00:00:00Z,3409.91,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2135 under equipment warranty.
+CLM-9289,EQ-5798,DISP-10370,,02-27-2023,3712.68,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9242,EQ-6453,DISP-12651,PRT-2084,2024/03/09,4128.82,NULL,Under Review,,Claim for replacement part PRT-2084 under equipment warranty.
+CLM-10076,EQ-7446,DISP-12066,PRT-2144,2021-12-13,1559.2,1559.2,Approved,N/A,Claim for replacement part PRT-2144 under equipment warranty.
+CLM-9912,EQ-7163,DISP-12757,PRT-2012,12/15/2022,2412.61,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9243,EQ-5203,DISP-14386,PRT-2064,2024/06/17,4054.24,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2064 under equipment warranty.
+CLM-9955,EQ-5685,DISP-11538,PRT-2067,2024-08-06,2688.67,2688.67,APPROVED,<p>N/A</p>,Claim for replacement part PRT-2067 under equipment warranty.
+CLM-9508,EQ-7157,DISP-11808,,2022-11-16T00:00:00Z,4490.55,4490.55,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9378,EQ-6465,,,2022-09-28T00:00:00Z,3080.27,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10007,EQ-5007,DISP-11597,PRT-2144,2024-07-01,320.95,NULL,Pending,,Claim   for   replacement   part   PRT-2144   under   equipment   warranty.
+CLM-9848,EQ-5960,DISP-14331,PRT-2016,2022/07/01,1478.84,NULL,Under Review,,   Claim for replacement part PRT-2016 under equipment warranty.
+CLM-10086,EQ-6237,,PRT-2021,05-07-2022,2112.24,2112.24,APPROVED,N/A,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-9188,EQ-6097,DISP-12162,PRT-2134,08/28/2023,4313.97,4313.97,APPROVED,N/A,Claim for replacement part PRT-2134 under equipment warranty.
+CLM-9671,EQ-6386,DISP-10876,,2023-01-09,2483.77,2483.77,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10153,EQ-6428,DISP-10247,PRT-2045,12/11/2022,1443.19,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9084,EQ-7172,DISP-13392,PRT-2149,2024/03/15,2554.4,2554.4,APPROVED,N/A,Claim for replacement part PRT-2149 under equipment warranty.
+CLM-9232,EQ-5567,DISP-12309,,01/24/2023,3516.27,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9520,EQ-6858,DISP-10789,   ,05-09-2024,3005.85,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9070,EQ-6886,DISP-11839,PRT-2029,2023-01-18T00:00:00Z,1547.43,1547.43,Approved,N/A,Claim for replacement part PRT-2029 under equipment warranty.
+CLM-9394,EQ-7369,DISP-12790,,2022-08-06,4490.76,4490.76,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10088,EQ-6137,DISP-13491,PRT-2027,2023-09-11,711.66,711.66,APPROVED,N/A,Claim for replacement part PRT-2027 under equipment warranty.
+CLM-9998,EQ-5744,,PRT-2150,03/10/2022,951.28,951.28,APPROVED,N/A,Claim for replacement part PRT-2150 under equipment warranty.
+CLM-9778,EQ-7145,DISP-14014,PRT-2145,06/03/2024,4064.19,4064.19,APPROVED,N/A,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9833,EQ-5685,DISP-11852,PRT-2078,2022-02-11T00:00:00Z,3188.41,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-10193,EQ-6957,DISP-13768,PRT-2014,2021-08-14,674.37,NULL,Under Review,,Claim for replacement part PRT-2014 under equipment warranty.
+CLM-9784,EQ-6766,DISP-11871,PRT-2037,08/02/2021,3334.7,3334.7,APPROVED,N/A,Claim for replacement part PRT-2037 under equipment warranty.
+CLM-9082,EQ-5631,,PRT-2100,04/06/2023,4212.66,NULL,Pending,,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-10186,EQ-5626,DISP-10018,PRT-2113,2024/07/28,1918.44,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2113 under equipment warranty.
+CLM-9102,EQ-7210,,PRT-2140,2022-05-13T00:00:00Z,4318.8,NULL,Pending,,Claim for replacement part PRT-2140 under equipment warranty.  
+CLM-10055,EQ-7021,DISP-11803,PRT-2145,2021/10/11,413.96,NULL,Under Review,,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9944,EQ-6344,DISP-13617,PRT-2048,01/31/2023,4582.4,NULL,Under Review,,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9575,EQ-5248,,PRT-2020,2024/08/01,1763.77,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9097,EQ-6531,DISP-10324,PRT-2018,2023-01-02,3008.85,3008.85,Approved,N/A,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9529,EQ-6228,DISP-12417,PRT-2005,2022-04-21,1969.23,1969.23,APPROVED,<html><body>N/A</body></html>,Claim for replacement part PRT-2005 under equipment warranty.
+CLM-10152,EQ-6043,DISP-12834,PRT-2115,2022-01-05,3276.78,NULL,Pending,,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9374,EQ-5929,DISP-11335,PRT-2021,08-29-2022,3196.53,3196.53,Approved,N/A,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-9755,EQ-5776,DISP-14233,PRT-2011,05/18/2022,2887.29,NULL,Under Review,<p></p>,Claim for replacement part PRT-2011 under equipment warranty.  
+CLM-9988,EQ-7147,DISP-14504,PRT-2015,05/11/2023,655.52,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2015 under equipment warranty.
+CLM-9314,EQ-7029,DISP-14030,PRT-2066,2022/01/25,1287.88,NULL,Under Review,<b></b>,Claim for replacement part PRT-2066 under equipment warranty.
+CLM-10173,EQ-5020,DISP-10821,PRT-2115,04/18/2022,4071.71,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9075,EQ-5416,,,2024/04/29,657.93,657.93,Under Review,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9415,EQ-7269,,PRT-2140,11-02-2023,1317.28,1317.28,Pending,N/A,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9265,EQ-5099,DISP-10609,PRT-2060,2023-12-19T00:00:00Z,4162.64,NULL,Pending,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9819,EQ-7196,DISP-13013,PRT-2039,09/21/2021,4153.68,NULL,Under Review,,Claim for replacement part PRT-2039 under equipment warranty.
+CLM-9594,EQ-7116,DISP-12955,PRT-2051,04-04-2024,229.71,NULL,Under Review,,Claim for replacement part PRT-2051 under equipment warranty.
+CLM-10165,EQ-5299,DISP-13777,PRT-2101,2023-12-18T00:00:00Z,3416.22,NULL,Pending,<html></html>,Claim for replacement part PRT-2101 under equipment warranty.
+CLM-10065,EQ-6341,DISP-12229,PRT-2141,01/29/2022,872.92,779.78,Approved,N/A,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-9450,EQ-5179,DISP-13269,PRT-2035,2024/06/11,1863.57,NULL,Pending,,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-9652,EQ-5854,,PRT-2130,2022-10-27,2697.92,NULL,Under Review,<p></p>,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-9519,EQ-6035,,PRT-2146,12/03/2023,4289.52,NULL,Under Review,,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-9388,EQ-5362,,PRT-2108,2021/10/20,595.31,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2108 under equipment warranty.
+CLM-9224,EQ-6846,DISP-13952,PRT-2055,01/02/2023,3375.66,NULL,Under Review,,Claim for replacement part PRT-2055 under equipment warranty.
+CLM-9016,EQ-7458,DISP-13561,PRT-2138,02/20/2024,4168.51,4168.51,Approved,N/A,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9038,EQ-6654,DISP-11022,PRT-2059,12/11/2021,1322.13,1322.13,APPROVED,N/A,Claim   for   replacement   part   PRT-2059   under   equipment   warranty.
+CLM-9583,EQ-6415,DISP-13713,PRT-2110,2023/08/03,4643.55,4643.55,Approved,N/A,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9704,EQ-6473,DISP-13750,PRT-2140,05-23-2023,686.88,NULL,Pending,<b></b>,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9856,EQ-5863,DISP-14904,,2024-05-05T00:00:00Z,163.99,163.99,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9117,EQ-5565,DISP-14342,PRT-2092,2022-08-08T00:00:00Z,1018.98,1018.98,Approved,N/A,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-9602,EQ-7445,DISP-11539,PRT-2013,04/24/2023,243.08,NULL,Under Review,,Claim for replacement part PRT-2013 under equipment warranty.  
+CLM-9683,EQ-7244,,PRT-2060,2022-10-24T00:00:00Z,1601.2,NULL,Pending,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9760,EQ-7124,DISP-14074,,11/10/2021,3726.29,0.0,Rejected,<p>Improper installation by non-certified party</p>,Claim for replacement part N/A under equipment warranty.
+CLM-9984,EQ-6861,DISP-14085,PRT-2006,2022-08-12T00:00:00Z,3387.45,0.0,Rejected,<html>Normal wear and tear excluded</html>,Claim for replacement part PRT-2006 under equipment warranty.
+CLM-9638,EQ-6335,DISP-13874,PRT-2139,05/30/2024,1692.05,1692.05,APPROVED,N/A,Claim for replacement part PRT-2139 under equipment warranty.
+CLM-9279,EQ-6386,DISP-14672,PRT-2088,06-18-2024,458.91,458.91,Approved,N/A,Claim for replacement part PRT-2088 under equipment warranty.  
+CLM-9601,EQ-6383,,PRT-2122,2022-04-19T00:00:00Z,2392.86,NULL,Pending,,Claim for replacement part PRT-2122 under equipment warranty.
+CLM-9130,EQ-5314,DISP-12486,PRT-2030,05-17-2022,1208.1,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2030 under equipment warranty.
+CLM-9293,EQ-6321,DISP-11616,PRT-2020,05/12/2024,588.86,NULL,Pending,,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9608,EQ-7000,DISP-13070,,03-31-2024,4689.78,3797.08,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9326,EQ-6998,DISP-13857,PRT-2118,07/10/2022,3273.98,NULL,Pending,,   Claim for replacement part PRT-2118 under equipment warranty.
+CLM-9607,EQ-6316,DISP-11233,,01/14/2024,547.07,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10100,EQ-5468,DISP-14535,PRT-2046,02/19/2022,2173.74,2173.74,Approved,N/A,Claim for replacement part PRT-2046 under equipment warranty.
+CLM-9867,EQ-7288,,PRT-2059,2023-08-13T00:00:00Z,2713.32,2713.32,Approved,<html>N/A</html>,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9345,EQ-7308,DISP-10042,,05/23/2023,862.08,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9927,EQ-5748,,NULL,2023-08-06,2958.48,2958.48,APPROVED,<html><body>N/A</body></html>,Claim for replacement part N/A under equipment warranty.  
+CLM-9088,EQ-7358,,PRT-2124,2021/09/08,2871.17,2871.17,Approved,N/A,   Claim for replacement part PRT-2124 under equipment warranty.
+CLM-10052,EQ-5997,DISP-13493,PRT-2116,02/11/2022,3841.7,1955.34,APPROVED,N/A,Claim for replacement part PRT-2116 under equipment warranty.
+CLM-9186,EQ-5639,DISP-13273,PRT-2018,2022-08-23,2985.28,2985.28,Approved,N/A,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9756,EQ-6294,DISP-13646,,2021-07-08,2467.89,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-9153,EQ-7249,DISP-14181,PRT-2017,2022-04-21,4642.36,4642.36,Approved,N/A,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9636,EQ-5523,,PRT-2119,07-03-2021,618.85,618.85,Approved,N/A,Claim   for   replacement   part   PRT-2119   under   equipment   warranty.
+CLM-9260,EQ-6196,,PRT-2002,2024-06-23T00:00:00Z,1656.01,NULL,Under Review,,Claim for replacement part PRT-2002 under equipment warranty.
+CLM-9934,EQ-5872,DISP-10364,PRT-2144,06-22-2023,774.71,774.71,APPROVED,<strong>N/A</strong>,Claim for replacement part PRT-2144 under equipment warranty.
+CLM-9501,EQ-6884,DISP-12341,,01/31/2023,4636.8,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9402,EQ-6401,DISP-13167,PRT-2097,01-22-2022,545.01,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2097 under equipment warranty.
+CLM-9964,EQ-7296,DISP-11770,,2022/02/22,823.97,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10114,EQ-5566,DISP-11745,PRT-2020,2022/01/11,3188.27,NULL,Pending,,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9517,EQ-6302,DISP-12390,PRT-2043,2024/05/29,4733.35,4733.35,Approved,<div>N/A</div>,Claim for replacement part PRT-2043 under equipment warranty.
+CLM-9522,EQ-5149,DISP-12373,PRT-2066,07/11/2023,340.39,340.39,APPROVED,N/A,Claim for replacement part PRT-2066 under equipment warranty.
+CLM-9844,EQ-6960,DISP-12563,,08/10/2021,307.5,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9018,EQ-7025,DISP-14038,PRT-2112,2022/11/13,365.15,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2112 under equipment warranty.
+CLM-9917,EQ-7340,DISP-10816,PRT-2088,10-03-2021,1843.13,1843.13,APPROVED,N/A,Claim for replacement part PRT-2088 under equipment warranty.
+CLM-9642,EQ-7473,DISP-12396,PRT-2130,2024-01-12,4763.32,4763.32,Approved,N/A,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-9134,EQ-5658,DISP-12814,PRT-2121,10-24-2023,408.17,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2121 under equipment warranty.
+CLM-10127,EQ-7439,DISP-11336,PRT-2081,2024-07-04,4290.24,NULL,Under Review,,Claim for replacement part PRT-2081 under equipment warranty.
+CLM-9858,EQ-5057,DISP-13063,PRT-2072,2022-09-21,1605.74,1605.74,APPROVED,N/A,Claim for replacement part PRT-2072 under equipment warranty.
+CLM-9116,EQ-7202,DISP-10751,PRT-2064,2022-08-01,3239.43,2738.28,Approved,N/A,Claim for replacement part PRT-2064 under equipment warranty.
+CLM-9459,EQ-6887,DISP-13533,PRT-2059,2022-10-29,4458.93,3358.52,Approved,N/A,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9418,EQ-6592,DISP-13234,,2021-08-22,590.98,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9157,EQ-7464,DISP-12069,,08-18-2021,3070.07,1658.37,APPROVED,<p>N/A</p>,Claim for replacement part N/A under equipment warranty.
+CLM-9062,EQ-6758,DISP-12026,PRT-2133,02/22/2022,2636.44,NULL,Under Review,,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9511,EQ-5068,DISP-12031,,07/12/2024,1102.94,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-9977,EQ-7321,DISP-10838,PRT-2026,11-25-2023,3513.56,3513.56,Approved,N/A,Claim for replacement part PRT-2026 under equipment warranty.
+CLM-9076,EQ-5531,DISP-14978,,2023-07-10T00:00:00Z,3284.31,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9734,EQ-5811,DISP-13064,PRT-2024,2022-10-19T00:00:00Z,2031.65,2031.65,APPROVED,N/A,Claim for replacement part PRT-2024 under equipment warranty.
+CLM-10098,EQ-6361,,,12/17/2021,1057.09,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9903,EQ-6107,,PRT-2121,2022-01-28,3895.52,NULL,Pending,,Claim for replacement part PRT-2121 under equipment warranty.
+CLM-9721,EQ-6223,,PRT-2103,04/11/2023,3721.95,3721.95,APPROVED,N/A,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9818,EQ-7436,DISP-13735,PRT-2146,2023-02-18T00:00:00Z,3383.29,NULL,Under Review,,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-9278,EQ-5475,DISP-14321,PRT-2137,2024/01/31,4180.3,NULL,Pending,,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9273,EQ-7365,DISP-13879,PRT-2083,10/12/2021,3395.94,NULL,Under Review,,   Claim for replacement part PRT-2083 under equipment warranty.
+CLM-9717,EQ-5158,DISP-14327,,2023-11-04,3039.61,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9039,EQ-5084,DISP-13707,,05/09/2023,3546.77,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9713,EQ-6724,,PRT-2016,2021/07/12,1795.84,1795.84,Approved,N/A,Claim for replacement part PRT-2016 under equipment warranty.
+CLM-9749,EQ-6739,DISP-13585,PRT-2050,11/06/2022,2177.09,NULL,Under Review,,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9022,EQ-6366,DISP-10666,PRT-2078,2023/11/13,3698.42,NULL,Pending,,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9448,EQ-6524,,PRT-2055,12/30/2023,4579.64,NULL,Pending,,Claim for replacement part PRT-2055 under equipment warranty.
+CLM-9141,EQ-6853,DISP-12103,,2021-12-13,3094.4,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9344,EQ-5137,DISP-14575,PRT-2085,2024-02-15T00:00:00Z,2581.89,2581.89,APPROVED,N/A,Claim for replacement part PRT-2085 under equipment warranty.
+CLM-9168,EQ-5550,DISP-14670,,2023-09-21,4166.94,4166.94,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9552,EQ-5267,DISP-14873,PRT-2091,01-09-2022,4299.75,4299.75,APPROVED,N/A,Claim for replacement part PRT-2091 under equipment warranty.
+CLM-9073,EQ-6901,DISP-12928,,2023/12/17,2629.99,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10104,EQ-5025,DISP-14568,,2023/07/30,230.93,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9384,EQ-5320,DISP-12525,PRT-2147,2022/09/18,3274.92,NULL,Pending,,Claim for replacement part PRT-2147 under equipment warranty.
+CLM-9640,EQ-7265,DISP-11847,,2022-07-04,633.48,633.48,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10120,EQ-7489,DISP-14361,PRT-2091,01/16/2024,2389.2,NULL,Under Review,,Claim for replacement part PRT-2091 under equipment warranty.
+CLM-9432,EQ-5798,DISP-12772,PRT-2002,2024/07/01,3559.16,3559.16,Approved,<p>N/A</p>,Claim for replacement part PRT-2002 under equipment warranty.  
+CLM-9619,EQ-7020,DISP-11615,PRT-2019,01-30-2022,3284.39,NULL,Pending,,Claim for replacement part PRT-2019 under equipment warranty.
+CLM-10160,EQ-6544,DISP-13503,,2022-05-01T00:00:00Z,200.93,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.  
+CLM-10092,EQ-6730,DISP-13101,PRT-2026,10-11-2021,3271.13,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2026 under equipment warranty.  
+CLM-9862,EQ-6126,DISP-11106,PRT-2035,2023-08-30,3132.75,2485.6,Approved,<div>N/A</div>,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-9571,EQ-7053,DISP-13460,PRT-2062,09/07/2021,3522.86,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2062 under equipment warranty.  
+CLM-9008,EQ-7225,DISP-14690,PRT-2059,2021/09/20,1869.19,1869.19,Approved,N/A,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9487,EQ-6966,DISP-10646,PRT-2084,2023/07/18,3195.02,NULL,Pending,,Claim for replacement part PRT-2084 under equipment warranty.
+CLM-9719,EQ-7490,DISP-11421,NULL,11/05/2022,2777.84,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9221,EQ-6691,DISP-14993,PRT-2119,06/08/2022,1277.71,1277.71,Approved,N/A,Claim for replacement part PRT-2119 under equipment warranty.
+CLM-10025,EQ-7169,DISP-12652,,08-29-2021,952.31,674.58,Approved,<b>N/A</b>,Claim for replacement part N/A under equipment warranty.
+CLM-9966,EQ-6396,DISP-12471,PRT-2138,02-12-2023,4417.11,NULL,Under Review,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9043,EQ-5528,DISP-12260,PRT-2104,04/20/2024,1315.0,1202.11,Approved,N/A,Claim for replacement part PRT-2104 under equipment warranty.
+CLM-9503,EQ-6723,DISP-13533,PRT-2060,2021-12-21T00:00:00Z,1285.31,1285.31,Approved,N/A,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9142,EQ-7476,DISP-11146,,03/20/2023,1805.91,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9162,EQ-5597,,PRT-2052,2024-02-11,386.67,NULL,Under Review,,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9098,EQ-5433,DISP-14227,PRT-2082,2024-01-25,3033.41,NULL,Pending,,Claim for replacement part PRT-2082 under equipment warranty.
+CLM-9946,EQ-5403,DISP-13940,,2022-01-28,174.2,174.2,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9375,EQ-6011,DISP-13597,PRT-2018,11/07/2023,4446.74,4446.74,APPROVED,N/A,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9268,EQ-5780,DISP-13282,PRT-2086,07/21/2023,2093.24,2093.24,APPROVED,N/A,Claim for replacement part PRT-2086 under equipment warranty.
+CLM-9950,EQ-6526,DISP-13861,PRT-2090,2023-07-01,1951.02,NULL,Under Review,,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9078,EQ-5701,NULL,PRT-2080,11/02/2021,1960.74,1960.74,Approved,N/A,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-9772,EQ-5492,DISP-10238,PRT-2106,2023/09/10,2777.28,1491.06,APPROVED,N/A,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9325,EQ-7091,DISP-12746,,2022-02-19,2116.35,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9296,EQ-7082,,PRT-2115,10/08/2023,4373.23,4373.23,Approved,N/A,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-10111,EQ-6653,DISP-14736,PRT-2072,2023-07-13,2028.92,NULL,Pending,,Claim for replacement part PRT-2072 under equipment warranty.  
+CLM-9161,EQ-5103,DISP-12415,PRT-2138,07/20/2023,4433.5,0.0,Rejected,Normal wear and tear excluded,  Claim for replacement part PRT-2138 under equipment warranty.  
+CLM-9561,EQ-7067,DISP-12916,,2022/06/25,1328.28,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9884,EQ-7110,DISP-13204,PRT-2050,2022/01/12,1933.34,1397.76,APPROVED,N/A,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-10080,EQ-6245,NULL,PRT-2084,2022/02/19,4244.6,4244.6,Approved,<strong>N/A</strong>,Claim for replacement part PRT-2084 under equipment warranty.
+CLM-9840,EQ-5447,DISP-10964,PRT-2041,2024-01-04,1198.6,871.7,APPROVED,N/A,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9698,EQ-6660,DISP-13414,PRT-2039,2022-06-26,3591.19,NULL,Pending,,Claim for replacement part PRT-2039 under equipment warranty.
+CLM-9422,EQ-7323,DISP-13091,PRT-2016,2023-03-20T00:00:00Z,1823.24,NULL,Pending,,Claim for replacement part PRT-2016 under equipment warranty.
+CLM-9190,EQ-5520,DISP-14771,PRT-2066,05/15/2024,1167.35,1167.35,Approved,<html>N/A</html>,Claim for replacement part PRT-2066 under equipment warranty.
+CLM-9626,EQ-6618,DISP-14982,PRT-2062,2022-09-28T00:00:00Z,2214.53,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2062 under equipment warranty.
+CLM-10174,EQ-6032,DISP-14723,,10-05-2023,4418.67,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9333,EQ-5842,DISP-13953,PRT-2127,05-18-2022,3892.58,3892.58,Approved,N/A,Claim for replacement part PRT-2127 under equipment warranty.
+CLM-9077,EQ-7352,,,2023-05-29,707.3,707.3,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9044,EQ-7280,DISP-14524,PRT-2090,11-22-2023,240.86,240.86,APPROVED,N/A,   Claim for replacement part PRT-2090 under equipment warranty.
+CLM-10071,EQ-6596,DISP-12839,PRT-2017,2022-07-03,215.46,NULL,Under Review,,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9229,EQ-6480,DISP-12995,,2023-11-29T00:00:00Z,596.25,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9245,EQ-6004,DISP-10160,PRT-2097,06-12-2022,3648.28,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2097 under equipment warranty.
+CLM-9302,EQ-5382,DISP-10883,PRT-2020,2023/06/26,1946.26,NULL,Under Review,,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-10089,EQ-6736,,PRT-2114,03/03/2022,257.81,257.81,Under Review,N/A,Claim for replacement part PRT-2114 under equipment warranty.
+CLM-9249,EQ-7359,,,04/01/2022,218.79,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9980,EQ-5747,,,07/22/2024,2800.4,NULL,Pending,,   Claim for replacement part N/A under equipment warranty.
+CLM-10068,EQ-7160,DISP-10418,PRT-2092,08/19/2021,1874.7,NULL,Approved,,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-10054,EQ-5739,DISP-14136,PRT-2130,2024-03-19T00:00:00Z,753.67,753.67,Under Review,N/A,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-9744,EQ-5610,DISP-11351,,2022-05-29,3095.76,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9795,EQ-7061,DISP-12462,PRT-2052,02/17/2024,1653.02,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9123,EQ-5072,,,08/29/2023,3438.19,3438.19,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9839,EQ-5040,DISP-11067,PRT-2115,2022/09/05,2103.38,NULL,Under Review,,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9593,EQ-6896,DISP-11965,PRT-2051,05/21/2023,1507.76,NULL,Pending,,Claim for replacement part PRT-2051 under equipment warranty.
+CLM-9440,EQ-5819,DISP-13609,,11/05/2022,3380.49,3380.49,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9058,EQ-5693,,PRT-2141,2022/09/15,384.79,384.79,APPROVED,N/A,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-9736,EQ-6919,DISP-13645,PRT-2078,2021-09-22,1134.4,NULL,Under Review,<p></p>,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9380,EQ-5170,,,06/05/2024,4431.41,4431.41,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9935,EQ-7008,,PRT-2002,2022-05-12T00:00:00Z,2435.66,2435.66,Approved,N/A,Claim for replacement part PRT-2002 under equipment warranty.
+CLM-9257,EQ-6738,,PRT-2111,05-12-2024,815.96,NULL,Under Review,,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9888,EQ-5081,DISP-11151,PRT-2066,02/22/2024,4110.37,NULL,Pending,,Claim for replacement part PRT-2066 under equipment warranty.
+CLM-9930,EQ-5380,DISP-13507,PRT-2127,09/06/2021,1834.84,NULL,Under Review,,Claim for replacement part PRT-2127 under equipment warranty.
+CLM-9668,EQ-5973,DISP-11384,PRT-2141,04/23/2023,2886.51,2886.51,Approved,N/A,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-9724,EQ-6942,,,2023/12/16,2291.61,2291.61,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9878,EQ-6931,DISP-13681,PRT-2142,01/19/2022,1585.48,1585.48,APPROVED,N/A,Claim for replacement part PRT-2142 under equipment warranty.
+CLM-9305,EQ-7248,DISP-14075,PRT-2006,2024-04-19T00:00:00Z,1027.35,NULL,Pending,,Claim for replacement part PRT-2006 under equipment warranty.
+CLM-9465,EQ-7306,DISP-11085,PRT-2137,05/10/2022,1810.18,1810.18,Approved,<p>N/A</p>,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9547,EQ-6690,DISP-12098,,2023/04/30,3850.68,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10094,EQ-6766,DISP-11178,PRT-2075,12/28/2023,451.02,451.02,Approved,N/A,Claim for replacement part PRT-2075 under equipment warranty.
+CLM-10138,EQ-7154,DISP-14786,PRT-2022,2024/02/06,1631.37,NULL,Under Review,,Claim for replacement part PRT-2022 under equipment warranty.
+CLM-9748,EQ-7406,,PRT-2015,11/16/2022,4784.21,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2015 under equipment warranty.
+CLM-9746,EQ-5043,DISP-11370,PRT-2004,03/24/2023,443.63,443.63,APPROVED,N/A,Claim for replacement part PRT-2004 under equipment warranty.
+CLM-9726,EQ-5059,DISP-13734,PRT-2054,2023-07-27T00:00:00Z,241.68,188.62,APPROVED,N/A,Claim for replacement part PRT-2054 under equipment warranty.
+CLM-9064,EQ-6166,DISP-14900,PRT-2126,08-21-2022,1867.09,NULL,Pending,,Claim for replacement part PRT-2126 under equipment warranty.
+CLM-9504,EQ-5890,,,2022/03/23,4481.25,4481.25,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9342,EQ-7110,DISP-11932,PRT-2053,12-15-2023,4644.66,0.0,Under Review,Unauthorized modification detected,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9400,EQ-6673,DISP-11899,PRT-2138,2022-06-26,3880.4,NULL,Under Review,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9409,EQ-6351,DISP-13704,PRT-2007,12-21-2023,595.19,0.0,Rejected,<p>Warranty expired prior to claim date</p>,Claim for replacement part PRT-2007 under equipment warranty.
+CLM-9087,EQ-5631,DISP-11450,,05-03-2023,2936.83,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10029,EQ-5254,DISP-12897,PRT-2020,09/12/2022,1620.86,1620.86,APPROVED,N/A,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9128,EQ-6922,DISP-14752,PRT-2068,07/29/2022,587.11,0.0,Rejected,Improper installation by non-certified party,Claim   for   replacement   part   PRT-2068   under   equipment   warranty.
+CLM-9040,EQ-5234,DISP-10681,,2021/12/11,203.99,203.99,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9893,EQ-5643,DISP-13720,PRT-2034,03/06/2024,315.79,315.79,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-10106,EQ-7374,DISP-14962,PRT-2066,02/22/2023,3447.07,3447.07,Approved,N/A,Claim for replacement part PRT-2066 under equipment warranty.
+CLM-9551,EQ-7012,DISP-14788,PRT-2141,12-18-2021,4392.92,4392.92,Approved,<b>N/A</b>,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-9425,EQ-6293,DISP-13584,PRT-2059,2022-06-04T00:00:00Z,340.61,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9484,EQ-5060,DISP-12864,PRT-2141,2022-09-08,3401.78,3401.78,APPROVED,N/A,Claim for replacement part PRT-2141 under equipment warranty.
+CLM-9591,EQ-6552,DISP-13884,PRT-2012,2022-08-27T00:00:00Z,3411.45,3411.45,Approved,N/A,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9979,EQ-5018,DISP-14823,PRT-2026,2022-11-07,2180.47,NULL,Under Review,,Claim for replacement part PRT-2026 under equipment warranty.
+CLM-10053,EQ-6283,,PRT-2072,2023-03-02,787.21,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2072 under equipment warranty.
+CLM-9876,EQ-5896,DISP-13765,,12-01-2023,3877.41,0.0,Rejected,Improper installation by non-certified party,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9614,EQ-5193,DISP-13518,PRT-2145,04/25/2024,2916.99,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9846,EQ-5325,DISP-10166,PRT-2005,07/13/2024,1108.11,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2005 under equipment warranty.
+CLM-9898,EQ-5866,DISP-11936,PRT-2140,2023-06-01,2313.74,1869.04,Approved,N/A,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9225,EQ-6436,DISP-14954,PRT-2126,2022-01-28,1740.82,NULL,Pending,<p></p>,Claim   for   replacement   part   PRT-2126   under   equipment   warranty.
+CLM-9958,EQ-6825,DISP-12083,,03-09-2022,1424.86,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9838,EQ-6887,DISP-10960,,2023-10-05,3723.29,0.0,Rejected,<html>Warranty expired prior to claim date</html>,Claim for replacement part N/A under equipment warranty.
+CLM-10075,EQ-7456,DISP-14193,,02/19/2024,1453.71,NULL,Under Review,,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-10083,EQ-5752,DISP-14707,PRT-2082,08-31-2021,1068.0,1068.0,APPROVED,N/A,Claim for replacement part PRT-2082 under equipment warranty.
+CLM-9562,EQ-7188,,PRT-2017,08/14/2024,4022.55,NULL,Pending,,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9014,EQ-7305,DISP-10863,,08-01-2023,1951.07,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9722,EQ-5164,DISP-14285,PRT-2021,2023-12-06T00:00:00Z,1006.38,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-9304,EQ-6906,DISP-12607,PRT-2111,07/16/2024,4617.55,4617.55,Approved,N/A,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9013,EQ-5814,,,06-08-2023,605.82,0.0,Rejected,Normal wear and tear excluded,   Claim for replacement part N/A under equipment warranty.
+CLM-9412,EQ-6434,,PRT-2080,2021-11-05,1386.26,NULL,Under Review,<b></b>,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-9063,EQ-5074,DISP-12173,PRT-2029,02-09-2024,2948.2,NULL,Pending,<html></html>,Claim for replacement part PRT-2029 under equipment warranty.
+CLM-9929,EQ-5502,,,10/09/2022,3118.26,3118.26,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9804,EQ-5974,DISP-13495,PRT-2062,04/04/2022,1428.61,NULL,Pending,,Claim for replacement part PRT-2062 under equipment warranty.
+CLM-9269,EQ-7131,DISP-13113,,06/16/2022,3787.39,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9972,EQ-6498,DISP-14721,,2024/06/16,4708.79,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9604,EQ-7235,DISP-13953,,2024/06/10,581.66,NULL,Under Review,<html><body></body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-10200,EQ-6555,DISP-11324,PRT-2090,2023/03/08,4644.74,4644.74,Approved,<p>N/A</p>,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9826,EQ-5833,,PRT-2068,2024-04-21,1764.47,1764.47,Approved,N/A,Claim for replacement part PRT-2068 under equipment warranty.
+CLM-9957,EQ-5451,DISP-13613,,09/07/2022,191.96,NULL,Pending,<html><body></body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-9880,EQ-5315,,PRT-2021,2022/10/06,2197.52,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-10196,EQ-5195,DISP-14344,PRT-2094,2022-05-03T00:00:00Z,1499.5,1499.5,Approved,N/A,Claim   for   replacement   part   PRT-2094   under   equipment   warranty.
+CLM-9664,EQ-6847,DISP-14356,PRT-2021,09/10/2023,3588.63,3588.63,Approved,N/A,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-9335,EQ-5902,DISP-10759,PRT-2111,08/07/2024,2389.99,NULL,Pending,,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9534,EQ-5553,,PRT-2109,01-28-2022,1901.42,1901.42,APPROVED,<strong>N/A</strong>,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-9081,EQ-5272,,,2023/09/28,1497.18,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10140,EQ-6564,DISP-10982,PRT-2071,2021/10/14,1469.53,1469.53,APPROVED,N/A,Claim for replacement part PRT-2071 under equipment warranty.
+CLM-9280,EQ-6683,DISP-14249,PRT-2022,2023-01-07T00:00:00Z,1510.79,1510.79,APPROVED,N/A,Claim for replacement part PRT-2022 under equipment warranty.
+CLM-9387,EQ-6925,DISP-13674,PRT-2109,2023/12/17,1312.9,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-10049,EQ-5506,,PRT-2018,2022/01/03,2074.65,NULL,Pending,<p></p>,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9887,EQ-6355,DISP-12289,PRT-2019,08/20/2022,4228.16,2744.54,Approved,N/A,Claim for replacement part PRT-2019 under equipment warranty.
+CLM-9332,EQ-7085,DISP-12279,NULL,2024/02/18,2804.84,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9396,EQ-6286,DISP-10371,PRT-2060,2021-08-20,4762.71,NULL,Pending,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9182,EQ-7397,,PRT-2017,10/21/2022,831.86,NULL,Under Review,,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9669,EQ-6003,DISP-12766,,2024/01/27,3584.99,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.  
+CLM-10103,EQ-6502,DISP-13374,PRT-2084,2024-08-18T00:00:00Z,1291.85,NULL,Under Review,,Claim for replacement part PRT-2084 under equipment warranty.
+CLM-9962,EQ-5999,DISP-14260,PRT-2150,07-27-2024,264.23,NULL,Under Review,,Claim for replacement part PRT-2150 under equipment warranty.
+CLM-9954,EQ-5272,DISP-13921,PRT-2060,04/29/2023,3950.26,3950.26,Approved,N/A,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-10006,EQ-5731,DISP-13076,,2023-08-06,218.49,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9035,EQ-5135,DISP-12509,,2022-04-09,3915.58,NULL,Under Review,<html><body></body></html>,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9969,EQ-6642,DISP-10442,PRT-2038,2024-02-01T00:00:00Z,3244.44,NULL,Under Review,,Claim for replacement part PRT-2038 under equipment warranty.
+CLM-9693,EQ-5946,DISP-14853,,2024-08-16T00:00:00Z,1759.39,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9581,EQ-5404,DISP-14276,PRT-2048,05-22-2023,1241.26,NULL,Under Review,,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9753,EQ-6185,DISP-10602,PRT-2112,07-20-2022,3587.13,NULL,Pending,,Claim for replacement part PRT-2112 under equipment warranty.
+CLM-9215,EQ-6022,,PRT-2062,03/14/2024,3339.56,NULL,Under Review,,Claim for replacement part PRT-2062 under equipment warranty.
+CLM-9437,EQ-5967,DISP-14323,PRT-2073,09/28/2022,277.94,NULL,Under Review,,Claim for replacement part PRT-2073 under equipment warranty.
+CLM-10062,EQ-7218,DISP-10359,PRT-2107,2022-11-25,1746.13,1746.13,APPROVED,N/A,Claim for replacement part PRT-2107 under equipment warranty.
+CLM-9886,EQ-6187,,,2021-11-12,2430.54,0.0,Rejected,Improper installation by non-certified party,   Claim for replacement part N/A under equipment warranty.
+CLM-9239,EQ-6530,DISP-10283,PRT-2100,03/02/2024,3277.37,3277.37,APPROVED,N/A,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-9421,EQ-6687,DISP-11880,,09/16/2023,1343.22,1343.22,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9408,EQ-6044,,PRT-2019,2022-11-24T00:00:00Z,3923.62,NULL,Pending,,   Claim for replacement part PRT-2019 under equipment warranty.
+CLM-9757,EQ-6839,DISP-12033,PRT-2037,2023-05-22T00:00:00Z,391.13,391.13,Approved,N/A,Claim for replacement part PRT-2037 under equipment warranty.
+CLM-9287,EQ-6635,DISP-11639,PRT-2053,2022-05-12,2781.39,1991.98,Approved,N/A,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9890,EQ-5635,DISP-12962,,2021-10-01T00:00:00Z,1843.3,1843.3,APPROVED,N/A,   Claim for replacement part N/A under equipment warranty.
+CLM-9861,EQ-5627,DISP-13820,,2021-07-19T00:00:00Z,2890.32,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9590,EQ-5549,DISP-10928,,2024-02-13T00:00:00Z,1399.37,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-10072,EQ-7086,DISP-12010,,2022-07-21,2581.93,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9211,EQ-5927,   ,PRT-2076,2022-11-19T00:00:00Z,3241.31,2805.25,Approved,N/A,Claim for replacement part PRT-2076 under equipment warranty.
+CLM-9295,EQ-6610,DISP-11854,PRT-2034,01/08/2023,335.39,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9342,EQ-7110,DISP-11932,PRT-2053,12-15-2023,4644.66,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9949,EQ-5188,DISP-14734,PRT-2080,2022-03-24T00:00:00Z,1830.71,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-9538,EQ-6987,DISP-12151,PRT-2028,03/08/2024,3624.49,3624.49,Approved,N/A,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9849,EQ-6476,DISP-10641,,2022-07-06,3958.15,NULL,Pending,<html></html>,  Claim for replacement part N/A under equipment warranty.  
+CLM-9806,EQ-5062,DISP-10119,,2023/11/30,313.17,313.17,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9491,EQ-5466,DISP-10311,,2021/07/22,1377.37,0.0,Rejected,<b>Improper installation by non-certified party</b>,Claim for replacement part N/A under equipment warranty.
+CLM-9466,EQ-7158,DISP-11691,,02/24/2023,3650.38,3650.38,Approved,N/A,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-10129,EQ-6995,,,2021/12/16,4085.44,NULL,Pending,,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9676,EQ-6315,DISP-12642,,2022/01/23,2123.59,NULL,Under Review,<p></p>,Claim for replacement part N/A under equipment warranty.
+CLM-9943,EQ-6955,DISP-12046,PRT-2034,02/12/2024,3660.84,3660.84,APPROVED,N/A,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9414,EQ-5561,DISP-11412,PRT-2123,11/30/2022,678.05,678.05,Approved,N/A,Claim for replacement part PRT-2123 under equipment warranty.
+CLM-9825,EQ-5318,DISP-14439,PRT-2078,2023-12-22,4081.69,NULL,Pending,,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9961,EQ-5026,DISP-13978,PRT-2072,2022-07-04T00:00:00Z,2875.58,2875.58,Approved,N/A,Claim for replacement part PRT-2072 under equipment warranty.
+CLM-9677,EQ-5827,DISP-11161,,06/04/2022,1776.85,1776.85,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9263,EQ-7323,DISP-11807,PRT-2017,04/03/2022,2021.92,0.0,Under Review,Improper installation by non-certified party,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9486,EQ-7384,DISP-10851,PRT-2089,12-08-2021,1525.33,NULL,Under Review,,Claim for replacement part PRT-2089 under equipment warranty.  
+CLM-10158,EQ-6848,,PRT-2041,2023-08-28T00:00:00Z,1337.35,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9160,EQ-6737,DISP-12322,PRT-2115,2023-04-20,1103.52,1103.52,APPROVED,<b>N/A</b>,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9206,EQ-6991,,PRT-2003,2022-06-26,1065.96,NULL,Under Review,,Claim for replacement part PRT-2003 under equipment warranty.  
+CLM-9513,EQ-5079,DISP-13078,PRT-2069,09-05-2022,1494.81,0.0,Pending,<b>Normal wear and tear excluded</b>,Claim for replacement part PRT-2069 under equipment warranty.
+CLM-9125,EQ-5615,DISP-14456,PRT-2044,04/16/2024,2888.96,2888.96,Approved,<div>N/A</div>,Claim for replacement part PRT-2044 under equipment warranty.
+CLM-9270,EQ-5279,DISP-12164,,2024-03-05,1206.92,1206.92,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10192,EQ-6038,DISP-13335,PRT-2012,05/18/2022,1462.61,NULL,Pending,,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9340,EQ-7375,DISP-11580,PRT-2046,09/30/2021,3006.96,NULL,Under Review,,Claim for replacement part PRT-2046 under equipment warranty.
+CLM-9567,EQ-6668,DISP-13607,,2022-05-30T00:00:00Z,3049.91,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9851,EQ-6510,DISP-13515,PRT-2139,07-18-2021,4776.8,4776.8,Approved,N/A,Claim for replacement part PRT-2139 under equipment warranty.
+CLM-9682,EQ-5760,DISP-12758,PRT-2096,2021/09/07,3575.36,3575.36,Pending,N/A,Claim for replacement part PRT-2096 under equipment warranty.
+CLM-9987,EQ-5291,DISP-13173,,11/19/2022,4447.09,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9308,EQ-6583,,PRT-2100,10-21-2022,1876.64,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-9885,EQ-6024,,,2023/05/26,3147.65,3147.65,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9068,EQ-7342,DISP-11001,PRT-2137,2024-01-05T00:00:00Z,792.17,NULL,Under Review,,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-10061,EQ-5813,,PRT-2124,2024-03-27T00:00:00Z,4123.68,4123.68,APPROVED,N/A,Claim   for   replacement   part   PRT-2124   under   equipment   warranty.
+CLM-10166,EQ-6868,DISP-11467,,2023-10-03,516.46,NULL,Under Review,,   Claim for replacement part N/A under equipment warranty.
+CLM-9386,EQ-5674,DISP-13806,PRT-2085,2024-02-23T00:00:00Z,192.7,192.7,APPROVED,N/A,Claim for replacement part PRT-2085 under equipment warranty.
+CLM-9847,EQ-5010,DISP-11095,PRT-2003,05/07/2024,3886.01,NULL,Under Review,,Claim for replacement part PRT-2003 under equipment warranty.
+CLM-9379,EQ-6468,DISP-12416,PRT-2122,2024/06/25,592.54,NULL,Pending,,  Claim for replacement part PRT-2122 under equipment warranty.  
+CLM-9005,EQ-6497,DISP-10035,PRT-2121,2024-03-14,1985.74,NULL,Under Review,,Claim for replacement part PRT-2121 under equipment warranty.
+CLM-9119,EQ-5887,DISP-14076,PRT-2035,2021-07-01,4493.85,NULL,Under Review,,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-9496,EQ-7286,,PRT-2128,05/12/2024,3698.39,NULL,Pending,,Claim for replacement part PRT-2128 under equipment warranty.
+CLM-9999,EQ-5119,DISP-13479,PRT-2057,2024/01/24,2756.78,NULL,Under Review,,Claim for replacement part PRT-2057 under equipment warranty.
+CLM-10161,EQ-6674,DISP-13934,PRT-2026,2023-08-12,325.39,NULL,Pending,,Claim for replacement part PRT-2026 under equipment warranty.
+CLM-9610,EQ-7105,DISP-14774,PRT-2078,2023-10-07,3867.65,NULL,Under Review,,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9187,EQ-5939,DISP-11146,,2022/12/09,1896.17,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.  
+CLM-9197,EQ-6860,DISP-13437,PRT-2140,07/13/2024,862.57,862.57,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9435,EQ-6363,DISP-14235,PRT-2143,10/10/2022,382.72,382.72,APPROVED,N/A,Claim for replacement part PRT-2143 under equipment warranty.
+CLM-9384,EQ-5320,DISP-12525,PRT-2147,2022/09/18,3274.92,NULL,Pending,,Claim for replacement part PRT-2147 under equipment warranty.
+CLM-10074,EQ-5729,DISP-12178,PRT-2002,2022/02/23,3767.57,0.0,Rejected,<b>Warranty expired prior to claim date</b>,Claim for replacement part PRT-2002 under equipment warranty.
+CLM-9469,EQ-6020,DISP-14761,PRT-2117,04/13/2024,900.94,900.94,APPROVED,N/A,   Claim for replacement part PRT-2117 under equipment warranty.
+CLM-9904,EQ-5869,,,2023-01-31T00:00:00Z,2199.11,2199.11,Approved,<strong>N/A</strong>,  Claim for replacement part N/A under equipment warranty.  
+CLM-9483,EQ-5445,DISP-11739,,2023-07-18,3242.63,3242.63,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9910,EQ-6729,DISP-14214,,02/21/2023,3527.09,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10038,EQ-5750,DISP-13624,,05/31/2023,2818.86,NULL,Pending,,   Claim for replacement part N/A under equipment warranty.
+CLM-9350,EQ-5700,DISP-10208,PRT-2125,2021-11-29T00:00:00Z,2598.29,NULL,Under Review,,Claim for replacement part PRT-2125 under equipment warranty.
+CLM-9075,EQ-5416,,,2024/04/29,657.93,657.93,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9415,EQ-7269,,PRT-2140,11-02-2023,1317.28,1317.28,Approved,N/A,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-9523,EQ-7135,DISP-11409,PRT-2099,02-16-2022,4314.13,4314.13,APPROVED,N/A,   Claim for replacement part PRT-2099 under equipment warranty.
+CLM-9316,EQ-6120,DISP-11040,PRT-2072,07/21/2024,3269.43,NULL,Under Review,<p></p>,Claim for replacement part PRT-2072 under equipment warranty.
+CLM-9558,EQ-5829,DISP-11898,PRT-2078,2022-03-31T00:00:00Z,2367.22,2367.22,Approved,<html>N/A</html>,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9770,EQ-6854,DISP-11173,PRT-2061,12/08/2023,1335.24,1335.24,Approved,N/A,Claim for replacement part PRT-2061 under equipment warranty.
+CLM-10171,EQ-5439,DISP-12482,PRT-2111,12-15-2021,337.07,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9009,EQ-5918,DISP-10549,,04/09/2023,2879.42,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9997,EQ-5742,DISP-11496,,2023/01/11,3116.9,3116.9,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9889,EQ-6628,DISP-10662,PRT-2072,2024/07/15,3227.01,NULL,Under Review,<b></b>,Claim for replacement part PRT-2072 under equipment warranty.
+CLM-9041,EQ-7212,DISP-13805,PRT-2128,06/21/2022,1251.41,NULL,Pending,,Claim for replacement part PRT-2128 under equipment warranty.  
+CLM-9659,EQ-6574,DISP-13909,,10/18/2023,757.91,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9165,EQ-5515,DISP-14404,PRT-2118,09/02/2021,3733.43,NULL,Under Review,<html><body></body></html>,Claim for replacement part PRT-2118 under equipment warranty.
+CLM-10042,EQ-6969,DISP-13140,PRT-2101,2022-02-15,731.1,NULL,Pending,,Claim for replacement part PRT-2101 under equipment warranty.
+CLM-9742,EQ-5757,DISP-12106,,09/30/2021,4043.0,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10067,EQ-5868,DISP-11164,PRT-2136,2021-08-19T00:00:00Z,1651.28,1651.28,Approved,N/A,   Claim for replacement part PRT-2136 under equipment warranty.
+CLM-9715,EQ-7395,DISP-12957,PRT-2092,07/13/2023,796.6,796.6,Approved,N/A,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-9120,EQ-5649,DISP-13073,PRT-2145,2024-03-09,1686.61,NULL,Pending,,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9438,EQ-6958,DISP-12326,PRT-2077,09/13/2022,3631.38,3631.38,APPROVED,N/A,Claim for replacement part PRT-2077 under equipment warranty.
+CLM-9048,EQ-5769,DISP-10524,,2022-09-17T00:00:00Z,1474.62,1474.62,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9937,EQ-6123,DISP-12123,PRT-2106,2021/08/12,570.38,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9154,EQ-6569,DISP-12828,,02/01/2024,284.63,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9399,EQ-6869,DISP-10962,,12/23/2023,739.12,739.12,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9665,EQ-6017,,,03/13/2024,174.95,174.95,Approved,N/A,   Claim for replacement part N/A under equipment warranty.
+CLM-9264,EQ-5622,DISP-10030,PRT-2031,2024-04-06T00:00:00Z,718.17,NULL,Pending,,Claim for replacement part PRT-2031 under equipment warranty.
+CLM-9028,EQ-5026,DISP-13236,PRT-2007,10-14-2023,1185.26,NULL,Pending,<div></div>,Claim for replacement part PRT-2007 under equipment warranty.
+CLM-10132,EQ-6003,DISP-12847,,01/04/2022,189.56,189.56,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10048,EQ-6966,DISP-14542,PRT-2013,2022-01-22T00:00:00Z,3829.76,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2013 under equipment warranty.
+CLM-9453,EQ-7164,DISP-12613,,08/20/2021,3718.57,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-9948,EQ-7489,DISP-11300,PRT-2107,2021-11-03,4410.58,2543.5,Approved,N/A,Claim for replacement part PRT-2107 under equipment warranty.
+CLM-9542,EQ-6585,DISP-11699,PRT-2038,08-18-2023,3006.06,NULL,Under Review,,   Claim for replacement part PRT-2038 under equipment warranty.
+CLM-10157,EQ-5488,DISP-14390,PRT-2110,07-28-2023,3923.62,3923.62,APPROVED,N/A,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9222,EQ-5359,DISP-13752,PRT-2144,12-05-2021,324.28,324.28,Approved,<html>N/A</html>,Claim for replacement part PRT-2144 under equipment warranty.
+CLM-9362,EQ-5748,,PRT-2020,2021-07-06,3276.51,0.0,Rejected,Warranty expired prior to claim date,   Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9164,EQ-6046,DISP-11291,PRT-2125,10/22/2023,4112.87,NULL,Pending,,Claim for replacement part PRT-2125 under equipment warranty.
+CLM-10004,EQ-6058,,PRT-2052,2023/11/23,182.62,182.62,APPROVED,<html><body>N/A</body></html>,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9841,EQ-7324,DISP-13155,PRT-2073,09-28-2022,1446.77,0.0,Under Review,Normal wear and tear excluded,Claim for replacement part PRT-2073 under equipment warranty.
+CLM-9401,EQ-7038,DISP-13422,,2023-08-31T00:00:00Z,2251.34,2251.34,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9131,EQ-6584,DISP-14317,PRT-2106,2022/11/10,1937.59,1035.54,Approved,N/A,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9358,EQ-6073,DISP-14999,PRT-2025,2023/08/11,2807.88,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2025 under equipment warranty.
+CLM-9646,EQ-7339,DISP-11678,PRT-2048,2022-05-25T00:00:00Z,192.82,NULL,Approved,,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9124,EQ-6904,DISP-11688,PRT-2030,12-09-2023,1227.32,NULL,Under Review,,Claim   for   replacement   part   PRT-2030   under   equipment   warranty.
+CLM-9434,EQ-7232,,,02-23-2023,4129.87,4129.87,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9447,EQ-5010,DISP-12843,PRT-2038,2022-05-19,2744.42,NULL,Pending,,Claim for replacement part PRT-2038 under equipment warranty.
+CLM-9281,EQ-6720,DISP-10129,PRT-2043,06-25-2023,556.17,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2043 under equipment warranty.
+CLM-9615,EQ-6679,,PRT-2057,07/04/2022,2062.03,NULL,Under Review,,Claim for replacement part PRT-2057 under equipment warranty.  
+CLM-9991,EQ-7425,,PRT-2052,2023-08-10T00:00:00Z,4713.71,NULL,Pending,,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9151,EQ-6062,DISP-12632,PRT-2050,2024-07-18T00:00:00Z,2962.58,2962.58,Approved,N/A,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-10104,EQ-5025,DISP-14568,,2023/07/30,230.93,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9830,EQ-7253,DISP-14090,PRT-2149,2024-01-18T00:00:00Z,3387.24,NULL,Pending,,Claim for replacement part PRT-2149 under equipment warranty.
+CLM-9545,EQ-5294,DISP-12045,PRT-2004,07/19/2024,3760.02,3760.02,APPROVED,N/A,Claim for replacement part PRT-2004 under equipment warranty.  
+CLM-9202,EQ-7049,DISP-11859,PRT-2099,2022-01-28,3830.38,NULL,Under Review,,Claim for replacement part PRT-2099 under equipment warranty.
+CLM-9572,EQ-6457,DISP-13353,,2023/05/12,2664.2,2664.2,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9451,EQ-5213,DISP-14986,PRT-2044,2024-04-28,1821.52,NULL,Pending,,Claim for replacement part PRT-2044 under equipment warranty.
+CLM-10181,EQ-5252,,,01-27-2024,2962.47,2962.47,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9112,EQ-5404,DISP-11153,PRT-2080,02/27/2023,2095.2,2095.2,Approved,N/A,Claim for replacement part PRT-2080 under equipment warranty.  
+CLM-9896,EQ-6849,DISP-13852,PRT-2076,2021-07-09,3379.75,3379.75,APPROVED,N/A,Claim for replacement part PRT-2076 under equipment warranty.
+CLM-9494,EQ-5451,,PRT-2095,2023/02/20,1131.19,1131.19,Approved,N/A,Claim for replacement part PRT-2095 under equipment warranty.
+CLM-10178,EQ-5277,DISP-12961,,2024-06-08,3972.32,3972.32,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9220,EQ-5296,DISP-13625,,11/11/2021,764.12,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10198,EQ-7023,DISP-12908,,04-14-2024,1126.24,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9639,EQ-6316,DISP-11658,   ,02-23-2022,3111.69,NULL,Under Review,,   Claim for replacement part N/A under equipment warranty.
+CLM-9462,EQ-5973,,,2022-06-09,2555.69,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9201,EQ-7221,DISP-12622,PRT-2114,10/10/2022,3250.82,0.0,Rejected,<html><body>Unauthorized modification detected</body></html>,Claim for replacement part PRT-2114 under equipment warranty.
+CLM-9605,EQ-7455,DISP-13155,PRT-2008,2023/09/27,1248.43,1248.43,APPROVED,N/A,Claim for replacement part PRT-2008 under equipment warranty.  
+CLM-9956,EQ-5120,DISP-14795,PRT-2087,2023/07/26,3280.49,2987.97,Approved,N/A,Claim for replacement part PRT-2087 under equipment warranty.
+CLM-9648,EQ-5620,DISP-10953,,2022-03-06,852.66,852.66,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9951,EQ-5886,DISP-10060,PRT-2083,03/08/2023,1145.57,NULL,Pending,<html><body></body></html>,Claim for replacement part PRT-2083 under equipment warranty.
+CLM-9751,EQ-5204,DISP-14443,PRT-2131,2024/01/18,805.5,NULL,Pending,,Claim for replacement part PRT-2131 under equipment warranty.
+CLM-9176,EQ-5449,DISP-10579,PRT-2107,01-08-2022,3881.01,3881.01,APPROVED,N/A,Claim for replacement part PRT-2107 under equipment warranty.
+CLM-9346,EQ-6454,DISP-12335,,05/25/2022,250.69,250.69,Under Review,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9544,EQ-5247,DISP-14716,PRT-2106,2022/11/03,2823.33,2823.33,APPROVED,N/A,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9122,EQ-7307,DISP-11565,PRT-2003,06/30/2022,481.52,481.52,APPROVED,N/A,Claim for replacement part PRT-2003 under equipment warranty.
+CLM-9814,EQ-5935,DISP-14276,PRT-2102,01/17/2023,1932.39,NULL,Pending,,Claim for replacement part PRT-2102 under equipment warranty.
+CLM-9361,EQ-5634,,,01/28/2023,817.18,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9389,EQ-7353,,PRT-2063,07/31/2024,1876.17,0.0,Rejected,<b>Warranty expired prior to claim date</b>,Claim for replacement part PRT-2063 under equipment warranty.
+CLM-9842,EQ-6073,DISP-10865,PRT-2008,05-05-2022,1652.5,NULL,Pending,,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9632,EQ-7489,DISP-13039,PRT-2012,11/08/2023,514.68,NULL,Under Review,,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9377,EQ-5723,DISP-13737,PRT-2074,08/22/2021,467.59,NULL,Pending,,Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9170,EQ-7260,DISP-14180,,2021-10-25T00:00:00Z,2266.58,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9787,EQ-7238,DISP-11839,,03-05-2024,1935.12,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9091,EQ-7018,DISP-13911,PRT-2119,2024-03-30,3910.93,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2119 under equipment warranty.
+CLM-10110,EQ-6868,,PRT-2126,2022-03-29,3097.07,NULL,Pending,,Claim for replacement part PRT-2126 under equipment warranty.
+CLM-9032,EQ-5608,DISP-11140,,2024-03-28,1882.4,1882.4,Approved,<html>N/A</html>,Claim for replacement part N/A under equipment warranty.
+CLM-10002,EQ-6466,DISP-13218,PRT-2114,04/05/2024,278.52,278.52,APPROVED,<strong>N/A</strong>,Claim   for   replacement   part   PRT-2114   under   equipment   warranty.
+CLM-9732,EQ-5835,DISP-13624,PRT-2098,02-20-2024,1916.87,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2098 under equipment warranty.
+CLM-9285,EQ-6996,,PRT-2145,2024-07-05T00:00:00Z,941.95,NULL,Pending,,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9500,EQ-5765,DISP-10450,PRT-2138,06/10/2022,3019.22,NULL,Under Review,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9342,EQ-7110,DISP-11932,PRT-2053,12-15-2023,4644.66,0.0,Approved,Unauthorized modification detected,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9933,EQ-6039,DISP-13239,PRT-2136,10/28/2022,1701.57,NULL,Pending,,Claim for replacement part PRT-2136 under equipment warranty.
+CLM-9461,EQ-7210,DISP-14445,,09/19/2022,308.1,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9670,EQ-5718,DISP-14311,,2023-01-03T00:00:00Z,3611.0,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9406,EQ-6880,,PRT-2081,2022-06-17T00:00:00Z,1015.39,1015.39,APPROVED,N/A,Claim for replacement part PRT-2081 under equipment warranty.
+CLM-10091,EQ-5827,DISP-10520,PRT-2116,2022/01/26,1569.48,NULL,Under Review,,Claim for replacement part PRT-2116 under equipment warranty.
+CLM-9918,EQ-6170,DISP-12019,PRT-2098,11/26/2022,2830.28,2830.28,Approved,N/A,Claim for replacement part PRT-2098 under equipment warranty.
+CLM-9159,EQ-6108,DISP-13926,PRT-2023,2024/08/16,4305.59,4305.59,APPROVED,N/A,Claim for replacement part PRT-2023 under equipment warranty.
+CLM-9595,EQ-7451,DISP-14868,PRT-2017,2022-03-01T00:00:00Z,1378.61,NULL,Pending,,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9309,EQ-5425,DISP-11766,PRT-2007,02/25/2023,3022.7,3022.7,Approved,<p>N/A</p>,Claim for replacement part PRT-2007 under equipment warranty.
+CLM-9036,EQ-6131,DISP-14880,,2022-06-17,374.9,267.64,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9017,EQ-5911,DISP-12123,PRT-2068,2022-08-04T00:00:00Z,724.97,724.97,Approved,N/A,Claim for replacement part PRT-2068 under equipment warranty.
+CLM-9311,EQ-5488,DISP-10423,,03/02/2022,4492.99,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-10141,EQ-6538,DISP-13893,PRT-2137,2023-12-27T00:00:00Z,729.92,NULL,Pending,,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-10187,EQ-5470,,PRT-2090,2022-11-30T00:00:00Z,330.43,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-10015,EQ-6177,DISP-11371,PRT-2120,08-19-2023,565.92,NULL,Pending,,Claim for replacement part PRT-2120 under equipment warranty.
+CLM-9790,EQ-5561,DISP-13147,,2021/09/04,1155.89,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-9252,EQ-7111,DISP-10490,,2022/08/31,3902.58,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9809,EQ-5546,DISP-10927,,09-02-2021,3993.7,3993.7,APPROVED,<div>N/A</div>,Claim for replacement part N/A under equipment warranty.
+CLM-9974,EQ-5440,,,09-18-2023,2498.23,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10039,EQ-5501,,,02/21/2023,455.29,455.29,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9883,EQ-5684,,PRT-2040,06/15/2024,1966.98,1966.98,APPROVED,N/A,Claim for replacement part PRT-2040 under equipment warranty.
+CLM-9828,EQ-5525,,PRT-2087,2021/10/17,2798.56,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2087 under equipment warranty.
+CLM-9189,EQ-6561,DISP-13618,PRT-2010,2021-10-08,480.37,NULL,Under Review,,Claim for replacement part PRT-2010 under equipment warranty.
+CLM-9687,EQ-7011,DISP-12067,,2021-09-02T00:00:00Z,3825.91,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-10022,EQ-7450,,PRT-2106,2024-08-02,3486.09,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-9836,EQ-5069,,PRT-2073,2024-06-30T00:00:00Z,1536.79,NULL,Pending,,Claim   for   replacement   part   PRT-2073   under   equipment   warranty.
+CLM-9702,EQ-7393,,PRT-2150,02-27-2022,2278.4,NULL,Pending,,Claim for replacement part PRT-2150 under equipment warranty.
+CLM-9939,EQ-5896,DISP-14052,,07/17/2023,3022.59,3022.59,Approved,<strong>N/A</strong>,Claim for replacement part N/A under equipment warranty.
+CLM-9429,EQ-5813,DISP-12355,PRT-2057,08-17-2021,1594.19,1594.19,APPROVED,N/A,  Claim for replacement part PRT-2057 under equipment warranty.  
+CLM-9556,EQ-6628,DISP-14883,PRT-2001,03/02/2022,387.3,NULL,Under Review,,Claim for replacement part PRT-2001 under equipment warranty.  
+CLM-9146,EQ-6533,,,2023-12-04T00:00:00Z,4333.81,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9370,EQ-6126,,PRT-2067,2024/01/03,977.08,NULL,Under Review,,Claim for replacement part PRT-2067 under equipment warranty.
+CLM-9923,EQ-6116,DISP-14362,PRT-2008,12/10/2022,1711.74,0.0,Rejected,Improper installation by non-certified party,   Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9629,EQ-5677,,PRT-2145,07-31-2023,4108.18,4108.18,Approved,N/A,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9524,EQ-6927,DISP-13222,PRT-2084,2024/05/02,1495.6,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2084 under equipment warranty.
+CLM-9985,EQ-6099,DISP-13321,PRT-2132,2023-10-05,2288.29,2288.29,APPROVED,<html><body>N/A</body></html>,Claim for replacement part PRT-2132 under equipment warranty.
+CLM-9921,EQ-6338,DISP-10439,PRT-2003,2023-02-10T00:00:00Z,3399.01,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2003 under equipment warranty.
+CLM-10194,EQ-6229,,PRT-2105,2024/01/25,605.5,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2105 under equipment warranty.
+CLM-9513,EQ-5079,DISP-13078,PRT-2069,09-05-2022,1494.81,0.0,Rejected,<b>Normal wear and tear excluded</b>,Claim for replacement part PRT-2069 under equipment warranty.
+CLM-9478,EQ-5891,DISP-12287,,09/11/2023,522.23,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9480,EQ-6301,DISP-14241,PRT-2050,2022-04-14,2339.4,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9708,EQ-6516,,PRT-2100,2024-06-04T00:00:00Z,3777.63,3777.63,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-9646,EQ-7339,DISP-11678,PRT-2048,2022-05-25T00:00:00Z,192.82,NULL,Pending,,Claim for replacement part PRT-2048 under equipment warranty.
+CLM-9214,EQ-6399,DISP-14258,,2024/05/16,2396.64,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9711,EQ-5168,DISP-14408,PRT-2002,07/17/2022,4760.1,4760.1,Approved,<html>N/A</html>,Claim for replacement part PRT-2002 under equipment warranty.
+CLM-9802,EQ-6764,DISP-10642,PRT-2125,01/10/2022,4289.36,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2125 under equipment warranty.
+CLM-9976,EQ-5502,DISP-12894,PRT-2045,2024-06-20T00:00:00Z,1079.94,1079.94,APPROVED,N/A,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9791,EQ-6310,DISP-12254,PRT-2099,03/11/2023,3146.09,NULL,Pending,,Claim for replacement part PRT-2099 under equipment warranty.
+CLM-9114,EQ-6821,DISP-11431,,2022-10-13,3231.16,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9010,EQ-6414,DISP-10876,PRT-2080,05-05-2022,1805.44,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-10118,EQ-7488,DISP-10645,PRT-2023,2023/12/08,209.08,209.08,APPROVED,N/A,Claim for replacement part PRT-2023 under equipment warranty.
+CLM-9323,EQ-5217,DISP-13021,PRT-2056,01-30-2022,294.49,NULL,Under Review,,  Claim for replacement part PRT-2056 under equipment warranty.  
+CLM-9643,EQ-7183,DISP-11427,,07-02-2023,3581.73,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9236,EQ-7482,DISP-13744,PRT-2052,10-05-2023,821.99,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-9599,EQ-7171,DISP-13247,PRT-2136,10-19-2021,2291.49,2291.49,APPROVED,N/A,   Claim for replacement part PRT-2136 under equipment warranty.
+CLM-9870,EQ-5148,DISP-14873,,08-27-2022,1658.94,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9498,EQ-6061,,,2022-11-09T00:00:00Z,4169.98,NULL,Under Review,,   Claim for replacement part N/A under equipment warranty.
+CLM-9786,EQ-6945,,PRT-2095,03/30/2024,1824.38,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2095 under equipment warranty.
+CLM-9110,EQ-5163,DISP-14541,PRT-2146,05/03/2023,3063.97,3063.97,APPROVED,N/A,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-9359,EQ-7183,DISP-14468,PRT-2033,04/05/2022,3634.43,3634.43,APPROVED,N/A,Claim for replacement part PRT-2033 under equipment warranty.
+CLM-9994,EQ-5922,DISP-12546,PRT-2055,03-28-2024,4488.28,4488.28,APPROVED,N/A,Claim for replacement part PRT-2055 under equipment warranty.
+CLM-9003,EQ-6787,DISP-14387,PRT-2139,07/30/2021,606.52,NULL,Pending,,Claim for replacement part PRT-2139 under equipment warranty.
+CLM-9042,EQ-5871,,PRT-2021,03/30/2022,1460.07,NULL,Pending,,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-9240,EQ-7334,NULL,PRT-2095,06/18/2023,476.98,NULL,Pending,,Claim for replacement part PRT-2095 under equipment warranty.  
+CLM-9292,EQ-5363,DISP-14187,,2022-04-29T00:00:00Z,3763.88,3763.88,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9025,EQ-7494,,PRT-2111,11-27-2023,2412.09,NULL,Pending,,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9259,EQ-6509,DISP-10164,PRT-2104,12-25-2022,3169.07,3169.07,APPROVED,N/A,Claim for replacement part PRT-2104 under equipment warranty.
+CLM-9086,EQ-5389,DISP-10173,PRT-2138,2024-04-22,1517.09,NULL,Pending,,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-10033,EQ-7053,DISP-13229,,07/29/2022,4374.61,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9827,EQ-6891,,PRT-2015,2022-08-15,183.33,NULL,Pending,,Claim for replacement part PRT-2015 under equipment warranty.
+CLM-9349,EQ-6619,DISP-11111,PRT-2109,04/19/2024,3835.64,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-9841,EQ-7324,DISP-13155,PRT-2073,09-28-2022,1446.77,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2073 under equipment warranty.
+CLM-10057,EQ-5225,DISP-14399,,2021/09/03,1055.66,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-10162,EQ-7437,,PRT-2145,2023/06/12,2497.74,2497.74,Approved,N/A,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9140,EQ-7074,DISP-10058,PRT-2128,05/04/2024,468.8,468.8,APPROVED,N/A,Claim for replacement part PRT-2128 under equipment warranty.
+CLM-9788,EQ-6384,DISP-10562,PRT-2054,07/20/2021,1093.99,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2054 under equipment warranty.
+CLM-9285,EQ-6996,,PRT-2145,2024-07-05T00:00:00Z,941.95,NULL,Under Review,,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-10034,EQ-6928,DISP-14222,,11-21-2022,4002.08,0.0,Under Review,<html><body>Normal wear and tear excluded</body></html>,Claim for replacement part N/A under equipment warranty.
+CLM-9586,EQ-5781,DISP-14316,,09-30-2021,1319.15,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9591,EQ-6552,DISP-13884,PRT-2012,2022-08-27T00:00:00Z,3411.45,3411.45,Pending,N/A,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9733,EQ-7444,,,2024-03-09,3726.39,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9938,EQ-6114,DISP-10236,PRT-2110,2021-12-27,3461.38,3461.38,Approved,N/A,Claim for replacement part PRT-2110 under equipment warranty.
+CLM-9066,EQ-6496,DISP-14827,PRT-2136,11/22/2023,3898.82,3312.05,Approved,N/A,Claim for replacement part PRT-2136 under equipment warranty.
+CLM-9266,EQ-5432,DISP-10924,PRT-2145,2022/07/22,3835.52,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9145,EQ-5538,DISP-11890,,2021-08-21T00:00:00Z,4084.61,4084.61,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9139,EQ-5779,DISP-14179,,09/04/2022,3315.82,3315.82,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.  
+CLM-9106,EQ-6175,DISP-14358,PRT-2104,08/20/2021,1987.01,1987.01,Approved,N/A,Claim for replacement part PRT-2104 under equipment warranty.
+CLM-10161,EQ-6674,DISP-13934,PRT-2026,2023-08-12,325.39,NULL,Under Review,,Claim for replacement part PRT-2026 under equipment warranty.
+CLM-9864,EQ-5591,DISP-11132,PRT-2035,07-17-2024,254.42,NULL,Under Review,,Claim for replacement part PRT-2035 under equipment warranty.
+CLM-10191,EQ-6791,,PRT-2049,03/25/2024,1374.31,874.47,Approved,N/A,Claim for replacement part PRT-2049 under equipment warranty.
+CLM-10008,EQ-5282,DISP-12189,PRT-2044,09/01/2021,898.92,NULL,Pending,,Claim for replacement part PRT-2044 under equipment warranty.
+CLM-9989,EQ-5221,DISP-14409,,08/10/2024,2333.44,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9460,EQ-6448,,PRT-2099,08-04-2023,2865.05,0.0,Rejected,<b>Warranty expired prior to claim date</b>,  Claim for replacement part PRT-2099 under equipment warranty.  
+CLM-9329,EQ-7006,DISP-10654,,2022-08-30,2747.49,2747.49,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9578,EQ-6499,,PRT-2063,2024-04-22T00:00:00Z,4276.18,4276.18,Approved,N/A,  Claim for replacement part PRT-2063 under equipment warranty.  
+CLM-9173,EQ-6994,,PRT-2090,01/18/2022,4122.55,4122.55,APPROVED,N/A,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9174,EQ-7347,DISP-12386,PRT-2038,07-16-2023,1800.56,1800.56,APPROVED,N/A,Claim for replacement part PRT-2038 under equipment warranty.
+CLM-9299,EQ-6089,,,06-06-2022,4213.63,4213.63,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9811,EQ-6601,DISP-13482,PRT-2003,05/29/2022,302.17,302.17,APPROVED,N/A,Claim for replacement part PRT-2003 under equipment warranty.
+CLM-9181,EQ-7006,,PRT-2021,2023/01/19,1965.25,NULL,Under Review,,Claim for replacement part PRT-2021 under equipment warranty.
+CLM-10064,EQ-6382,DISP-12975,PRT-2089,2022-04-02,1675.13,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2089 under equipment warranty.
+CLM-9158,EQ-5703,DISP-14544,PRT-2076,03/11/2024,1599.49,1599.49,Approved,N/A,Claim for replacement part PRT-2076 under equipment warranty.
+CLM-9261,EQ-6315,DISP-14597,PRT-2083,03/19/2022,2472.43,2472.43,Approved,N/A,Claim for replacement part PRT-2083 under equipment warranty.
+CLM-9472,EQ-6849,DISP-13613,PRT-2080,06/23/2022,4704.46,NULL,Under Review,,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-9051,EQ-5607,,PRT-2140,2023-03-19,610.54,610.54,APPROVED,N/A,Claim for replacement part PRT-2140 under equipment warranty.
+CLM-10170,EQ-6668,DISP-12218,PRT-2113,2024-05-03,971.89,971.89,APPROVED,N/A,Claim for replacement part PRT-2113 under equipment warranty.
+CLM-9502,EQ-5809,DISP-13955,PRT-2080,2022/09/02,2101.59,1630.46,Approved,N/A,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-9968,EQ-6116,DISP-14022,PRT-2078,04-28-2022,4104.9,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9871,EQ-5760,,PRT-2008,04-30-2022,3774.73,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9322,EQ-5251,,,2022-01-13,2427.01,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10116,EQ-6395,,PRT-2050,02-15-2022,999.92,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-9932,EQ-6836,DISP-13042,,2022-02-24T00:00:00Z,1938.64,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9696,EQ-6093,DISP-11698,PRT-2028,2023-04-04,1377.2,1377.2,Approved,<strong>N/A</strong>,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9649,EQ-6505,DISP-13922,PRT-2070,2023-10-19T00:00:00Z,789.1,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2070 under equipment warranty.
+CLM-10043,EQ-5892,DISP-10635,PRT-2093,01/25/2023,3471.56,NULL,Pending,,Claim for replacement part PRT-2093 under equipment warranty.
+CLM-10093,EQ-7278,DISP-11232,PRT-2145,2022-10-23,3501.44,3501.44,Approved,N/A,Claim for replacement part PRT-2145 under equipment warranty.
+CLM-9821,EQ-6420,DISP-10027,PRT-2059,2022-09-21T00:00:00Z,1629.05,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9700,EQ-7492,,PRT-2098,08/05/2023,3907.87,3907.87,Approved,<div>N/A</div>,Claim for replacement part PRT-2098 under equipment warranty.
+CLM-9025,EQ-7494,,PRT-2111,11-27-2023,2412.09,NULL,Pending,,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9549,EQ-7074,DISP-11608,,2023/08/31,397.88,397.88,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9712,EQ-6804,DISP-14754,,06/29/2024,3160.61,3160.61,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9355,EQ-6292,DISP-13423,PRT-2103,03/15/2023,2285.48,NULL,Pending,,Claim   for   replacement   part   PRT-2103   under   equipment   warranty.
+CLM-9769,EQ-5598,,,08/26/2023,3698.52,3698.52,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9843,EQ-6679,DISP-10320,PRT-2041,03/11/2023,4677.78,4677.78,Approved,<strong>N/A</strong>,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9404,EQ-6621,DISP-14806,PRT-2137,08-09-2024,4587.93,4587.93,Approved,N/A,   Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9244,EQ-7243,DISP-14200,,2022-08-21T00:00:00Z,3486.76,3486.76,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10096,EQ-7079,DISP-10597,,04-20-2024,2893.78,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.  
+CLM-9616,EQ-5753,DISP-14593,PRT-2041,2023-01-31T00:00:00Z,3438.58,NULL,Under Review,,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9256,EQ-7495,DISP-12774,PRT-2112,06-02-2024,753.7,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2112 under equipment warranty.
+CLM-10190,EQ-5540,,PRT-2090,2021-12-01T00:00:00Z,2531.82,2252.15,Approved,N/A,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9149,EQ-5977,DISP-12723,PRT-2062,2022/12/07,2149.91,NULL,Under Review,,Claim for replacement part PRT-2062 under equipment warranty.
+CLM-9774,EQ-6802,DISP-10561,PRT-2012,07/03/2024,865.87,865.87,APPROVED,N/A,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-10105,EQ-5190,DISP-10933,,2021-09-01,3907.21,3907.21,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9482,EQ-5248,DISP-12946,PRT-2088,2023-10-15T00:00:00Z,1287.34,NULL,Under Review,,Claim for replacement part PRT-2088 under equipment warranty.
+CLM-9037,EQ-5516,DISP-12822,PRT-2071,06/11/2023,3584.04,2230.98,Approved,N/A,Claim   for   replacement   part   PRT-2071   under   equipment   warranty.
+CLM-9729,EQ-5599,DISP-12958,,2023-01-16T00:00:00Z,2084.69,2084.69,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9439,EQ-6042,,,07/05/2024,2505.62,2505.62,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9799,EQ-5533,DISP-12185,PRT-2018,01/16/2023,2390.69,NULL,Pending,,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9808,EQ-7343,,PRT-2027,2024/03/21,1055.07,1055.07,APPROVED,N/A,Claim for replacement part PRT-2027 under equipment warranty.
+CLM-9959,EQ-5387,DISP-10606,PRT-2119,11/24/2022,2620.44,NULL,Under Review,,Claim for replacement part PRT-2119 under equipment warranty.
+CLM-9213,EQ-5902,DISP-12239,,2024-03-29T00:00:00Z,1892.64,1892.64,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9247,EQ-5649,DISP-13586,,2022/06/10,1972.28,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9133,EQ-5174,,,2024/06/18,2309.41,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.  
+CLM-9047,EQ-5123,DISP-14635,PRT-2031,12/13/2023,3312.49,3312.49,Approved,N/A,Claim for replacement part PRT-2031 under equipment warranty.
+CLM-9859,EQ-6598,,,2021/12/25,2822.6,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9414,EQ-5561,DISP-11412,PRT-2123,11/30/2022,678.05,678.05,Under Review,N/A,Claim for replacement part PRT-2123 under equipment warranty.
+CLM-9228,EQ-6699,DISP-10441,PRT-2068,2023-09-03,1446.47,NULL,Under Review,,Claim for replacement part PRT-2068 under equipment warranty.
+CLM-9823,EQ-5281,DISP-10794,,2022/02/09,2132.96,2132.96,Approved,N/A,Claim for replacement part N/A under equipment warranty.  
+CLM-9559,EQ-6864,DISP-11663,PRT-2106,05/03/2022,2429.19,NULL,Pending,,Claim for replacement part PRT-2106 under equipment warranty.
+CLM-10183,EQ-5151,,,2024/05/26,3707.73,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-10184,EQ-6311,DISP-11152,   ,03/10/2024,4371.14,4371.14,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9709,EQ-7100,   ,PRT-2021,04-11-2024,2376.33,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2021 under equipment warranty.  
+CLM-9662,EQ-7500,DISP-11995,PRT-2019,2022-03-17,882.68,NULL,Under Review,,Claim for replacement part PRT-2019 under equipment warranty.
+CLM-10131,EQ-5822,DISP-14885,,2021-10-10,2686.23,2686.23,Approved,<html><body>N/A</body></html>,Claim for replacement part N/A under equipment warranty.  
+CLM-9952,EQ-5542,DISP-14936,PRT-2107,03/25/2022,2375.19,1194.12,APPROVED,N/A,Claim for replacement part PRT-2107 under equipment warranty.
+CLM-9570,EQ-6670,DISP-12221,PRT-2010,11-05-2022,1926.31,NULL,Under Review,<strong></strong>,Claim for replacement part PRT-2010 under equipment warranty.
+CLM-10009,EQ-5780,DISP-14644,PRT-2129,09/20/2023,4317.19,NULL,Under Review,,Claim for replacement part PRT-2129 under equipment warranty.
+CLM-10143,EQ-5672,DISP-11067,PRT-2050,2023/05/25,2786.23,2458.29,Approved,N/A,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-10070,EQ-6238,DISP-12472,PRT-2018,06-27-2023,4265.11,4265.11,Approved,N/A,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9398,EQ-5201,,,2023-03-19,703.83,0.0,Rejected,<b>Normal wear and tear excluded</b>,Claim for replacement part N/A under equipment warranty.
+CLM-9747,EQ-7036,DISP-14462,,07/05/2024,3977.49,3977.49,APPROVED,<strong>N/A</strong>,Claim for replacement part N/A under equipment warranty.
+CLM-9758,EQ-6091,DISP-11118,PRT-2124,02/21/2023,873.3,NULL,Pending,,  Claim for replacement part PRT-2124 under equipment warranty.  
+CLM-9303,EQ-7322,DISP-12059,PRT-2032,2023/03/14,1269.91,NULL,Under Review,,Claim for replacement part PRT-2032 under equipment warranty.
+CLM-9588,EQ-5144,,PRT-2011,01/15/2023,4212.12,4212.12,Approved,<html><body>N/A</body></html>,Claim for replacement part PRT-2011 under equipment warranty.
+CLM-9960,EQ-7230,DISP-13696,PRT-2103,2024/01/30,4583.6,4583.6,Approved,N/A,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9641,EQ-5824,,PRT-2036,2023-10-26T00:00:00Z,1827.35,1827.35,APPROVED,N/A,Claim for replacement part PRT-2036 under equipment warranty.  
+CLM-9476,EQ-6355,DISP-11748,PRT-2150,2021/11/17,921.93,NULL,Under Review,,Claim for replacement part PRT-2150 under equipment warranty.
+CLM-9527,EQ-7385,DISP-10685,PRT-2006,2022/05/23,3750.9,NULL,Under Review,<html></html>,Claim for replacement part PRT-2006 under equipment warranty.
+CLM-9212,EQ-5285,DISP-13945,,11/14/2021,3740.41,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-9609,EQ-6853,DISP-11872,,2022-03-23,1064.24,584.23,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9090,EQ-5310,DISP-11403,PRT-2041,09-01-2021,2470.29,2470.29,APPROVED,N/A,Claim for replacement part PRT-2041 under equipment warranty.
+CLM-9046,EQ-6915,DISP-13078,PRT-2113,11/07/2023,4623.77,4623.77,APPROVED,N/A,Claim   for   replacement   part   PRT-2113   under   equipment   warranty.
+CLM-9697,EQ-6871,DISP-14828,,01-20-2024,1882.51,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9808,EQ-7343,,PRT-2027,2024/03/21,1055.07,1055.07,Approved,N/A,Claim for replacement part PRT-2027 under equipment warranty.
+CLM-9012,EQ-7077,,NULL,04/01/2023,3173.29,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10164,EQ-5626,DISP-10702,,09/11/2023,801.0,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9805,EQ-6279,DISP-13143,PRT-2109,2021-08-25,2762.74,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-9807,EQ-7148,DISP-11491,,03/01/2023,2174.69,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10059,EQ-6339,,,11-13-2021,542.35,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9143,EQ-6183,,,2023-09-20T00:00:00Z,593.98,398.6,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9328,EQ-7268,DISP-14208,PRT-2047,12-27-2023,3085.33,NULL,Pending,,Claim for replacement part PRT-2047 under equipment warranty.
+CLM-9230,EQ-5525,DISP-13433,PRT-2137,2023-09-02,4358.57,NULL,Under Review,<b></b>,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9135,EQ-6544,,PRT-2122,07-22-2023,4661.02,4350.93,APPROVED,N/A,Claim for replacement part PRT-2122 under equipment warranty.
+CLM-10136,EQ-6450,DISP-10590,PRT-2042,07/25/2021,4606.04,NULL,Under Review,,Claim for replacement part PRT-2042 under equipment warranty.
+CLM-10185,EQ-6922,DISP-14471,PRT-2113,2023/12/25,2466.82,NULL,Under Review,,Claim for replacement part PRT-2113 under equipment warranty.
+CLM-9548,EQ-6952,DISP-13436,,2021/07/03,3994.59,0.0,Rejected,Unauthorized modification detected,Claim   for   replacement   part   N/A   under   equipment   warranty.
+CLM-9967,EQ-5059,DISP-13278,PRT-2016,2022-10-07T00:00:00Z,2244.53,2244.53,APPROVED,N/A,Claim for replacement part PRT-2016 under equipment warranty.
+CLM-10195,EQ-6197,DISP-10827,PRT-2043,2022/11/03,3941.08,NULL,Pending,,   Claim for replacement part PRT-2043 under equipment warranty.
+CLM-9553,EQ-6756,DISP-11776,,05/31/2022,568.58,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9637,EQ-5088,DISP-12373,PRT-2030,04/17/2022,4108.49,NULL,Pending,<html><body></body></html>,Claim for replacement part PRT-2030 under equipment warranty.
+CLM-9543,EQ-6925,DISP-10768,,2022/10/09,1062.43,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9053,EQ-5158,DISP-12500,PRT-2121,2023-12-09T00:00:00Z,2372.33,NULL,Under Review,,Claim for replacement part PRT-2121 under equipment warranty.
+CLM-9357,EQ-5009,DISP-11707,PRT-2064,2021-07-10,1754.14,1754.14,Approved,N/A,Claim for replacement part PRT-2064 under equipment warranty.
+CLM-9587,EQ-6497,DISP-10961,PRT-2034,04/13/2022,2257.09,2257.09,APPROVED,N/A,Claim for replacement part PRT-2034 under equipment warranty.
+CLM-9612,EQ-7249,DISP-14743,PRT-2081,2023/04/22,1892.52,NULL,Pending,<strong></strong>,Claim for replacement part PRT-2081 under equipment warranty.
+CLM-9493,EQ-5137,,PRT-2019,2023-04-15T00:00:00Z,171.07,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2019 under equipment warranty.
+CLM-9689,EQ-5448,DISP-11155,PRT-2037,2024-04-18T00:00:00Z,4581.55,NULL,Pending,,Claim for replacement part PRT-2037 under equipment warranty.
+CLM-9237,EQ-5846,DISP-11604,PRT-2031,04/29/2024,807.27,NULL,Pending,,Claim for replacement part PRT-2031 under equipment warranty.
+CLM-9208,EQ-7171,DISP-13497,PRT-2020,08-06-2023,4241.79,NULL,Pending,,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9191,EQ-6349,DISP-12148,,08/06/2023,4264.11,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9405,EQ-5381,DISP-11222,PRT-2077,2023/12/04,1880.3,NULL,Under Review,,Claim for replacement part PRT-2077 under equipment warranty.
+CLM-9931,EQ-6433,DISP-11443,PRT-2089,2021-08-12T00:00:00Z,2907.99,NULL,Under Review,,Claim for replacement part PRT-2089 under equipment warranty.
+CLM-9276,EQ-5730,,PRT-2100,2024-07-07,273.67,144.94,Approved,N/A,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-10089,EQ-6736,,PRT-2114,03/03/2022,257.81,257.81,Approved,N/A,Claim for replacement part PRT-2114 under equipment warranty.
+CLM-9816,EQ-5517,DISP-12723,PRT-2005,2021-07-27,3074.15,0.0,Rejected,<html><body>Normal wear and tear excluded</body></html>,Claim for replacement part PRT-2005 under equipment warranty.
+CLM-9396,EQ-6286,DISP-10371,PRT-2060,2021-08-20,4762.71,NULL,Pending,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9658,EQ-6521,DISP-10883,,07/16/2024,4152.67,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9761,EQ-5026,,,2023-01-03,3503.89,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9336,EQ-6450,,PRT-2051,2023/05/13,1566.01,NULL,Pending,,Claim for replacement part PRT-2051 under equipment warranty.
+CLM-9150,EQ-6861,DISP-11549,PRT-2012,2022-07-16,2291.74,2291.74,APPROVED,N/A,Claim for replacement part PRT-2012 under equipment warranty.
+CLM-9092,EQ-6413,DISP-10241,,08/26/2023,1205.32,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10005,EQ-7359,DISP-11298,PRT-2018,09/07/2021,1386.25,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2018 under equipment warranty.
+CLM-9337,EQ-7428,DISP-13714,PRT-2086,04-09-2022,995.84,NULL,Pending,,   Claim for replacement part PRT-2086 under equipment warranty.
+CLM-9315,EQ-5637,,,10/17/2022,2744.37,NULL,Under Review,<b></b>,Claim for replacement part N/A under equipment warranty.
+CLM-9725,EQ-6482,DISP-10285,NULL,03/02/2022,827.87,827.87,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9579,EQ-6358,DISP-13569,PRT-2124,2024-02-21,3881.3,NULL,Pending,,Claim for replacement part PRT-2124 under equipment warranty.
+CLM-9752,EQ-5431,DISP-13997,PRT-2138,11-19-2023,739.57,739.57,Approved,<html><body>N/A</body></html>,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-10167,EQ-6000,DISP-11465,PRT-2030,06-16-2024,576.62,NULL,Pending,,Claim for replacement part PRT-2030 under equipment warranty.
+CLM-9830,EQ-7253,DISP-14090,PRT-2149,2024-01-18T00:00:00Z,3387.24,NULL,Pending,,Claim for replacement part PRT-2149 under equipment warranty.
+CLM-9869,EQ-7387,,PRT-2083,2022-10-21T00:00:00Z,4718.77,NULL,Pending,,Claim for replacement part PRT-2083 under equipment warranty.
+CLM-9507,EQ-5797,DISP-12324,PRT-2032,2022/12/27,661.87,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2032 under equipment warranty.
+CLM-9267,EQ-5266,DISP-13178,NULL,2024/01/21,2885.32,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9901,EQ-6497,,PRT-2022,01/03/2022,672.21,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2022 under equipment warranty.
+CLM-9973,EQ-7085,,NULL,11/22/2022,2934.97,2934.97,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9852,EQ-5011,DISP-10692,,03-23-2023,3956.29,3956.29,Approved,N/A,  Claim for replacement part N/A under equipment warranty.  
+CLM-9535,EQ-6624,DISP-10616,PRT-2082,2022-05-31T00:00:00Z,4102.3,4102.3,Approved,N/A,Claim for replacement part PRT-2082 under equipment warranty.
+CLM-9815,EQ-5662,DISP-10194,PRT-2059,2022-09-10,3174.49,3174.49,Approved,<html><body>N/A</body></html>,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9727,EQ-7473,DISP-14427,,2024-01-05T00:00:00Z,1025.55,0.0,Rejected,Unauthorized modification detected,Claim for replacement part N/A under equipment warranty.
+CLM-9699,EQ-7135,,PRT-2084,07/14/2022,4005.45,NULL,Pending,,Claim for replacement part PRT-2084 under equipment warranty.
+CLM-9532,EQ-5190,DISP-13835,PRT-2079,06-10-2024,735.29,735.29,Approved,N/A,Claim for replacement part PRT-2079 under equipment warranty.
+CLM-9509,EQ-7256,DISP-14452,PRT-2103,09-05-2023,3320.66,NULL,Pending,,   Claim for replacement part PRT-2103 under equipment warranty.
+CLM-10139,EQ-5001,DISP-11854,,07/03/2021,2748.4,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10144,EQ-7484,DISP-10416,PRT-2031,2021-10-07T00:00:00Z,2954.5,2954.5,Approved,N/A,Claim for replacement part PRT-2031 under equipment warranty.
+CLM-9368,EQ-6331,DISP-13029,PRT-2008,12-23-2022,1325.32,1325.32,Approved,N/A,Claim for replacement part PRT-2008 under equipment warranty.
+CLM-9113,EQ-5968,DISP-10168,,01-02-2022,1149.54,1149.54,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9263,EQ-7323,DISP-11807,PRT-2017,04/03/2022,2021.92,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-10130,EQ-6441,DISP-10088,   ,2024-01-05,292.99,292.99,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10142,EQ-5901,,PRT-2081,2021-08-23,4305.37,NULL,Under Review,,Claim for replacement part PRT-2081 under equipment warranty.
+CLM-9735,EQ-5237,DISP-11894,PRT-2058,09/23/2022,3787.52,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2058 under equipment warranty.
+CLM-9776,EQ-6020,DISP-10433,,03-22-2024,171.5,126.5,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9218,EQ-6437,DISP-12533,PRT-2137,2021-11-27,701.34,NULL,Under Review,,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9763,EQ-6074,DISP-12466,PRT-2109,12-17-2022,1975.48,1975.48,APPROVED,N/A,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-9779,EQ-7320,,PRT-2046,08-12-2023,1356.47,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2046 under equipment warranty.
+CLM-9363,EQ-5805,DISP-14947,PRT-2142,11/17/2021,2536.93,0.0,Rejected,<b>Normal wear and tear excluded</b>,Claim for replacement part PRT-2142 under equipment warranty.
+CLM-10159,EQ-7115,DISP-11323,,02-06-2023,4663.38,NULL,Under Review,<p></p>,  Claim for replacement part N/A under equipment warranty.  
+CLM-9820,EQ-6816,DISP-11521,PRT-2094,2024-01-15T00:00:00Z,4166.93,4166.93,APPROVED,N/A,Claim for replacement part PRT-2094 under equipment warranty.
+CLM-9845,EQ-6225,DISP-11193,PRT-2146,09-26-2023,1832.69,1832.69,APPROVED,N/A,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-9441,EQ-6429,DISP-13524,PRT-2122,2021/12/01,2872.96,NULL,Pending,<strong></strong>,Claim for replacement part PRT-2122 under equipment warranty.
+CLM-9464,EQ-6926,DISP-11987,PRT-2146,2023-01-27T00:00:00Z,2132.42,2132.42,APPROVED,N/A,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-10147,EQ-6743,DISP-12350,,2022/06/16,2390.32,0.0,Rejected,<div>Normal wear and tear excluded</div>,Claim for replacement part N/A under equipment warranty.
+CLM-9936,EQ-5018,DISP-14100,PRT-2120,03/29/2024,4176.62,2282.35,APPROVED,N/A,Claim for replacement part PRT-2120 under equipment warranty.
+CLM-9023,EQ-5314,DISP-13964,PRT-2088,2022-01-21T00:00:00Z,1360.49,NULL,Under Review,,Claim for replacement part PRT-2088 under equipment warranty.
+CLM-10078,EQ-6640,DISP-14315,,2022-07-07,2229.52,2069.98,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9320,EQ-5229,DISP-10097,PRT-2060,2022-11-15T00:00:00Z,834.13,NULL,Under Review,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9540,EQ-5211,DISP-11238,PRT-2125,11/05/2022,2389.77,1204.72,APPROVED,N/A,Claim for replacement part PRT-2125 under equipment warranty.  
+CLM-9069,EQ-7056,DISP-12220,PRT-2076,10/05/2021,4240.9,NULL,Under Review,,Claim for replacement part PRT-2076 under equipment warranty.
+CLM-9707,EQ-5407,DISP-10749,PRT-2090,2023/11/22,3787.77,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-9317,EQ-5210,DISP-13330,PRT-2006,02/17/2024,1142.36,1142.36,APPROVED,<div>N/A</div>,Claim for replacement part PRT-2006 under equipment warranty.
+CLM-9777,EQ-6077,DISP-11338,PRT-2028,2021-12-07T00:00:00Z,153.48,NULL,Under Review,,Claim for replacement part PRT-2028 under equipment warranty.  
+CLM-9152,EQ-5793,DISP-11022,PRT-2062,2024/03/21,4683.27,NULL,Under Review,,   Claim for replacement part PRT-2062 under equipment warranty.
+CLM-10172,EQ-6619,DISP-12993,PRT-2010,08/31/2022,2187.47,NULL,Pending,,Claim for replacement part PRT-2010 under equipment warranty.
+CLM-9514,EQ-5299,DISP-14072,,07/01/2022,647.6,647.6,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9510,EQ-5770,DISP-14520,,2022-10-18T00:00:00Z,4617.32,4617.32,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10023,EQ-5213,DISP-12914,PRT-2090,12/18/2022,1790.34,1790.34,Approved,<html>N/A</html>,Claim for replacement part PRT-2090 under equipment warranty.
+CLM-10123,EQ-5970,DISP-14139,PRT-2092,2023-01-19,2602.87,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2092 under equipment warranty.
+CLM-9255,EQ-6375,DISP-11181,,2024/05/10,1170.19,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9207,EQ-5894,DISP-10213,PRT-2032,2024-06-06T00:00:00Z,2935.57,2935.57,Approved,N/A,  Claim for replacement part PRT-2032 under equipment warranty.  
+CLM-9657,EQ-7371,DISP-14125,PRT-2097,2021-12-04,3382.89,NULL,Pending,,Claim for replacement part PRT-2097 under equipment warranty.
+CLM-10069,EQ-7403,DISP-14103,PRT-2045,2022/09/24,771.26,NULL,Pending,,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9312,EQ-5420,DISP-12386,,07/04/2024,2390.03,2390.03,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9199,EQ-6127,DISP-14992,PRT-2017,05/21/2024,590.08,NULL,Under Review,,Claim for replacement part PRT-2017 under equipment warranty.
+CLM-9703,EQ-7460,DISP-10653,PRT-2078,04/28/2024,4649.13,4649.13,Under Review,N/A,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9754,EQ-7497,DISP-13447,,2023/02/07,3706.93,NULL,Pending,<strong></strong>,Claim for replacement part N/A under equipment warranty.
+CLM-9492,EQ-7179,DISP-11660,,2024-06-24T00:00:00Z,1253.74,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9911,EQ-5241,DISP-14505,PRT-2109,02-23-2024,2259.64,0.0,Rejected,<div>Improper installation by non-certified party</div>,Claim for replacement part PRT-2109 under equipment warranty.
+CLM-9854,EQ-6326,DISP-12621,,2023-05-06T00:00:00Z,564.29,564.29,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9566,EQ-6226,DISP-13317,PRT-2055,01/22/2023,4703.31,NULL,Under Review,,Claim for replacement part PRT-2055 under equipment warranty.  
+CLM-9909,EQ-6393,DISP-13164,PRT-2065,2021-09-06T00:00:00Z,4762.38,4762.38,APPROVED,N/A,Claim for replacement part PRT-2065 under equipment warranty.
+CLM-9945,EQ-6208,DISP-11714,PRT-2129,10/02/2021,4501.2,4501.2,Approved,N/A,Claim for replacement part PRT-2129 under equipment warranty.
+CLM-9246,EQ-6612,DISP-13773,,01-01-2024,2423.51,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9613,EQ-7224,DISP-10741,PRT-2093,2023-07-27,2364.87,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2093 under equipment warranty.
+CLM-9594,EQ-7116,DISP-12955,PRT-2051,04-04-2024,229.71,NULL,Pending,,Claim for replacement part PRT-2051 under equipment warranty.
+CLM-10119,EQ-6126,DISP-11400,,03-22-2023,2022.91,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part N/A under equipment warranty.
+CLM-9624,EQ-6833,,,2022/04/19,1644.87,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9254,EQ-5827,DISP-11010,PRT-2074,2024/04/24,3779.2,3779.2,APPROVED,N/A,   Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9185,EQ-6291,DISP-12044,PRT-2095,06-29-2022,2759.94,NULL,Under Review,,Claim for replacement part PRT-2095 under equipment warranty.
+CLM-9471,EQ-6889,DISP-13030,PRT-2108,2021-10-09T00:00:00Z,4772.08,NULL,Under Review,,Claim for replacement part PRT-2108 under equipment warranty.
+CLM-9902,EQ-6664,DISP-14102,PRT-2022,2023-01-15,2098.5,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2022 under equipment warranty.
+CLM-9310,EQ-7422,DISP-14913,PRT-2075,2023-12-23T00:00:00Z,2321.34,0.0,Rejected,Unauthorized modification detected,   Claim for replacement part PRT-2075 under equipment warranty.
+CLM-9609,EQ-6853,DISP-11872,,2022-03-23,1064.24,584.23,Under Review,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9750,EQ-5286,,PRT-2030,2024-07-28,182.76,0.0,Rejected,Improper installation by non-certified party,  Claim for replacement part PRT-2030 under equipment warranty.  
+CLM-9832,EQ-7335,DISP-12926,PRT-2118,09-25-2022,4774.62,4774.62,Approved,N/A,Claim for replacement part PRT-2118 under equipment warranty.
+CLM-9155,EQ-6755,DISP-10418,PRT-2053,11/18/2023,1124.55,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-10027,EQ-6553,DISP-14990,PRT-2069,2024-07-04,4173.36,3947.64,Approved,N/A,Claim for replacement part PRT-2069 under equipment warranty.
+CLM-10137,EQ-6823,DISP-13095,PRT-2070,07/07/2023,1810.45,NULL,Pending,<p></p>,Claim for replacement part PRT-2070 under equipment warranty.
+CLM-10082,EQ-5071,DISP-14744,PRT-2130,12/22/2022,2657.41,2657.41,Approved,N/A,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-9455,EQ-5922,DISP-13637,PRT-2146,2022/04/15,1746.91,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-9953,EQ-7149,DISP-12984,PRT-2076,03/07/2024,2010.79,1384.92,APPROVED,N/A,Claim for replacement part PRT-2076 under equipment warranty.
+CLM-9560,EQ-6035,DISP-12686,PRT-2015,2023-02-02,1066.74,0.0,Rejected,<strong>Improper installation by non-certified party</strong>,Claim for replacement part PRT-2015 under equipment warranty.
+CLM-9947,EQ-7149,DISP-12768,PRT-2138,2024-02-17T00:00:00Z,1836.1,1836.1,Approved,<html>N/A</html>,Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9428,EQ-5314,,PRT-2033,2023-05-18T00:00:00Z,191.38,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2033 under equipment warranty.
+CLM-9666,EQ-5477,DISP-12998,PRT-2011,03/15/2024,1799.4,1799.4,Approved,N/A,  Claim for replacement part PRT-2011 under equipment warranty.  
+CLM-9078,EQ-5701,NULL,PRT-2080,11/02/2021,1960.74,1960.74,Approved,N/A,Claim for replacement part PRT-2080 under equipment warranty.
+CLM-10036,EQ-6659,DISP-10409,PRT-2124,02/12/2023,315.69,315.69,APPROVED,<b>N/A</b>,Claim for replacement part PRT-2124 under equipment warranty.
+CLM-9167,EQ-5939,DISP-13918,PRT-2094,01/16/2024,3618.67,3618.67,Approved,N/A,   Claim for replacement part PRT-2094 under equipment warranty.
+CLM-9490,EQ-5655,DISP-12666,PRT-2120,11-18-2023,1739.63,1739.63,Approved,N/A,Claim for replacement part PRT-2120 under equipment warranty.
+CLM-9781,EQ-5107,DISP-13609,PRT-2140,11/19/2021,3721.97,3721.97,Approved,N/A,Claim   for   replacement   part   PRT-2140   under   equipment   warranty.
+CLM-9413,EQ-7450,DISP-11349,PRT-2150,10/04/2021,502.78,502.78,Approved,N/A,Claim for replacement part PRT-2150 under equipment warranty.
+CLM-9908,EQ-5365,DISP-11237,PRT-2020,2022/03/06,1804.42,1804.42,APPROVED,N/A,Claim for replacement part PRT-2020 under equipment warranty.
+CLM-9634,EQ-6627,,,2022-11-04,4562.83,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9617,EQ-7211,DISP-12753,,11-13-2023,387.09,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9477,EQ-6442,,,03/03/2022,1335.45,1335.45,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10040,EQ-7365,,PRT-2111,2022-01-03T00:00:00Z,708.31,NULL,Under Review,<html></html>,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9796,EQ-5478,DISP-12440,PRT-2093,2024-02-06,1866.6,NULL,Pending,,Claim for replacement part PRT-2093 under equipment warranty.
+CLM-10013,EQ-5199,DISP-12661,PRT-2135,2022-09-15T00:00:00Z,4395.07,0.0,Rejected,<b>Unauthorized modification detected</b>,Claim for replacement part PRT-2135 under equipment warranty.
+CLM-9446,EQ-6389,DISP-10709,PRT-2091,07-12-2024,3678.7,NULL,Pending,,Claim for replacement part PRT-2091 under equipment warranty.
+CLM-9800,EQ-6324,DISP-13581,PRT-2027,2024-02-11T00:00:00Z,4797.58,0.0,Rejected,<html>Warranty expired prior to claim date</html>,Claim for replacement part PRT-2027 under equipment warranty.
+CLM-9620,EQ-5478,,PRT-2009,2024-07-27,158.92,NULL,Under Review,,Claim for replacement part PRT-2009 under equipment warranty.
+CLM-9019,EQ-6871,,PRT-2037,08/03/2021,475.67,NULL,Pending,,Claim for replacement part PRT-2037 under equipment warranty.
+CLM-9645,EQ-5952,DISP-13181,PRT-2074,11/10/2021,526.97,526.97,APPROVED,N/A,Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9177,EQ-7256,DISP-11982,,04-10-2024,4653.3,4653.3,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9136,EQ-6002,DISP-12545,PRT-2060,2022/06/03,399.77,399.77,APPROVED,N/A,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9710,EQ-6099,DISP-11260,PRT-2118,12/31/2023,2779.77,NULL,Pending,<html><body></body></html>,Claim   for   replacement   part   PRT-2118   under   equipment   warranty.
+CLM-9192,EQ-5079,DISP-12230,PRT-2031,2022-08-03T00:00:00Z,292.82,292.82,APPROVED,N/A,Claim for replacement part PRT-2031 under equipment warranty.
+CLM-9635,EQ-5357,DISP-14877,PRT-2052,12/20/2022,1464.68,0.0,Rejected,<strong>Normal wear and tear excluded</strong>,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-10146,EQ-5112,,,04/11/2022,1629.25,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9860,EQ-7426,DISP-10755,PRT-2067,2024/03/09,4550.91,NULL,Pending,,Claim for replacement part PRT-2067 under equipment warranty.
+CLM-9473,EQ-7132,DISP-14120,,03/13/2022,1907.89,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9782,EQ-5177,DISP-10692,PRT-2149,08/27/2023,4181.62,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2149 under equipment warranty.
+CLM-9550,EQ-6780,DISP-14200,PRT-2039,04/15/2022,1476.07,NULL,Pending,,Claim for replacement part PRT-2039 under equipment warranty.
+CLM-9060,EQ-6032,DISP-10411,,09/25/2022,2577.36,NULL,Pending,,  Claim for replacement part N/A under equipment warranty.  
+CLM-9963,EQ-7265,DISP-12177,PRT-2115,2023-09-24T00:00:00Z,3215.99,NULL,Pending,,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9625,EQ-7327,DISP-11242,PRT-2114,2022-05-01,4441.67,4441.67,APPROVED,N/A,Claim for replacement part PRT-2114 under equipment warranty.
+CLM-9059,EQ-5536,DISP-11919,PRT-2095,11-13-2021,2372.85,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2095 under equipment warranty.
+CLM-9126,EQ-6637,DISP-13185,PRT-2038,05/20/2022,1504.09,NULL,Under Review,,Claim for replacement part PRT-2038 under equipment warranty.
+CLM-9850,EQ-6814,,PRT-2009,2023-10-24T00:00:00Z,2686.68,2686.68,APPROVED,N/A,Claim for replacement part PRT-2009 under equipment warranty.
+CLM-9216,EQ-5409,DISP-11841,PRT-2059,01/12/2022,1323.7,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2059 under equipment warranty.
+CLM-9253,EQ-5043,DISP-12849,PRT-2040,2023-05-11,2259.32,2259.32,Approved,<b>N/A</b>,Claim for replacement part PRT-2040 under equipment warranty.
+CLM-9175,EQ-5790,DISP-11430,,09/16/2023,3135.35,3135.35,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9381,EQ-6451,DISP-11983,PRT-2148,01/20/2022,3440.96,2357.17,Approved,N/A,Claim for replacement part PRT-2148 under equipment warranty.
+CLM-10151,EQ-5372,,,10/20/2022,3198.2,0.0,Rejected,Normal wear and tear excluded,Claim for replacement part N/A under equipment warranty.
+CLM-9565,EQ-6494,DISP-12101,PRT-2085,08/20/2023,3650.54,3650.54,Approved,<strong>N/A</strong>,Claim for replacement part PRT-2085 under equipment warranty.
+CLM-9353,EQ-5711,,,12/16/2022,690.13,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9054,EQ-6440,DISP-13738,PRT-2134,06-21-2023,1176.51,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part PRT-2134 under equipment warranty.
+CLM-9290,EQ-6078,DISP-11341,PRT-2053,05/22/2023,2715.29,2715.29,Approved,N/A,Claim for replacement part PRT-2053 under equipment warranty.
+CLM-9470,EQ-6003,DISP-12199,,12/15/2023,3879.52,1986.26,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9101,EQ-6512,DISP-12541,PRT-2040,07/30/2023,4182.33,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2040 under equipment warranty.
+CLM-10020,EQ-7239,DISP-10996,PRT-2103,09/14/2021,1256.42,NULL,Under Review,,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9457,EQ-6736,DISP-14851,PRT-2124,10-23-2023,2259.4,1567.53,Approved,N/A,Claim for replacement part PRT-2124 under equipment warranty.
+CLM-9204,EQ-5038,DISP-10062,PRT-2045,04/05/2024,2095.2,NULL,Pending,<strong></strong>,Claim for replacement part PRT-2045 under equipment warranty.
+CLM-9366,EQ-6078,,,09/20/2023,3470.65,3470.65,APPROVED,N/A,   Claim for replacement part N/A under equipment warranty.
+CLM-10085,EQ-7004,DISP-13348,,2021/10/25,3530.12,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10021,EQ-6742,DISP-11257,PRT-2134,2023/12/01,2242.43,2242.43,APPROVED,N/A,Claim for replacement part PRT-2134 under equipment warranty.
+CLM-9621,EQ-6338,DISP-13928,PRT-2049,2022/05/03,4382.16,NULL,Pending,,Claim for replacement part PRT-2049 under equipment warranty.
+CLM-9598,EQ-5476,DISP-14339,,05/05/2022,1485.18,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-10041,EQ-7225,DISP-14771,,02-06-2022,1829.74,0.0,Rejected,<strong>Improper installation by non-certified party</strong>,  Claim for replacement part N/A under equipment warranty.  
+CLM-9681,EQ-7025,DISP-11632,PRT-2005,06/17/2024,500.68,NULL,Pending,,Claim for replacement part PRT-2005 under equipment warranty.
+CLM-9899,EQ-7362,,PRT-2028,2022-07-10T00:00:00Z,1585.83,1585.83,APPROVED,N/A,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9052,EQ-6244,DISP-14596,,2021-08-22,3987.65,3987.65,Approved,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9633,EQ-7200,DISP-11040,,07/01/2022,2526.66,2526.66,Approved,N/A,   Claim for replacement part N/A under equipment warranty.
+CLM-9577,EQ-5399,NULL,PRT-2103,2022-08-30T00:00:00Z,1002.3,NULL,Pending,,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-9327,EQ-6540,DISP-11021,,08/19/2021,3410.38,3410.38,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9780,EQ-7051,DISP-11486,,02-23-2023,3478.45,NULL,Under Review,,  Claim for replacement part N/A under equipment warranty.  
+CLM-9731,EQ-5735,DISP-11438,PRT-2074,02/21/2023,3439.57,NULL,Under Review,,Claim for replacement part PRT-2074 under equipment warranty.
+CLM-9759,EQ-5506,DISP-11803,PRT-2083,2023-10-25T00:00:00Z,757.64,463.67,Approved,N/A,Claim for replacement part PRT-2083 under equipment warranty.
+CLM-9674,EQ-7132,DISP-11427,PRT-2030,2023-03-20,352.49,352.49,APPROVED,<html>N/A</html>,Claim for replacement part PRT-2030 under equipment warranty.
+CLM-9300,EQ-7347,DISP-13512,PRT-2055,2022-06-18T00:00:00Z,883.78,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2055 under equipment warranty.
+CLM-9393,EQ-6952,DISP-11631,,11/16/2022,3409.08,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9346,EQ-6454,DISP-12335,,05/25/2022,250.69,250.69,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10101,EQ-5133,DISP-14077,PRT-2104,03-25-2022,856.91,856.91,Approved,<b>N/A</b>,Claim for replacement part PRT-2104 under equipment warranty.
+CLM-9701,EQ-6469,DISP-11921,PRT-2133,09-13-2023,1027.2,NULL,Pending,,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9347,EQ-7041,DISP-14842,PRT-2133,2022/10/04,1758.33,1758.33,Approved,N/A,Claim for replacement part PRT-2133 under equipment warranty.
+CLM-9623,EQ-5688,DISP-10965,PRT-2027,01-30-2024,1309.04,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2027 under equipment warranty.
+CLM-9521,EQ-5832,DISP-13491,PRT-2088,2023-07-08,2432.73,NULL,Under Review,,Claim for replacement part PRT-2088 under equipment warranty.
+CLM-9103,EQ-5098,,PRT-2103,10/23/2022,713.42,713.42,APPROVED,N/A,Claim for replacement part PRT-2103 under equipment warranty.
+CLM-10073,EQ-5592,DISP-12366,PRT-2134,02-28-2022,381.77,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2134 under equipment warranty.
+CLM-9690,EQ-7276,DISP-14947,PRT-2109,2022/01/26,3072.51,3072.51,Approved,N/A,Claim   for   replacement   part   PRT-2109   under   equipment   warranty.
+CLM-9584,EQ-6384,,PRT-2056,2021-11-02T00:00:00Z,894.65,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2056 under equipment warranty.
+CLM-9456,EQ-5555,DISP-14932,,2021/10/09,4594.42,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-9879,EQ-6564,DISP-14663,PRT-2125,01-29-2024,2671.75,NULL,Pending,,Claim for replacement part PRT-2125 under equipment warranty.
+CLM-9020,EQ-6258,DISP-12625,PRT-2102,03/04/2023,4552.75,NULL,Pending,,Claim for replacement part PRT-2102 under equipment warranty.
+CLM-9024,EQ-6426,,   ,2022-03-10,3416.69,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9137,EQ-7471,,PRT-2118,08/30/2023,212.27,0.0,Rejected,<html>Unauthorized modification detected</html>,Claim for replacement part PRT-2118 under equipment warranty.
+CLM-9845,EQ-6225,DISP-11193,PRT-2146,09-26-2023,1832.69,1832.69,Under Review,N/A,Claim for replacement part PRT-2146 under equipment warranty.
+CLM-10179,EQ-7354,DISP-14245,PRT-2130,09/23/2022,3468.95,NULL,Under Review,,Claim for replacement part PRT-2130 under equipment warranty.
+CLM-10148,EQ-5862,DISP-11373,,12-11-2023,2547.13,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9074,EQ-7248,DISP-12499,,2022-06-18,744.59,744.59,APPROVED,<html>N/A</html>,Claim for replacement part N/A under equipment warranty.
+CLM-9184,EQ-6270,DISP-12386,PRT-2078,2023/08/16,1066.62,1066.62,Approved,N/A,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9433,EQ-5362,DISP-11677,PRT-2049,07-15-2022,1013.07,NULL,Pending,,Claim for replacement part PRT-2049 under equipment warranty.
+CLM-9026,EQ-5814,DISP-14167,PRT-2102,01/27/2023,3066.16,3066.16,Approved,<html><body>N/A</body></html>,Claim for replacement part PRT-2102 under equipment warranty.
+CLM-9792,EQ-6109,,,2023-07-26,3232.79,3232.79,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-10155,EQ-6875,DISP-14761,,08/24/2023,1236.77,0.0,Rejected,Improper installation by non-certified party,Claim for replacement part N/A under equipment warranty.
+CLM-9094,EQ-5329,,PRT-2062,11/05/2023,719.09,NULL,Under Review,,Claim for replacement part PRT-2062 under equipment warranty.
+CLM-9286,EQ-6411,DISP-13855,,2022-06-19,3712.6,NULL,Under Review,<p></p>,Claim for replacement part N/A under equipment warranty.
+CLM-9107,EQ-5454,DISP-12250,PRT-2033,2023-01-26T00:00:00Z,4500.18,4500.18,APPROVED,<html>N/A</html>,Claim for replacement part PRT-2033 under equipment warranty.
+CLM-9118,EQ-6504,,PRT-2100,2023-12-20T00:00:00Z,172.37,NULL,Pending,,Claim for replacement part PRT-2100 under equipment warranty.
+CLM-9611,EQ-6892,DISP-11028,PRT-2024,01/07/2024,2478.93,NULL,Pending,,Claim for replacement part PRT-2024 under equipment warranty.
+CLM-9801,EQ-7012,DISP-11317,PRT-2137,03-07-2023,590.04,NULL,Under Review,,Claim for replacement part PRT-2137 under equipment warranty.
+CLM-9055,EQ-6350,DISP-11916,,2023-07-31,4225.15,4225.15,APPROVED,<html><body>N/A</body></html>,   Claim for replacement part N/A under equipment warranty.
+CLM-10046,EQ-6690,,PRT-2054,05/26/2024,2089.45,NULL,Under Review,,  Claim for replacement part PRT-2054 under equipment warranty.  
+CLM-9030,EQ-6291,DISP-10814,PRT-2060,2023-08-11T00:00:00Z,2932.65,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-10056,EQ-6776,,PRT-2115,07/07/2023,1615.82,1615.82,Approved,N/A,Claim for replacement part PRT-2115 under equipment warranty.
+CLM-9661,EQ-6237,DISP-11402,PRT-2051,02/13/2024,616.85,616.85,APPROVED,N/A,Claim for replacement part PRT-2051 under equipment warranty.
+CLM-9061,EQ-7328,DISP-10527,PRT-2082,07/13/2022,1648.92,1648.92,APPROVED,N/A,Claim for replacement part PRT-2082 under equipment warranty.  
+CLM-9297,EQ-5705,DISP-10261,PRT-2131,2024/05/25,4523.65,4523.65,APPROVED,N/A,Claim for replacement part PRT-2131 under equipment warranty.
+CLM-9241,EQ-6972,DISP-11574,,08-18-2021,1684.42,NULL,Pending,,Claim for replacement part N/A under equipment warranty.
+CLM-10097,EQ-6673,DISP-10986,PRT-2111,05/13/2022,210.44,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2111 under equipment warranty.
+CLM-9426,EQ-6825,DISP-10095,PRT-2042,2024/03/11,4044.2,4044.2,APPROVED,N/A,Claim for replacement part PRT-2042 under equipment warranty.
+CLM-9703,EQ-7460,DISP-10653,PRT-2078,04/28/2024,4649.13,4649.13,APPROVED,N/A,Claim for replacement part PRT-2078 under equipment warranty.
+CLM-9574,EQ-5625,DISP-10996,PRT-2129,03/28/2024,505.43,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2129 under equipment warranty.
+CLM-10145,EQ-5432,,PRT-2052,2022-12-26,201.74,201.74,Approved,N/A,Claim for replacement part PRT-2052 under equipment warranty.
+CLM-10180,EQ-7357,DISP-13351,,08-20-2024,4681.07,4681.07,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9745,EQ-7152,,PRT-2102,12/23/2022,1054.6,1054.6,APPROVED,N/A,Claim for replacement part PRT-2102 under equipment warranty.
+CLM-10117,EQ-6028,DISP-11271,PRT-2085,2023-08-21T00:00:00Z,4105.87,0.0,Rejected,Unauthorized modification detected,Claim for replacement part PRT-2085 under equipment warranty.
+CLM-10079,EQ-7388,DISP-12536,,2022-02-05T00:00:00Z,464.5,464.5,APPROVED,N/A,Claim for replacement part N/A under equipment warranty.
+CLM-9627,EQ-5294,DISP-13929,PRT-2038,2022/08/10,860.84,860.84,APPROVED,N/A,Claim for replacement part PRT-2038 under equipment warranty.
+CLM-9258,EQ-7079,DISP-12219,PRT-2025,2022-07-07,1740.15,0.0,Rejected,Warranty expired prior to claim date,Claim for replacement part PRT-2025 under equipment warranty.
+CLM-9436,EQ-5945,DISP-14842,PRT-2082,2023/09/26,1372.97,750.11,APPROVED,N/A,Claim for replacement part PRT-2082 under equipment warranty.
+CLM-10012,EQ-5112,DISP-11828,PRT-2060,2023-10-24T00:00:00Z,1361.35,NULL,Pending,,Claim for replacement part PRT-2060 under equipment warranty.
+CLM-9655,EQ-6155,DISP-14720,PRT-2050,01/17/2023,1279.66,NULL,Pending,,Claim for replacement part PRT-2050 under equipment warranty.
+CLM-10134,EQ-6534,DISP-11687,PRT-2028,03/17/2023,2769.65,2769.65,Approved,N/A,Claim for replacement part PRT-2028 under equipment warranty.
+CLM-9915,EQ-6552,DISP-11604,PRT-2086,2022-09-29T00:00:00Z,1339.34,1339.34,APPROVED,N/A,Claim for replacement part PRT-2086 under equipment warranty.
+CLM-9367,EQ-7351,DISP-12068,PRT-2009,02/05/2023,2820.59,NULL,Pending,,Claim   for   replacement   part   PRT-2009   under   equipment   warranty.
+CLM-10037,EQ-5908,DISP-12356,,2022-03-12T00:00:00Z,3134.61,NULL,Under Review,,Claim for replacement part N/A under equipment warranty.
+CLM-9217,EQ-5520,DISP-11550,PRT-2138,2021-11-04,162.13,162.13,APPROVED,N/A,   Claim for replacement part PRT-2138 under equipment warranty.
+CLM-9789,EQ-5312,DISP-10955,PRT-2146,2021-09-15,2695.47,NULL,Pending,,Claim for replacement part PRT-2146 under equipment warranty.

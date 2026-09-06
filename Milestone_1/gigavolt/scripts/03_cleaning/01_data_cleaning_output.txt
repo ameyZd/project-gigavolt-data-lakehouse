@@ -1,0 +1,5 @@
+customers: input=525, clean=500, rejected=25
+equipment: input=2575, clean=2500, rejected=75
+dispatches: input=5000, clean=4864, rejected=136
+parts: input=150, clean=150, rejected=0
+warranty_claims: input=1248, clean=1171, rejected=77

@@ -1,0 +1,16 @@
+table_name      bronze_rows     silver_rows     quarantined_rows
+customers       525     500     25
+equipment_units 2575    2500    75
+service_logs    5000    4864    136
+parts_inventory 150     150     0
+warranty_claims 1248    1171    77
+relationship_name       orphan_rows
+equipment_units -> customers    0
+service_logs -> equipment_units 0
+warranty_claims -> equipment_units      0
+warranty_claims -> service_logs (optional)      0
+warranty_claims -> parts_inventory (optional)   0
+check_name      problem_rows
+HTML remaining in customer company names        0
+HTML remaining in service summaries     0
+invalid customer created dates  0

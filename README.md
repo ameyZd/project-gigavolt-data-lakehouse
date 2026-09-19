@@ -48,7 +48,10 @@ The Silver layer uses five related entities:
 | `parts_inventory` | Parts catalog and inventory | Referenced by warranty claims |
 | `warranty_claims` | Warranty claim activity | References equipment; optionally service logs and parts |
 
-The ERD source is available at [`Milestone_1/gigavolt/scripts/05_erd/gigavolt_erd.dbml`](Milestone_1/gigavolt/scripts/05_erd/gigavolt_erd.dbml).
+The following is the ER Diagram 
+
+<img width="1118" height="1064" alt="Untitled" src="https://github.com/user-attachments/assets/0474522e-daea-4247-a66e-b0e03ae8b280" />
+
 
 ## Repository Layout
 

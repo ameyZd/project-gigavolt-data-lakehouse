@@ -175,10 +175,6 @@ SOURCE Milestone_2/gigavolt/scripts/06_milestone_2/04_security_view.sql;
 | DBML | Entity relationship diagram source |
 | Ubuntu / EC2 | Reproducible database environment |
 
-## AI Use Statement
-
-AI was used as a support tool for repetitive tasks such as organizing SQL script structure, improving comments, and drafting documentation. Database implementation, testing, and validation were reviewed and executed by the author. Generated suggestions were checked against MariaDB syntax and verified through the project’s output and validation queries.
-
 ---
 
 Built for **Project Gigavolt**, ISTM 622 Advanced Data Management.

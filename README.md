@@ -1,4 +1,4 @@
-# Project Gigavolt — Data Lakehouse & AI-Ready Operations
+# Project Gigavolt — Enterprise Data Lakehouse with Multi-Model Integration & AI-Powered Retrieval
 
 > **ISTM 622 · Advanced Data Management · Fall 2026 · Author: Amey Dhote**
 

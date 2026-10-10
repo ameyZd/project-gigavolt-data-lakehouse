@@ -1,0 +1,22 @@
+# Install on node 3. ColumnStore is installed and used only on this host.
+# Do not create ColumnStore tables through Galera or test ColumnStore replication.
+[mariadb]
+bind-address=0.0.0.0
+default_storage_engine=InnoDB
+binlog_format=ROW
+innodb_autoinc_lock_mode=2
+innodb_flush_log_at_trx_commit=1
+sync_binlog=1
+wsrep_on=ON
+wsrep_provider=/usr/lib/galera/libgalera_smm.so
+wsrep_cluster_name=gigavolt_galera
+wsrep_cluster_address=gcomm://172.31.32.159,172.31.47.63,172.31.40.154
+wsrep_node_name=gigavolt-node3
+wsrep_node_address=172.31.40.154
+wsrep_sst_method=mariabackup
+wsrep_sst_auth=<SST_USER>:<SST_PASSWORD>
+wsrep_provider_options="gcache.size=2G; gcache.recover=yes"
+datadir=/mnt/gigavolt-mariadb/node3/data
+socket=/mnt/gigavolt-mariadb/node3/mariadb.sock
+pid-file=/run/mysqld/mariadb-node3.pid
+port=3306

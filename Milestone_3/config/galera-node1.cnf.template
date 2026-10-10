@@ -1,0 +1,24 @@
+# Copy this file to /etc/mysql/mariadb.conf.d/60-gigavolt-galera.cnf on node 1.
+# Replace every <...> value from config/cluster.env before starting MariaDB.
+# Each node needs its OWN EBS volume mounted at /mnt/gigavolt-mariadb.
+
+[mariadb]
+bind-address=0.0.0.0
+default_storage_engine=InnoDB
+binlog_format=ROW
+innodb_autoinc_lock_mode=2
+innodb_flush_log_at_trx_commit=1
+sync_binlog=1
+wsrep_on=ON
+wsrep_provider=/usr/lib/galera/libgalera_smm.so
+wsrep_cluster_name=gigavolt_galera
+wsrep_cluster_address=gcomm://172.31.32.159,172.31.47.63,172.31.40.154
+wsrep_node_name=gigavolt-node1
+wsrep_node_address=172.31.32.159
+wsrep_sst_method=mariabackup
+wsrep_sst_auth=<SST_USER>:<SST_PASSWORD>
+wsrep_provider_options="gcache.size=2G; gcache.recover=yes"
+datadir=/mnt/gigavolt-mariadb/node1/data
+socket=/mnt/gigavolt-mariadb/node1/mariadb.sock
+pid-file=/run/mysqld/mariadb-node1.pid
+port=3306

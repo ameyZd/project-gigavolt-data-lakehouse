@@ -1,0 +1,21 @@
+# Install on node 2. Values match node 1 except for this node's identity and data path.
+[mariadb]
+bind-address=0.0.0.0
+default_storage_engine=InnoDB
+binlog_format=ROW
+innodb_autoinc_lock_mode=2
+innodb_flush_log_at_trx_commit=1
+sync_binlog=1
+wsrep_on=ON
+wsrep_provider=/usr/lib/galera/libgalera_smm.so
+wsrep_cluster_name=gigavolt_galera
+wsrep_cluster_address=gcomm://172.31.32.159,172.31.47.63,172.31.40.154
+wsrep_node_name=gigavolt-node2
+wsrep_node_address=172.31.47.63
+wsrep_sst_method=mariabackup
+wsrep_sst_auth=<SST_USER>:<SST_PASSWORD>
+wsrep_provider_options="gcache.size=2G; gcache.recover=yes"
+datadir=/mnt/gigavolt-mariadb/node2/data
+socket=/mnt/gigavolt-mariadb/node2/mariadb.sock
+pid-file=/run/mysqld/mariadb-node2.pid
+port=3306

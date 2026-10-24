@@ -1,0 +1,4 @@
+# Install this file first on a CPU-only EC2 instance.
+# It deliberately uses PyTorch's CPU wheel index and avoids NVIDIA/CUDA packages.
+--index-url https://download.pytorch.org/whl/cpu
+torch

@@ -1,0 +1,6 @@
+# Core Milestone 4 vector-search dependencies.
+pypdf>=5.0,<7
+sentence-transformers>=3.0,<4
+chromadb>=0.5,<2
+numpy>=1.26,<3
+matplotlib>=3.8,<4

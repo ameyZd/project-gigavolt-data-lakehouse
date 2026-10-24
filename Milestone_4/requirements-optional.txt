@@ -1,0 +1,3 @@
+# Needed only for scripts/05_embedding/05_build_embeddings.py
+sentence-transformers>=3.0,<4
+numpy>=1.26,<3

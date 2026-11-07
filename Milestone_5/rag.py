@@ -49,10 +49,13 @@ class RagPipeline:
     # ---------------------------------------------------------------- generation
     @staticmethod
     def normalize_citations(text: str) -> str:
-        """Models write tags in different styles: 【VEC2】, [SQL1, MDB2] -> [VEC2], [SQL1][MDB2]."""
-        text = text.replace("【", "[").replace("】", "]")
-        return re.sub(r"\[((?:SQL|MDB|VEC)\d+(?:\s*[,;]\s*(?:SQL|MDB|VEC)\d+)+)\]",
-                      lambda m: "".join(f"[{t.strip()}]" for t in re.split(r"[,;]", m.group(1))), text)
+        """Models write tags in many styles: 【VEC2】, 【MDB1†L3】, (SQL1), [SQL 1], [SQL1, MDB2], bare MDB1.
+        Rewrite every one to the canonical [SQL1][MDB2] form so the citation check sees them all."""
+        def canon(m: re.Match) -> str:
+            tags = re.findall(r"(SQL|MDB|VEC)\s?(\d+)", m.group(1))
+            return "".join(f"[{a}{b}]" for a, b in tags) if tags else m.group(0)
+        text = re.sub(r"[【\[(]([^【】\[\]()]*?(?:SQL|MDB|VEC)\s?\d+[^【】\[\]()]*)[】\])]", canon, text)
+        return re.sub(r"(?<![\[\w])(SQL|MDB|VEC)\s?(\d+)(?![\]\w])", r"[\1\2]", text)
 
     def call_llm(self, prompt: str) -> tuple[str, str, float]:
         """Returns (answer, status, seconds spent waiting on rate limits). Never raises."""

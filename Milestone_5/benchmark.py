@@ -61,7 +61,9 @@ def main() -> None:
             rows.append({"round": rnd, "q": qi, **{s: t.get(s, 0.0) for s in STAGES},
                          "rate_limit_wait_ms": t.get("rate_limit_wait_ms", 0.0),
                          "llm_status": res["llm"], "evidence": len(res["evidence"]),
-                         "cited": f"{c['cited_statements']}/{c['statements']}", "unknown_tags": len(c["unknown_tags"])})
+                         "cited": f"{c['cited_statements']}/{c['statements']}", "cited_n": c["cited_statements"],
+                         "statements_n": c["statements"], "unknown_tags": len(c["unknown_tags"]),
+                         "uncited_lines": " || ".join(c["uncited"])[:500]})
             if rnd == 1:
                 first_round.append(res)
             console.print(f"[{len(rows):>2}/{n_total}] Q{qi} total {t['total_ms']:.0f} ms "
@@ -79,10 +81,13 @@ def main() -> None:
     waited = [r for r in answered if r["rate_limit_wait_ms"] > 0]
     all_rows, rows = rows, answered or rows     # latency stats use runs where the LLM actually answered
     lines = ["# Milestone 5 - RAG latency benchmark", "",
-             f"- LLM answered {len(answered)}/{len(all_rows)} runs; the rest hit the free-tier quota and used the "
-             "evidence-only fallback (excluded from the stats below)",
-             f"- {len(waited)} answered runs waited on the free-tier quota (HTTP 429); that sleep time is reported in "
-             "`benchmark.csv` (`rate_limit_wait_ms`) and excluded from latency",
+             f"- LLM answered {len(answered)}/{len(all_rows)} runs"
+             + ("" if len(answered) == len(all_rows) else
+                "; the others hit the free-tier quota and used the evidence-only fallback (excluded below)"),
+             f"- Runs that waited on the free-tier quota (HTTP 429): {len(waited)}"
+             + (" - that sleep is in `benchmark.csv` (`rate_limit_wait_ms`) and excluded from latency" if waited else ""),
+             f"- Citation coverage: {sum(r['cited_n'] for r in rows)}/{sum(r['statements_n'] for r in rows)} answer "
+             f"statements carry a valid source tag; invented tags: {sum(r['unknown_tags'] for r in rows)}",
              f"- Date: {time.strftime('%Y-%m-%d %H:%M')}  |  LLM: `{rag.model}` via `{rag.base_url}`",
              f"- Runs: {len(all_rows)} ({args.rounds} rounds x {len(TEST_QUESTIONS)} questions); "
              "connections and the embedding model are warmed once at startup (like a running service)",

@@ -11,7 +11,7 @@ back to a specific record.
              keywords) │  ChromaDB (vector)  25 manuals/SOPs/incident reports (Milestone 4 design)
                        └──── run in parallel, every record tagged [SQL1] [MDB2] [VEC3] ─────┘
                                             │
-                prompts/ templates ──► LLM (free Groq Llama 3.3 70B) ──► cited answer
+                prompts/ templates ──► LLM (free Groq gpt-oss-120b) ──► cited answer
                                             │
                         citation check + provenance table + latency breakdown
 ```
@@ -118,7 +118,7 @@ The public IP changes after each restart.
 
 ## Design choices
 
-- **Free and light.** The LLM is Groq's free tier (fast hosted Llama 3.3 70B, typically about 1 s per answer).
+- **Free and light.** The LLM is Groq's free tier (fast hosted openai/gpt-oss-120b, about 2 s per answer).
   Embeddings use ChromaDB's built-in ONNX all-MiniLM-L6-v2, so there's no PyTorch download on the 20 GB disk.
   Any OpenAI-compatible endpoint works by changing `.env`: OpenRouter free models, or a local Ollama.
 - **Preventing hallucination.** The prompt allows only facts from context. Every statement must carry a tag.

@@ -96,7 +96,7 @@ target. All the answers with their full provenance tables are in test_query_resu
 
 **SAY:**
 "Everything is reproducible with one script, setup.sh, on a fresh Ubuntu instance. It uses free tools only:
-MariaDB, MongoDB, ChromaDB, and a free-tier Llama model. Thanks for watching."
+MariaDB, MongoDB, ChromaDB, and a free-tier open-weight model on Groq. Thanks for watching."
 
 ---
 **Timing tips:** If you're running long, cut the 3:30 supplier segment. Don't scroll through the full

@@ -34,7 +34,7 @@ class RagPipeline:
         self.template = (HERE / "prompts" / "answer_template.txt").read_text()
         self.api_key = os.getenv("LLM_API_KEY", "")
         self.base_url = os.getenv("LLM_BASE_URL", "https://api.groq.com/openai/v1").rstrip("/")
-        self.model = os.getenv("LLM_MODEL", "llama-3.3-70b-versatile")
+        self.model = os.getenv("LLM_MODEL", "openai/gpt-oss-120b")
         self.http = requests.Session()   # keep-alive: saves a TLS handshake per question
 
     # ---------------------------------------------------------------- prompt assembly
@@ -51,9 +51,12 @@ class RagPipeline:
         """Returns (answer, status). Never raises: falls back to an extractive answer on any failure."""
         if not self.api_key:
             return "", "no LLM_API_KEY set"
-        body = {"model": self.model, "temperature": 0.1, "max_tokens": 600,
+        body = {"model": self.model, "temperature": 0.1, "max_tokens": 2000,
                 "messages": [{"role": "system", "content": self.system_prompt},
                              {"role": "user", "content": prompt}]}
+        if "gpt-oss" in self.model:   # reasoning model: hidden thinking tokens share max_tokens
+            body["reasoning_effort"] = "low"
+            body["include_reasoning"] = False
         for attempt in range(2):
             try:
                 resp = self.http.post(f"{self.base_url}/chat/completions", json=body, timeout=20,
@@ -63,9 +66,13 @@ class RagPipeline:
                     continue
                 if resp.status_code >= 400:   # surface the provider's message (e.g. model not found)
                     raise RuntimeError(f"HTTP {resp.status_code}: {resp.text[:200]}")
-                text = resp.json()["choices"][0]["message"]["content"] or ""
-                text = re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()   # reasoning models
-                return text, "ok" if attempt == 0 else "ok (after rate-limit retry)"
+                choice = resp.json()["choices"][0]
+                text = re.sub(r"<think>.*?</think>", "", choice["message"]["content"] or "", flags=re.S).strip()
+                status = "ok" if attempt == 0 else "ok (after rate-limit retry)"
+                if choice.get("finish_reason") == "length":    # never pass off a cut-off answer as complete
+                    text += "\n\n*(Answer truncated at the token limit.)*"
+                    status += ", TRUNCATED"
+                return text, status
             except Exception as exc:
                 err = f"{type(exc).__name__}: {str(exc)[:160]}"
         return "", err

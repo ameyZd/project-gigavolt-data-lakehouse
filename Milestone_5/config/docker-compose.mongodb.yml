@@ -1,0 +1,24 @@
+# Alternative to the apt install: run MongoDB as a container.
+#   sudo docker compose -f config/docker-compose.mongodb.yml up -d
+# Data is bind-mounted to the persistent EBS path /opt/data/mongodb.
+# The port is published on 127.0.0.1 only, so MongoDB is not reachable from the internet.
+services:
+  mongodb:
+    image: mongo:8.0
+    container_name: gigavolt-mongo
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - /opt/data/mongodb:/data/db
+    command:
+      - "--bind_ip_all"            # inside the container only; host publishes 127.0.0.1
+      - "--wiredTigerCacheSizeGB"
+      - "0.25"
+      - "--slowms"
+      - "50"
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 6

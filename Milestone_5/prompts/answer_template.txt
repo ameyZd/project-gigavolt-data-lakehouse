@@ -1,0 +1,13 @@
+QUESTION:
+$question
+
+QUERY ROUTING (how the context was gathered):
+$routing
+
+SOURCES CONSULTED:
+$source_inventory
+
+CONTEXT (cite these tags exactly; nothing else is allowed as evidence):
+$context
+
+Write the answer now, following the grounding rules and output format. Every factual sentence or bullet must end with its citation tags.

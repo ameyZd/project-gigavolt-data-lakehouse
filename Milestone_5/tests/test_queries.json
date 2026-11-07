@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q01",
+    "category": "failure_analysis (rubric query 1)",
+    "question": "What are common failure modes for Model X-7000 batteries in high-temperature environments?",
+    "expect_sources": ["sql", "document", "vector"]
+  },
+  {
+    "id": "Q02",
+    "category": "supply_chain (rubric query 2)",
+    "question": "Which suppliers provide lithium cells for our commercial energy storage units?",
+    "expect_sources": ["sql", "document", "vector"]
+  },
+  {
+    "id": "Q03",
+    "category": "unit_history + edge case: unit absent from ERP (rubric query 3)",
+    "question": "Show me service history for equipment unit SN-4829 and related warranty claims",
+    "expect_sources": ["sql", "document", "vector"]
+  },
+  {
+    "id": "Q04",
+    "category": "unit_history with ERP records",
+    "question": "Show me service history for equipment unit EQ-7006 and related warranty claims",
+    "expect_sources": ["sql", "vector"]
+  },
+  {
+    "id": "Q05",
+    "category": "multi-hop: telemetry -> incident report",
+    "question": "What happened to unit SN-X7-0094 on September 28, 2024, and what was the root cause?",
+    "expect_sources": ["document", "vector"]
+  },
+  {
+    "id": "Q06",
+    "category": "component -> supplier risk",
+    "question": "Which telemetry events flagged component CEL-LFP-280, and who supplies that cell?",
+    "expect_sources": ["document", "vector"]
+  },
+  {
+    "id": "Q07",
+    "category": "error-code diagnostics",
+    "question": "What does fault code ERR_FUSE_001 mean and which units are reporting it?",
+    "expect_sources": ["document", "vector"]
+  },
+  {
+    "id": "Q08",
+    "category": "procedure lookup (vector-only routing)",
+    "question": "What are the emergency response stages for confirmed thermal runaway?",
+    "expect_sources": ["vector"]
+  },
+  {
+    "id": "Q09",
+    "category": "warranty analytics by model",
+    "question": "What warranty claim and rejection patterns do we see for X-9000 units?",
+    "expect_sources": ["sql", "vector"]
+  },
+  {
+    "id": "Q10",
+    "category": "edge case: out-of-scope question",
+    "question": "What is the capital of France?",
+    "expect_sources": []
+  }
+]

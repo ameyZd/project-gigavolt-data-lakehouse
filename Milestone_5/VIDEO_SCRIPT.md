@@ -47,8 +47,8 @@ ChromaDB returns the most similar manual and incident-report chunks.
 In the answer, each bullet ends with tags like SQL2, MDB1 or VEC3. The provenance table maps each tag to the
 database, the exact record ID, the document or table, and a timestamp. The bold rows are the ones the answer
 actually used. The citation check confirms every statement is cited and no tag was invented. At the bottom you
-can see retrieval took about a hundred milliseconds and generation took about a second, for a total well under
-five seconds."
+can see retrieval took about a third of a second and generation about one second, so the whole answer arrives
+in about one and a half seconds, well under the five-second target."
 
 ### 2:20 – 3:00 | Live query 2: routing + hallucination prevention
 **ON SCREEN:** run:
@@ -86,10 +86,13 @@ and the bold median line.
 
 **SAY:**
 "For performance, I ran eight test questions three times each, with connections warmed once like a running
-service. The table breaks latency down by stage: SQL, document and vector retrieval run in parallel and together
-take about a tenth of a second. LLM generation is most of the time. The median end-to-end latency is
-[read the P50] seconds, P95 is [read P95], and P99 is [read P99]. That's [X] out of 24 runs under the five-second
-target. All the answers with their full provenance tables are in test_query_results.md."
+service. The LLM answered all 24 runs. The table breaks latency down by stage. SQL and MongoDB each take about
+30 milliseconds, and vector search about 360, and because they run in parallel, retrieval totals about 0.36
+seconds at the median. That's 28 percent of the time; LLM generation, at about 1.07 seconds, is the other
+72 percent. End to end, the median is 1.47 seconds, P95 is 1.95 seconds, and P99 is 2.29 seconds, so all
+24 out of 24 runs finished under the five-second target. For provenance, 173 of 175 answer statements carry a
+valid source tag, which is 99 percent, and the model invented zero tags. All the answers with their full
+provenance tables are in test_query_results.md."
 
 ### 4:35 – 4:50 | Close
 **ON SCREEN:** the `Milestone_5` folder on GitHub.

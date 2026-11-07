@@ -1,0 +1,12 @@
+QUESTION:
+{question}
+
+QUERY ROUTE: {route}
+
+CONTEXT (each record starts with its citation tag and provenance):
+{context}
+
+Write the answer now. Follow the format:
+**Summary:** one sentence with citations.
+- bullet facts, each ending with citation tags
+**Recommended next step:** (only if supported by the context, with citations)

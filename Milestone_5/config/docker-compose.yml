@@ -1,0 +1,21 @@
+# MongoDB document store for Gigavolt IoT telemetry.
+# Data lives in a named Docker volume on the EBS root disk, so it survives
+# AWS Learner Lab stop/start. restart: unless-stopped brings it back on boot.
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: gigavolt-mongo
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:27017:27017"   # localhost only - not exposed to the internet
+    volumes:
+      - mongo_data:/data/db
+    command: ["mongod", "--wiredTigerCacheSizeGB", "0.5"]   # t3.medium has 4 GB RAM
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  mongo_data:

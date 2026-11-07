@@ -28,7 +28,16 @@ cd "$M5_DIR"
 banner() { printf '\n\033[1;36m=== Step %s/6: %s ===\033[0m\n' "$1" "$2"; }
 trap 'echo; echo -e "\033[1;31mSetup stopped at step ${CURRENT:-?}. Fix the error above, then: bash setup/run_all.sh --from ${CURRENT:-0}\033[0m"' ERR
 
-sudo -v   # ask for the sudo password once (EC2's ubuntu user normally has passwordless sudo)
+[[ "$(uname -s)" == Linux ]] || { echo "This setup is for the Ubuntu EC2 instance, not $(uname -s). SSH into EC2 first." >&2; exit 1; }
+if ! sudo -n true 2>/dev/null; then
+  cat >&2 <<MSG
+User '$(whoami)' on $(hostname) cannot use sudo without a password.
+On EC2 the default 'ubuntu' user has password-free sudo. Log in as ubuntu with your key pair:
+    ssh -i <your-key>.pem ubuntu@<instance-public-IP>
+(or EC2 console -> Connect -> EC2 Instance Connect, user name: ubuntu), then run: bash setup/run_all.sh
+MSG
+  exit 1
+fi
 
 # Small instances: MariaDB + MongoDB + PyTorch need headroom. Add 2 GB swap if RAM < 3 GB and no swap exists.
 MEM_KB=$(awk '/MemTotal/ {print $2}' /proc/meminfo)

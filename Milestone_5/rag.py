@@ -61,7 +61,8 @@ class RagPipeline:
                 if resp.status_code == 429 and attempt == 0:      # free-tier rate limit: wait once, retry
                     time.sleep(min(float(resp.headers.get("retry-after", 5)), 15))
                     continue
-                resp.raise_for_status()
+                if resp.status_code >= 400:   # surface the provider's message (e.g. model not found)
+                    raise RuntimeError(f"HTTP {resp.status_code}: {resp.text[:200]}")
                 text = resp.json()["choices"][0]["message"]["content"] or ""
                 text = re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()   # reasoning models
                 return text, "ok" if attempt == 0 else "ok (after rate-limit retry)"

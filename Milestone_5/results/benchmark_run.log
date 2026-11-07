@@ -1,0 +1,17 @@
+[ 1/24] Q1 total 1545 ms (retrieval 398, generation 1146) cited 8/8  openai/gpt-oss-120b - ok
+[ 2/24] Q2 total 2462 ms (retrieval 350, generation 2111) cited 11/11  openai/gpt-oss-120b - ok
+[ 3/24] Q3 total 1340 ms (retrieval 305, generation 1035) cited 5/5  openai/gpt-oss-120b - ok
+[ 4/24] Q4 total 1304 ms (retrieval 406, generation 899) cited 7/7  openai/gpt-oss-120b - ok
+[ 5/24] Q5 total 1712 ms (retrieval 683, generation 1029) cited 5/5  openai/gpt-oss-120b - ok
+[ 6/24] Q6 total 1484 ms (retrieval 321, generation 1163) cited 0/7  openai/gpt-oss-120b - ok
+[ 7/24] Q7 total 1626 ms (retrieval 400, generation 1226) cited 10/10  openai/gpt-oss-120b - ok
+[ 8/24] Q8 total 1213 ms (retrieval 324, generation 889) cited 9/9  openai/gpt-oss-120b - ok
+[ 9/24] Q1 total 1751 ms (retrieval 374, generation 1377) cited 8/8  openai/gpt-oss-120b - ok
+[10/24] Q2 total 1983 ms (retrieval 367, generation 1616) cited 10/10  openai/gpt-oss-120b - ok
+[11/24] Q3 total 1483 ms (retrieval 310, generation 1173) cited 5/5  openai/gpt-oss-120b - ok
+[12/24] Q4 total 1595 ms (retrieval 541, generation 1054) cited 8/8  openai/gpt-oss-120b - ok
+[13/24] Q5 total 2212 ms (retrieval 679, generation 1532) cited 0/8  openai/gpt-oss-120b - ok
+[14/24] Q6 total 1533 ms (retrieval 356, generation 1176) cited 7/7  openai/gpt-oss-120b - ok
+[15/24] Q7 total 1276 ms (retrieval 304, generation 971) cited 10/10  openai/gpt-oss-120b - ok
+[16/24] Q8 total 1266 ms (retrieval 338, generation 927) cited 8/8  openai/gpt-oss-120b - ok
+[17/24] Q1 total 1435 ms (retrieval 330, generation 1105) cited 8/8  openai/gpt-oss-120b - ok

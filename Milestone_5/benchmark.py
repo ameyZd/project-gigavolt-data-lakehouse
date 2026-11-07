@@ -43,7 +43,7 @@ def pct(values: list[float], p: float) -> float:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--rounds", type=int, default=3)
-    ap.add_argument("--pause", type=float, default=10.0)
+    ap.add_argument("--pause", type=float, default=20.0)
     args = ap.parse_args()
     console = Console()
     out_dir = HERE / "results"
@@ -59,6 +59,7 @@ def main() -> None:
             t = res["timings_ms"]
             c = res["citations"]
             rows.append({"round": rnd, "q": qi, **{s: t.get(s, 0.0) for s in STAGES},
+                         "rate_limit_wait_ms": t.get("rate_limit_wait_ms", 0.0),
                          "llm_status": res["llm"], "evidence": len(res["evidence"]),
                          "cited": f"{c['cited_statements']}/{c['statements']}", "unknown_tags": len(c["unknown_tags"])})
             if rnd == 1:
@@ -74,9 +75,16 @@ def main() -> None:
         w.writerows(rows)
 
     # ------------------------------------------------------------- latency report
+    answered = [r for r in rows if " - ok" in r["llm_status"]]
+    waited = [r for r in answered if r["rate_limit_wait_ms"] > 0]
+    all_rows, rows = rows, answered or rows     # latency stats use runs where the LLM actually answered
     lines = ["# Milestone 5 - RAG latency benchmark", "",
+             f"- LLM answered {len(answered)}/{len(all_rows)} runs; the rest hit the free-tier quota and used the "
+             "evidence-only fallback (excluded from the stats below)",
+             f"- {len(waited)} answered runs waited on the free-tier quota (HTTP 429); that sleep time is reported in "
+             "`benchmark.csv` (`rate_limit_wait_ms`) and excluded from latency",
              f"- Date: {time.strftime('%Y-%m-%d %H:%M')}  |  LLM: `{rag.model}` via `{rag.base_url}`",
-             f"- Runs: {len(rows)} ({args.rounds} rounds x {len(TEST_QUESTIONS)} questions); "
+             f"- Runs: {len(all_rows)} ({args.rounds} rounds x {len(TEST_QUESTIONS)} questions); "
              "connections and the embedding model are warmed once at startup (like a running service)",
              "- Retrieval sources run in parallel threads, so `retrieval` is less than the sum of SQL + document + vector",
              f"- Pause of {args.pause}s between questions (free-tier rate limit) is NOT included in latency", "",
@@ -95,7 +103,7 @@ def main() -> None:
               "## Per question (median of rounds, ms)", "", "| # | Question | Retrieval | Generation | Total | Cited |",
               "|---|---|---|---|---|---|"]
     for qi, q in enumerate(TEST_QUESTIONS, 1):
-        qr = [r for r in rows if r["q"] == qi]
+        qr = [r for r in rows if r["q"] == qi] or [r for r in all_rows if r["q"] == qi]
         lines.append(f"| {qi} | {q} | {statistics.median(r['retrieval_ms'] for r in qr):.0f} | "
                      f"{statistics.median(r['generation_ms'] for r in qr):.0f} | "
                      f"{statistics.median(r['total_ms'] for r in qr):.0f} | {qr[0]['cited']} |")
@@ -120,7 +128,8 @@ def main() -> None:
         md.append("")
     (out_dir / "test_query_results.md").write_text("\n".join(md))
 
-    console.print("\n".join(lines[8:8 + len(STAGES) + 4]))
+    start = lines.index("## End-to-end and per-stage latency (ms)")
+    console.print("\n".join(lines[:4] + lines[start:start + len(STAGES) + 6]))
     console.print("[green]Wrote results/benchmark.md, results/benchmark.csv, results/test_query_results.md")
 
 

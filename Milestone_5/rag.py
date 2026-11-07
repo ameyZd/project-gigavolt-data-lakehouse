@@ -47,35 +47,47 @@ class RagPipeline:
         return self.template.format(question=question, route=route_desc, context=self.format_context(evidence))
 
     # ---------------------------------------------------------------- generation
-    def call_llm(self, prompt: str) -> tuple[str, str]:
-        """Returns (answer, status). Never raises: falls back to an extractive answer on any failure."""
+    @staticmethod
+    def normalize_citations(text: str) -> str:
+        """Models write tags in different styles: 【VEC2】, [SQL1, MDB2] -> [VEC2], [SQL1][MDB2]."""
+        text = text.replace("【", "[").replace("】", "]")
+        return re.sub(r"\[((?:SQL|MDB|VEC)\d+(?:\s*[,;]\s*(?:SQL|MDB|VEC)\d+)+)\]",
+                      lambda m: "".join(f"[{t.strip()}]" for t in re.split(r"[,;]", m.group(1))), text)
+
+    def call_llm(self, prompt: str) -> tuple[str, str, float]:
+        """Returns (answer, status, seconds spent waiting on rate limits). Never raises."""
         if not self.api_key:
-            return "", "no LLM_API_KEY set"
+            return "", "no LLM_API_KEY set", 0.0
         body = {"model": self.model, "temperature": 0.1, "max_tokens": 2000,
                 "messages": [{"role": "system", "content": self.system_prompt},
                              {"role": "user", "content": prompt}]}
         if "gpt-oss" in self.model:   # reasoning model: hidden thinking tokens share max_tokens
             body["reasoning_effort"] = "low"
             body["include_reasoning"] = False
-        for attempt in range(2):
+        waited, err = 0.0, "unknown error"
+        for attempt in range(4):
             try:
                 resp = self.http.post(f"{self.base_url}/chat/completions", json=body, timeout=20,
                                       headers={"Authorization": f"Bearer {self.api_key}"})
-                if resp.status_code == 429 and attempt == 0:      # free-tier rate limit: wait once, retry
-                    time.sleep(min(float(resp.headers.get("retry-after", 5)), 15))
+                if resp.status_code == 429 and attempt < 3:      # free-tier quota: wait as told, retry
+                    pause = min(float(resp.headers.get("retry-after", 5)), 20)
+                    time.sleep(pause)
+                    waited += pause
+                    err = "rate limited (HTTP 429) after 3 retries"
                     continue
                 if resp.status_code >= 400:   # surface the provider's message (e.g. model not found)
                     raise RuntimeError(f"HTTP {resp.status_code}: {resp.text[:200]}")
                 choice = resp.json()["choices"][0]
                 text = re.sub(r"<think>.*?</think>", "", choice["message"]["content"] or "", flags=re.S).strip()
-                status = "ok" if attempt == 0 else "ok (after rate-limit retry)"
+                text = self.normalize_citations(text)
+                status = "ok" if not waited else f"ok (waited {waited:.0f}s for free-tier rate limit)"
                 if choice.get("finish_reason") == "length":    # never pass off a cut-off answer as complete
                     text += "\n\n*(Answer truncated at the token limit.)*"
                     status += ", TRUNCATED"
-                return text, status
+                return text, status, waited
             except Exception as exc:
                 err = f"{type(exc).__name__}: {str(exc)[:160]}"
-        return "", err
+        return "", err, waited
 
     @staticmethod
     def extractive_answer(evidence: list[Evidence], reason: str) -> str:
@@ -105,14 +117,17 @@ class RagPipeline:
         timings["prompt_ms"] = (time.perf_counter() - t1) * 1000
 
         t2 = time.perf_counter()
+        waited = 0.0
         if not evidence:
             answer, status = "No relevant records were found in any data source, so I cannot answer this.", "skipped (no context)"
         else:
-            answer, status = self.call_llm(prompt)
+            answer, status, waited = self.call_llm(prompt)
             if not answer:
                 answer = self.extractive_answer(evidence, status)
-        timings["generation_ms"] = (time.perf_counter() - t2) * 1000
-        timings["total_ms"] = (time.perf_counter() - t0) * 1000
+        # Time spent sleeping on the free tier's quota is reported separately, not as system latency.
+        timings["rate_limit_wait_ms"] = waited * 1000
+        timings["generation_ms"] = (time.perf_counter() - t2 - waited) * 1000
+        timings["total_ms"] = (time.perf_counter() - t0 - waited) * 1000
         return {"question": question, "route": route.describe(), "route_reasons": route.reasons,
                 "sources_used": route.sources, "errors": errors, "llm": f"{self.model} - {status}",
                 "answer": answer, "citations": self.check_citations(answer, evidence),
@@ -146,7 +161,9 @@ def show(result: dict, show_context: bool = False) -> None:
     t = result["timings_ms"]
     parts = " | ".join(f"{k[:-3]} {t[k]:.0f}" for k in ("sql_ms", "document_ms", "vector_ms") if k in t)
     console.print(f"[bold]Latency:[/] retrieval {t['retrieval_ms']:.0f} ms ({parts}) + generation "
-                  f"{t['generation_ms']:.0f} ms = [bold]{t['total_ms'] / 1000:.2f} s total[/]")
+                  f"{t['generation_ms']:.0f} ms = [bold]{t['total_ms'] / 1000:.2f} s total[/]"
+                  + (f"  [dim](+{t['rate_limit_wait_ms'] / 1000:.0f} s free-tier quota wait, excluded)[/]"
+                     if t.get("rate_limit_wait_ms") else ""))
 
 
 def save(result: dict) -> Path:

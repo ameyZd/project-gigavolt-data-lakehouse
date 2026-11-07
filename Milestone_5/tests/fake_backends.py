@@ -237,7 +237,7 @@ class MiniCollection:
 
 # ----------------------------------------------------------------------------- simple fakes
 class FakeVector:
-    """Keyword-overlap 'vector' search over Milestone 4 chunks (stands in for ChromaDB)."""
+    """Keyword-overlap 'vector' search over sample PDF chunks (stands in for ChromaDB)."""
 
     source_type = "vector"
 

@@ -50,7 +50,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("question", nargs="*", help="question text (omit with --interactive)")
     parser.add_argument("--interactive", "-i", action="store_true")
-    parser.add_argument("--provider", choices=["anthropic", "openai", "ollama", "extractive"])
+    parser.add_argument("--provider", choices=["groq", "ollama", "anthropic", "openai", "extractive"])
     parser.add_argument("--show-context", action="store_true", help="print the evidence text of each record")
     parser.add_argument("--no-save", action="store_true")
     args = parser.parse_args()

@@ -2,8 +2,8 @@
 # Project Gigavolt | Milestone 5 | Install MongoDB Community on Ubuntu (EC2)
 #
 # Usage:
-#   sudo bash setup/01_install_mongodb.sh            # native apt install (default, recommended)
-#   sudo bash setup/01_install_mongodb.sh docker     # run MongoDB in Docker instead
+#   sudo bash setup/02_install_mongodb.sh            # native apt install (default, recommended)
+#   sudo bash setup/02_install_mongodb.sh docker     # run MongoDB in Docker instead
 #
 # Optional environment variable: MONGO_SERIES=8.0 (MongoDB release series for the apt repo)
 set -Eeuo pipefail

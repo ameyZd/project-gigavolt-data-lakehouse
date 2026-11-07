@@ -66,7 +66,7 @@ class Settings:
     mongo_uri: str
     mongo_db: str
     mongo_collection: str
-    # ChromaDB (Milestone 4 vector store)
+    # ChromaDB vector store (scripts/00_build_vector_store.py)
     chroma_path: Path
     chroma_collection: str
     embedding_model: str
@@ -77,11 +77,15 @@ class Settings:
     anthropic_model: str
     anthropic_effort: str
     openai_api_key: str
+    groq_api_key: str
+    groq_model: str
+    groq_reasoning_effort: str
     openai_model: str
     ollama_url: str
     ollama_model: str
     llm_max_tokens: int
     llm_timeout_s: float
+    llm_min_interval_s: float   # batch scripts pause this long between LLM calls (free-tier rate limits)
     # Retrieval tuning
     vector_top_k: int
     vector_max_distance: float
@@ -93,7 +97,7 @@ class Settings:
     @classmethod
     def from_env(cls, env_file: Path | None = None) -> "Settings":
         load_env_file(env_file)
-        provider = _env("LLM_PROVIDER", "anthropic").lower()
+        provider = _env("LLM_PROVIDER", "groq").lower()
         return cls(
             mariadb_host=_env("MARIADB_HOST", "127.0.0.1"),
             mariadb_port=_env_int("MARIADB_PORT", 3306),
@@ -104,11 +108,11 @@ class Settings:
             mongo_uri=_env("MONGO_URI", "mongodb://127.0.0.1:27017/?appName=gigavolt-rag"),
             mongo_db=_env("MONGO_DB", "gigavolt_iot"),
             mongo_collection=_env("MONGO_COLLECTION", "bms_telemetry"),
-            chroma_path=_resolve(_env("CHROMA_PATH", "../Milestone_4/data/chroma_db")),
+            chroma_path=_resolve(_env("CHROMA_PATH", "data/chroma_db")),
             chroma_collection=_env("CHROMA_COLLECTION", "gigavolt_unstructured_v1"),
             embedding_model=_env("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2"),
             embedding_manifest=_resolve(
-                _env("EMBEDDING_MANIFEST", "../Milestone_4/data/processed/embedding_manifest.json")
+                _env("EMBEDDING_MANIFEST", "data/processed/embedding_manifest.json")
             ),
             llm_provider=provider,
             anthropic_api_key=_env("ANTHROPIC_API_KEY"),
@@ -116,10 +120,15 @@ class Settings:
             anthropic_effort=_env("ANTHROPIC_EFFORT", "low"),
             openai_api_key=_env("OPENAI_API_KEY"),
             openai_model=_env("OPENAI_MODEL", "gpt-4o-mini"),
+            groq_api_key=_env("GROQ_API_KEY"),
+            groq_model=_env("GROQ_MODEL", "openai/gpt-oss-20b"),
+            groq_reasoning_effort=_env("GROQ_REASONING_EFFORT", "low"),
             ollama_url=_env("OLLAMA_URL", "http://127.0.0.1:11434"),
             ollama_model=_env("OLLAMA_MODEL", "llama3.2:3b"),
             llm_max_tokens=_env_int("LLM_MAX_TOKENS", 700),
-            llm_timeout_s=_env_float("LLM_TIMEOUT_S", 20.0),
+            llm_timeout_s=_env_float("LLM_TIMEOUT_S", 120.0 if provider == "ollama" else 20.0),
+            # Groq free tier: ~8K tokens/min and one answer is ~3-4K tokens, so space batch calls ~30 s apart.
+            llm_min_interval_s=_env_float("LLM_MIN_INTERVAL_S", 30.0 if provider == "groq" else 0.0),
             vector_top_k=_env_int("VECTOR_TOP_K", 5),
             vector_max_distance=_env_float("VECTOR_MAX_DISTANCE", 0.80),
             sql_row_limit=_env_int("SQL_ROW_LIMIT", 10),
@@ -133,5 +142,6 @@ class Settings:
         return {
             "anthropic": self.anthropic_model,
             "openai": self.openai_model,
+            "groq": self.groq_model,
             "ollama": self.ollama_model,
         }.get(self.llm_provider, "extractive (no LLM)")

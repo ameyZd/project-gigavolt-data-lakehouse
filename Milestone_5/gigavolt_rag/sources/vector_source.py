@@ -1,6 +1,6 @@
-"""ChromaDB retrieval over the Milestone 4 HNSW collection (technical PDFs).
+"""ChromaDB retrieval over the technical-PDF HNSW collection built by scripts/00_build_vector_store.py.
 
-Re-uses exactly the Milestone 4 artifacts: collection ``gigavolt_unstructured_v1`` (cosine,
+Same design as Milestone 4, rebuilt inside Milestone_5/data: collection ``gigavolt_unstructured_v1`` (cosine,
 M=16, construction_ef=200, search_ef=64) and the ``all-MiniLM-L6-v2`` embedding model.
 The model is loaded once at warm-up so per-question cost is one ~10-30 ms CPU encode.
 """
@@ -16,7 +16,7 @@ from typing import Any
 from ..config import Settings
 from .base import ContextItem, SourceResult
 
-DB_LABEL = "ChromaDB (Milestone 4 HNSW)"
+DB_LABEL = "ChromaDB (HNSW)"
 
 
 class VectorSource:
@@ -46,7 +46,7 @@ class VectorSource:
                     raise RuntimeError("chromadb missing: pip install -r requirements.txt") from error
                 if not self.settings.chroma_path.exists():
                     raise RuntimeError(f"ChromaDB path not found: {self.settings.chroma_path} "
-                                       "(rebuild Milestone 4 stages 01-04 or set CHROMA_PATH)")
+                                       "(run: python scripts/00_build_vector_store.py)")
                 client = chromadb.PersistentClient(path=str(self.settings.chroma_path))
                 self._collection = client.get_collection(self.settings.chroma_collection, embedding_function=None)
 

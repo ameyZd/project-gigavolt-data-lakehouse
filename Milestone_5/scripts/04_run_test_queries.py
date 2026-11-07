@@ -28,7 +28,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--queries", type=Path, default=M5_ROOT / "tests" / "test_queries.json")
     parser.add_argument("--only", nargs="*", help="query IDs to run, e.g. Q01 Q03")
-    parser.add_argument("--provider", choices=["anthropic", "openai", "ollama", "extractive"])
+    parser.add_argument("--provider", choices=["groq", "ollama", "anthropic", "openai", "extractive"])
     parser.add_argument("--quiet", action="store_true", help="do not print each full answer")
     args = parser.parse_args()
 
@@ -42,7 +42,10 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     rows = []
+    if settings.llm_min_interval_s and pipeline.llm.provider != "extractive":
+        print(f"Pacing: {settings.llm_min_interval_s:g} s between questions (free-tier rate limit; not counted in latency)")
     for query in queries:
+        pipeline.llm.cooldown()
         result = pipeline.answer(query["question"])
         name = f"{query['id']}_{slugify(query['question'], 40)}"
         (out_dir / f"{name}.md").write_text(render_markdown(result, f"{query['id']} · {query['category']}"), encoding="utf-8")

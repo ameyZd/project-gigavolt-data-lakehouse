@@ -3,8 +3,8 @@
 
   MariaDB  : connects as the SELECT-only RAG user, counts rows in each vw_rag_* view, server version
   MongoDB  : document count, fault events, units, index list
-  ChromaDB : vector count + HNSW settings from Milestone 4
-  LLM      : (optional --llm) a tiny test request to confirm the API key works
+  ChromaDB : vector count + HNSW settings (built by 00_build_vector_store.py)
+  LLM      : (optional --llm) a tiny test request to confirm the LLM (Groq key / local Ollama) works
 
 Usage:  python scripts/03_check_sources.py [--llm]
 """

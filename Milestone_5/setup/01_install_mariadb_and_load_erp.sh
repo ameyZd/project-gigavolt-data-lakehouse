@@ -4,8 +4,8 @@
 # Milestone 5 does NOT need the Milestone 3 Galera cluster: one MariaDB server on the same
 # EC2 instance as MongoDB and ChromaDB is enough (and keeps every read on localhost).
 #
-#   sudo bash setup/00_install_mariadb_and_load_erp.sh            # install + load if gigavolt_silver is missing
-#   sudo bash setup/00_install_mariadb_and_load_erp.sh --reload   # force a rebuild of bronze + silver
+#   sudo bash setup/01_install_mariadb_and_load_erp.sh            # install + load if gigavolt_silver is missing
+#   sudo bash setup/01_install_mariadb_and_load_erp.sh --reload   # force a rebuild of bronze + silver
 #
 # The load itself reuses Milestone_3/bootstrap/bootstrap_milestones_1_2_standalone.sh, which
 # downloads fall2026.zip, builds gigavolt_bronze -> cleans -> gigavolt_silver, and applies the
@@ -45,4 +45,4 @@ SELECT 'equipment_units' AS table_name, COUNT(*) AS row_count FROM gigavolt_silv
 UNION ALL SELECT 'service_logs',     COUNT(*) FROM gigavolt_silver.service_logs
 UNION ALL SELECT 'warranty_claims',  COUNT(*) FROM gigavolt_silver.warranty_claims
 UNION ALL SELECT 'parts_inventory',  COUNT(*) FROM gigavolt_silver.parts_inventory;"
-echo "MariaDB is ready (single instance). Next: setup/01_install_mongodb.sh"
+echo "MariaDB is ready (single instance). Next: setup/02_install_mongodb.sh"

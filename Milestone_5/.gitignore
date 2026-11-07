@@ -1,7 +1,7 @@
 # secrets
 .env
 
-# raw / generated data (re-created by setup/02 and the loader)
+# raw / generated data (re-created by setup/04_load_data.sh)
 data/raw/
 data/rejected/
 
@@ -17,3 +17,7 @@ __pycache__/
 # personal notes (guide, video script, write-up draft) stay local, like past milestones
 docs/
 .DS_Store
+
+# vector store build outputs (re-created by scripts/00_build_vector_store.py)
+data/processed/
+data/chroma_db/

@@ -1,4 +1,5 @@
-"""LLM clients over plain HTTPS (``requests``): Anthropic, OpenAI, Ollama, plus an extractive fallback.
+"""LLM clients over plain HTTPS (``requests``): Groq (free tier), local Ollama (free, no key), Anthropic,
+OpenAI, plus an extractive no-LLM fallback.
 
 Using the REST APIs directly keeps dependencies small and makes error handling explicit:
 * one retry on timeouts / HTTP 429 / 5xx with a short back-off;
@@ -18,6 +19,7 @@ from .config import Settings
 
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"  # OpenAI-compatible endpoint
 
 
 @dataclass
@@ -42,12 +44,14 @@ class LLMClient:
         self.settings = settings
         self.provider = (provider or settings.llm_provider).lower()
         self._session = None
+        self._last_call_end = 0.0
 
     @property
     def model(self) -> str:
         return {
             "anthropic": self.settings.anthropic_model,
             "openai": self.settings.openai_model,
+            "groq": self.settings.groq_model,
             "ollama": self.settings.ollama_model,
         }.get(self.provider, "extractive")
 
@@ -64,11 +68,25 @@ class LLMClient:
             return False, "ANTHROPIC_API_KEY is not set"
         if self.provider == "openai" and not self.settings.openai_api_key:
             return False, "OPENAI_API_KEY is not set"
-        if self.provider not in {"anthropic", "openai", "ollama", "extractive"}:
+        if self.provider == "groq" and not self.settings.groq_api_key:
+            return False, "GROQ_API_KEY is not set (free key: https://console.groq.com/keys)"
+        if self.provider not in {"anthropic", "openai", "groq", "ollama", "extractive"}:
             return False, f"unknown LLM_PROVIDER '{self.provider}'"
         return True, "configured"
 
     # ------------------------------------------------------------------ public
+    def cooldown(self) -> float:
+        """Batch scripts call this BEFORE a timed question so free-tier rate limits are never hit.
+
+        The wait happens outside the measured pipeline, so it never inflates reported latency.
+        Returns the seconds slept.
+        """
+        gap = self.settings.llm_min_interval_s - (time.monotonic() - self._last_call_end)
+        if self._last_call_end and gap > 0 and self.provider not in ("extractive",):
+            time.sleep(gap)
+            return gap
+        return 0.0
+
     def generate(self, system: str, user: str) -> LLMResponse:
         response = LLMResponse(provider=self.provider, model=self.model)
         ok, reason = self.available()
@@ -84,11 +102,14 @@ class LLMClient:
                 self._anthropic(system, user, response)
             elif self.provider == "openai":
                 self._openai(system, user, response)
+            elif self.provider == "groq":
+                self._groq(system, user, response)
             else:
                 self._ollama(system, user, response)
         except Exception as error:  # network errors, JSON errors, ...
             response.error = f"{error.__class__.__name__}: {error}"
         response.elapsed_ms = (time.perf_counter() - started) * 1000
+        self._last_call_end = time.monotonic()
         if not response.error and not response.text.strip():
             response.error = "LLM returned an empty answer"
         return response
@@ -121,7 +142,14 @@ class LLMClient:
                 continue
             if http.status_code in (429, 500, 502, 503, 504, 529) and attempt < 3:
                 last_error = f"HTTP {http.status_code}: {detail}"
-                time.sleep(0.6 * attempt)
+                wait = 0.6 * attempt
+                if http.status_code == 429:  # rate limited: honour Retry-After (capped) instead of hammering
+                    try:
+                        wait = min(30.0, float(http.headers.get("retry-after", "5")))
+                    except ValueError:
+                        wait = 5.0
+                    response.notes.append(f"rate limited (HTTP 429); waited {wait:.0f} s before retrying")
+                time.sleep(wait)
                 continue
             raise RuntimeError(f"HTTP {http.status_code}: {detail}")
         raise RuntimeError(last_error or "request failed")
@@ -164,12 +192,30 @@ class LLMClient:
         response.input_tokens, response.output_tokens = usage.get("prompt_tokens"), usage.get("completion_tokens")
         response.model = data.get("model", response.model)
 
+    def _groq(self, system: str, user: str, response: LLMResponse) -> None:
+        headers = {"Authorization": f"Bearer {self.settings.groq_api_key}", "Content-Type": "application/json"}
+        body: dict[str, Any] = {
+            "model": self.settings.groq_model,
+            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
+            # gpt-oss models reason before answering; reasoning tokens share this budget, so leave headroom.
+            "max_completion_tokens": self.settings.llm_max_tokens + 600,
+            "temperature": 0,
+            "reasoning_effort": self.settings.groq_reasoning_effort,
+        }
+        data = self._post(GROQ_URL, headers, body, ("reasoning_effort", "temperature"), response)
+        response.text = data["choices"][0]["message"].get("content") or ""
+        usage = data.get("usage", {})
+        response.input_tokens, response.output_tokens = usage.get("prompt_tokens"), usage.get("completion_tokens")
+        response.model = data.get("model", response.model)
+
     def _ollama(self, system: str, user: str, response: LLMResponse) -> None:
         body = {
             "model": self.settings.ollama_model,
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
             "stream": False,
-            "options": {"temperature": 0, "num_predict": self.settings.llm_max_tokens},
+            "keep_alive": "60m",  # keep the model in RAM between questions (no reload per question)
+            # num_ctx: Ollama's default context window would silently cut off our ~3-4K-token prompts.
+            "options": {"temperature": 0, "num_predict": self.settings.llm_max_tokens, "num_ctx": 8192},
         }
         data = self._post(self.settings.ollama_url.rstrip("/") + "/api/chat", {}, body, (), response)
         response.text = data.get("message", {}).get("content", "")

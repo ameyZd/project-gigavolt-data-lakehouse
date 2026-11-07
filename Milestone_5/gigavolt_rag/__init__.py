@@ -3,7 +3,7 @@
 Data sources
 ------------
 * MariaDB (``gigavolt_silver``)             -> structured ERP facts       (citation prefix ``S``)
-* ChromaDB HNSW (Milestone 4 collection)    -> technical PDF passages     (citation prefix ``V``)
+* ChromaDB HNSW (``data/chroma_db``)        -> technical PDF passages     (citation prefix ``V``)
 * MongoDB (``gigavolt_iot.bms_telemetry``)  -> IoT/BMS telemetry events   (citation prefix ``D``)
 
 The graph database (Neo4j) was removed from Milestone 5 by the instructor's

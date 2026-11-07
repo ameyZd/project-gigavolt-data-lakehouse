@@ -4,8 +4,9 @@
 #   pip install -r requirements.txt
 pymongo>=4.6,<5            # MongoDB document store (IoT telemetry)
 PyMySQL>=1.1,<2            # MariaDB ERP reads (pure Python, no client libs needed)
-chromadb>=0.5,<2           # Milestone 4 vector store (HNSW)
-sentence-transformers>=3.0,<4   # all-MiniLM-L6-v2 query embeddings (same model as Milestone 4)
+chromadb>=0.5,<2           # vector store (HNSW)
+pypdf>=5.0,<7               # PDF text extraction for the vector store build
+sentence-transformers>=3.0,<4   # all-MiniLM-L6-v2 query embeddings (same model as Milestone 4, built locally)
 numpy>=1.26,<3
 requests>=2.31,<3          # LLM REST calls (Anthropic / OpenAI / Ollama)
 matplotlib>=3.8,<4         # latency benchmark chart

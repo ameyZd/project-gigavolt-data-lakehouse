@@ -43,7 +43,7 @@ def main() -> None:
     args = parser.parse_args()
 
     if not args.file.exists():
-        raise SystemExit(f"Missing {args.file}. Run: bash setup/02_download_telemetry.sh")
+        raise SystemExit(f"Missing {args.file}. Run: bash setup/04_load_data.sh")
     try:
         from pymongo import MongoClient, ReplaceOne
         from pymongo.errors import BulkWriteError, CollectionInvalid

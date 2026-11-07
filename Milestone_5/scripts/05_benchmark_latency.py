@@ -10,7 +10,7 @@ Outputs in output/benchmark/:
   latency_report.md      tables for the write-up / video
   latency_profile.png    P50 & P95 per stage + end-to-end distribution vs the 5 s target
 
-Usage:  python scripts/05_benchmark_latency.py [--repeats 3] [--warmup 1] [--provider anthropic]
+Usage:  python scripts/05_benchmark_latency.py [--repeats 3] [--warmup 1] [--provider groq]
 """
 
 from __future__ import annotations
@@ -134,7 +134,7 @@ def main() -> None:
     parser.add_argument("--queries", type=Path, default=M5_ROOT / "tests" / "test_queries.json")
     parser.add_argument("--repeats", type=int, default=3)
     parser.add_argument("--warmup", type=int, default=1)
-    parser.add_argument("--provider", choices=["anthropic", "openai", "ollama", "extractive"])
+    parser.add_argument("--provider", choices=["groq", "ollama", "anthropic", "openai", "extractive"])
     parser.add_argument("--include-edge-cases", action="store_true", help="also time the out-of-scope question")
     args = parser.parse_args()
 
@@ -148,15 +148,23 @@ def main() -> None:
     cold_start_s = time.perf_counter() - cold_started
     print(f"Cold start (connections + model load): {cold_start_s:.2f} s  {warm_status}")
 
+    paced = settings.llm_min_interval_s > 0 and pipeline.llm.provider != "extractive"
+    if paced:
+        print(f"Pacing: {settings.llm_min_interval_s:g} s between LLM calls (free-tier rate limit). "
+              "Waits happen BEFORE each timed question and are excluded from every latency number.")
     for _ in range(args.warmup):
-        for query in queries:
+        # With a rate-limited free tier, one warm-up question is enough to open the HTTPS connection.
+        for query in (queries[:1] if paced else queries):
+            pipeline.llm.cooldown()
             pipeline.answer(query["question"])
     print(f"Warm-up passes done ({args.warmup}). Timing {len(queries)} questions x {args.repeats} repeats ...")
 
     rows = []
+    paused_s = 0.0
     wall_started = time.perf_counter()
     for repeat in range(1, args.repeats + 1):
         for query in queries:
+            paused_s += pipeline.llm.cooldown()
             result = pipeline.answer(query["question"])
             row = {"repeat": repeat, "id": query["id"], "mode": result.mode,
                    "coverage_pct": round(result.provenance.coverage_pct, 1) if result.provenance else None}
@@ -164,7 +172,7 @@ def main() -> None:
             rows.append(row)
             print(f"  r{repeat} {query['id']}: {row['total'] / 1000:.2f} s (retrieval {row['retrieval.retrieval_total']:.0f} ms,"
                   f" LLM {row['llm_generation']:.0f} ms) {result.mode}")
-    wall_s = time.perf_counter() - wall_started
+    wall_s = time.perf_counter() - wall_started - paused_s  # rate-limit pauses are not pipeline time
 
     summary = {key: summarize([r[key] for r in rows if key in r]) for key, _ in STAGES}
     llm_runs = [r for r in rows if r["mode"] == "llm"]

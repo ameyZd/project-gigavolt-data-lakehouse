@@ -95,11 +95,13 @@ valid source tag, which is 99 percent, and the model invented zero tags. All the
 provenance tables are in test_query_results.md."
 
 ### 4:35 – 4:50 | Close
-**ON SCREEN:** the `Milestone_5` folder on GitHub.
+**ON SCREEN:** scroll back to the X-7000 answer from query 1, with its provenance table visible.
 
 **SAY:**
-"Everything is reproducible with one script, setup.sh, on a fresh Ubuntu instance. It uses free tools only:
-MariaDB, MongoDB, ChromaDB, and a free-tier open-weight model on Groq. Thanks for watching."
+"To sum up: a field engineer now gets one answer that combines the unit's ERP service history, its live
+telemetry faults, and the right manual page, in under two seconds, with every fact traceable to a record. When
+the data isn't there, the system says so instead of guessing. In Milestone 6, I'll automate this pipeline end to
+end and tune it further. Thanks for watching."
 
 ---
 **Timing tips:** If you're running long, cut the 3:30 supplier segment. Don't scroll through the full

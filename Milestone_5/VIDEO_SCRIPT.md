@@ -88,20 +88,17 @@ and the bold median line.
 "For performance, I ran eight test questions three times each, with connections warmed once like a running
 service. The LLM answered all 24 runs. The table breaks latency down by stage. SQL and MongoDB each take about
 30 milliseconds, and vector search about 360, and because they run in parallel, retrieval totals about 0.36
-seconds at the median. That's 28 percent of the time; LLM generation, at about 1.07 seconds, is the other
-72 percent. End to end, the median is 1.47 seconds, P95 is 1.95 seconds, and P99 is 2.29 seconds, so all
-24 out of 24 runs finished under the five-second target. For provenance, 173 of 175 answer statements carry a
-valid source tag, which is 99 percent, and the model invented zero tags. All the answers with their full
+seconds at the median. That's 26 percent of the time; LLM generation, at about 1.05 seconds, is the other
+74 percent. End to end, the median is 1.45 seconds, P95 is 2.17 seconds, and P99 is 2.56 seconds, so all
+24 out of 24 runs finished under the five-second target. For provenance, all 182 of 182 answer statements carry
+a valid source tag, which is 100 percent, and the model invented zero tags. All the answers with their full
 provenance tables are in test_query_results.md."
 
 ### 4:35 – 4:50 | Close
 **ON SCREEN:** scroll back to the X-7000 answer from query 1, with its provenance table visible.
 
 **SAY:**
-"To sum up: a field engineer now gets one answer that combines the unit's ERP service history, its live
-telemetry faults, and the right manual page, in under two seconds, with every fact traceable to a record. When
-the data isn't there, the system says so instead of guessing. In Milestone 6, I'll automate this pipeline end to
-end and tune it further. Thanks for watching."
+"To sum up: a field engineer now gets one answer that combines the unit’s ERP service history, its live telemetry faults, and the right manual page, in under two seconds, with every fact traceable to a record. When the data isn’t there, the system says so instead of guessing. In Milestone 6, I’ll automate this pipeline end to end and tune it further. Thanks for watching."
 
 ---
 **Timing tips:** If you're running long, cut the 3:30 supplier segment. Don't scroll through the full
